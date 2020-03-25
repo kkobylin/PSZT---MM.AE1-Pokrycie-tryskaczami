@@ -1,11 +1,11 @@
-height = 4;
-width = 7;
-r = 1;
+width = 12;
+height = 5;
 rectangle('Position', [0 0 width height], 'FaceColor', '#FF00FF');
 hold on;
-circle(1, 3, 2);
-circle(4, 2, 4);
- circle(1, 1, 2);
+
+circle(6, 2, 3);
+circle(4, 2, 3);
+circle(10, 4, 3);
 % for i = 1 : height - 1
 %     for j = 1:  width - 1
 %         circle(j, i, 1);

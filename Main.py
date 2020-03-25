@@ -1,6 +1,6 @@
 import re
 import numpy as np
-import IntersectArea
+import EvolutionaryAlgorithm
 
 
 def load_params():
@@ -9,7 +9,7 @@ def load_params():
     for i in range(0, 4):
         params[i] = re.sub('[a-zA-z" "="\n"]', '',
                            params[i])  # usuwanie liter a-z, A-Z, spacji i równości, aby zosta ły liczby
-    input.close();
+    input.close()
     return params
 
 
@@ -24,23 +24,18 @@ def main():
     y = int(params[1])
     r = int(params[2])
     eff = int(params[3])
-    # precision
-    prec = 1e-3
+    if x < 2 or y < 2 or r < 1 or eff < 0 or eff > 100:
+        raise Exception("Wrong arguments exception")
 
-    # Miejsce na dzialanie algorytmu
-    circles = [
-        (1, 3, 2),
-        (4, 2, 4),
-        (1, 1, 2)
-    ]
+    precision = 1e-3
+
+    (m, percent) = EvolutionaryAlgorithm.alg(x, y, r, eff, precision)
+    m.print_circles()
+
     # todo Na razie blad okolo 0.004 nawet jesli pokrywa cale pole
-    whole_area = IntersectArea.area_scan(prec, circles, y_max=y, x_max=x)
-    percent = whole_area/(x*y)*100
     formatted_percent = "{:.3f}".format(percent)
     print("Pokrycie tryskaczy wynosi " + formatted_percent + "%")
-    print("Rozstawienie tryskaczy: \n" + "[x,y]")
-    for c in circles:
-        print(str(c[1]) + "," + str(c[2]))
+    print("Ilosc tryskaczy = " + str(m.circles.__len__()))
 
 
 if __name__ == "__main__":
