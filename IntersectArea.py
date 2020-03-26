@@ -1,6 +1,7 @@
 from math import floor, ceil, sqrt
 
 
+# todo mozna podawac promien do funkcji zamiast trzymac ja w circles
 def area_scan(prec, circs, y_max, x_max):
     # circle(cx, cy, r)
     # Zwracamy zakresy x z tym dr

@@ -1,13 +1,15 @@
 import Member
 import IntersectArea
 from math import ceil
+import numpy.random as random
 
 
 # (1 + 1) Algorithm
 def alg(width, height, radius, min_eff, prec):
     # todo ten wzor mozna przemyslec
     def rate_calculate(area, number):
-        return area / (number * width * height)
+        perc = area/ (width * height)
+        return (perc * 10)**2 / number
 
     x = Member.Member(width, height, radius)
     m = 10
@@ -26,10 +28,13 @@ def alg(width, height, radius, min_eff, prec):
     # how good solution is
 
     # Warunki petli zeby nie wyrzucil milion kolek z 1 iteracji
-    while eff < min_eff or x.number > ceil((width + height) / radius):
+    # todo taki sposob nie daje najmniejszej liczby tryskaczy
+    while eff < min_eff or x.number > ceil(((width + height) / radius)*min_eff):
         i = i + 1
-        # todo Generowanie potomka y = x + sigmaE
-        y = Member.Member(width, height, radius)
+        # srednia na minusie zeby czesciej zmniejszac liczbe kolek
+        norm = random.normal(-0.2, sigma)
+        y = Member.Member(width, height, radius, False)
+        y.mutate(x, norm)
         x_area = IntersectArea.area_scan(prec, x.circles.copy(), y_max=height, x_max=width)
         y_area = IntersectArea.area_scan(prec, y.circles.copy(), y_max=height, x_max=width)
         x_rate = rate_calculate(x_area, x.number)
@@ -46,8 +51,10 @@ def alg(width, height, radius, min_eff, prec):
                 sigma = sigma * c1
             elif fi / m > 0.2:
                 sigma = sigma * c2
+            fi = 0
 
         if sigma < sigma_min or i > 500:
+            print("sigma = " + str(sigma))
             break
 
     print(i)
