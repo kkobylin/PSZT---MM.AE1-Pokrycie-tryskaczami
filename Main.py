@@ -1,5 +1,4 @@
 import re
-import numpy as np
 import EvolutionaryAlgorithm
 
 
@@ -11,11 +10,6 @@ def load_params():
                            params[i])  # usuwanie liter a-z, A-Z, spacji i równości, aby zosta ły liczby
     input.close()
     return params
-
-
-# Raczej bedziemy trzymac w Liscie kolek (List of Tuples)
-def create_matrix(x, y):
-    return np.ones((x - 1, y - 1), dtype=np.int32)
 
 
 def main():
