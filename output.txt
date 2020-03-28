@@ -1,8 +1,4 @@
-circle(3, 1, 1);
+circle(1, 1, 1);
+circle(3, 4, 1);
 circle(1, 4, 1);
-circle(2, 2, 1);
-circle(4, 2, 1);
-circle(4, 3, 1);
-circle(1, 2, 1);
-circle(4, 4, 1);
-circle(2, 4, 1);
+circle(3, 3, 1);
