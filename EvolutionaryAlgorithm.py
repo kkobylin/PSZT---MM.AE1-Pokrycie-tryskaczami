@@ -53,7 +53,7 @@ def alg(width, height, radius, min_eff, prec):
             elif fi / m > 0.2:
                 sigma = sigma * c2
             fi = 0
-
+        print("iteration = " + str(i) +  ":  eff = " + str(eff) + ", sprinklers = " + str(x.number))
         if i > 500:
             print("Too much iterations")
             break

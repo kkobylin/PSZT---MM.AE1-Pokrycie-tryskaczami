@@ -28,8 +28,11 @@ class Member:
                 self.circles.append((x, y, radius))
 
     def print_circles(self):
+        output = open("output.txt", "w")  # otwieranie pliku
         for c in self.circles:
-            print("circle" + str(c) + ";")
+            output.write("circle" + str(c) + ";\n")
+        output.write("grid on")
+        output.close()
 
     def mutate(self, other, norm):
         self.circles = []
