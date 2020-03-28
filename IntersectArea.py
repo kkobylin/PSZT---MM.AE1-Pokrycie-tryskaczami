@@ -2,7 +2,7 @@ from math import floor, ceil, sqrt
 
 
 # todo mozna podawac promien do funkcji zamiast trzymac ja w circles
-def area_scan(prec, circs, y_max, x_max):
+def area_scan(prec, circs, x_max, y_max):
     # circle(cx, cy, r)
     # Zwracamy zakresy x z tym dr
     def sect(cx, cy, r, y):
@@ -21,7 +21,7 @@ def area_scan(prec, circs, y_max, x_max):
     total = 0
     # Po osi Y wszystkie y od mins do maxs z krokiem co prec
     for y in (prec * x for x in range(mins, maxs + 1)):
-        if 0 <= y <= y_max:
+        if 0 <= y < y_max:
             # Maksymalny x na prawo
             right = -float("inf")
 
@@ -30,10 +30,10 @@ def area_scan(prec, circs, y_max, x_max):
                                    for (cx, cy, r) in circs
                                    if abs(y - cy) < r):
                 # Ograniczenie na wielkosc pola
-                if x0 < 0 + prec:
-                    x0 = 0 + prec
-                if x1 > x_max - prec:
-                    x1 = x_max - prec
+                if x0 < 0:
+                    x0 = 0
+                if x1 > x_max:
+                    x1 = x_max
 
                 if x1 <= right:
                     continue

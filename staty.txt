@@ -1,0 +1,36 @@
+IntersectArea:
+	x,y,r,eff = 2,2,1,75
+	iterations = 390
+	czas = 13.96
+	
+	sigma/3 - 330 ite i 11.21s
+	
+	z sigma/3
+	x,y,r,eff = 5,5,2,75
+	iterations = 320
+	czas = 77,98
+	
+	to samo z sigma normalna
+	360 iteracji, 75.36s
+
+	
+10,10,1,75
+precision = 1e-3:
+	410 iteracji
+	pokrycie = 75,204%
+	ilosc tryskaczy = 39
+	Czas = 1016.5594
+
+precision = 1e-2:
+	410 iteracji
+	pokrycie 76.258 (podobno)
+	ilosc = 39
+	czas 102
+
+	
+Scan1  coverage:3.78 time: 0.0002534
+Scan2  coverage:3.979800000000007 time: 0.0021184999999999997
+Scan3  coverage:3.9979980000000808 time: 0.0102947
+Scan4  coverage:3.9997999800001156 time: 0.0756393
+
+
