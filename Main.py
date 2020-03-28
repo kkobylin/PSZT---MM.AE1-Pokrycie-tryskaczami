@@ -1,5 +1,7 @@
 import re
 import EvolutionaryAlgorithm
+import time
+import IntersectArea
 
 
 def load_params():
@@ -21,15 +23,20 @@ def main():
     if x < 2 or y < 2 or r < 1 or eff < 0 or eff > 100:
         raise Exception("Wrong arguments exception")
 
-    precision = 1e-3
+    precision = 1e-2
 
+    start = time.perf_counter()
     (m, percent) = EvolutionaryAlgorithm.alg(x, y, r, eff, precision)
+    stop = time.perf_counter()
     m.print_circles()
 
-    # todo Na razie blad okolo 0.004 nawet jesli pokrywa cale pole
     formatted_percent = "{:.3f}".format(percent)
     print("Pokrycie tryskaczy wynosi " + formatted_percent + "%")
     print("Ilosc tryskaczy = " + str(m.circles.__len__()))
+    print("Czas : " + str(stop - start))
+    more_precised_percent = IntersectArea.area_scan(1e-3, m.circles, x, y)/(x*y) * 100
+    formatted_percent = "{:.3f}".format(more_precised_percent)
+    print("Prawdziwe pokrycie = " + str(formatted_percent))
 
 
 if __name__ == "__main__":

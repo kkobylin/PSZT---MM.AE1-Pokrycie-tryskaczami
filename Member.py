@@ -34,11 +34,12 @@ class Member:
         output.write("grid on")
         output.close()
 
-    def mutate(self, other, norm):
+    def mutate(self, other, norm, mutate_circles=True):
         self.circles = []
         width = self.width
         height = self.height
         self.fill_matrix = np.zeros((width - 1, height - 1), dtype=bool)
+        # todo czy mutacja nie jest za duza
         mutation = other.number * norm
         # Mutate number of circles
         self.number = round(other.number + mutation)
@@ -63,39 +64,47 @@ class Member:
             self.fill_matrix[x - 1, y - 1] = True
             self.circles.append((x, y, self.radius))
 
-        # Mutate every 3rd circle
+        # Mutate every 5th circle
         #todo moze da sie to jakos zoptymalizowac
-        for i in range(0, self.number, 3):
+        if mutate_circles:
+            for i in range(0, self.number, 5):
 
-            # index of circle to mutate
-            nr = randint(0, self.number)
-            empty_fields = np.where(self.fill_matrix == False)
-            if empty_fields[0].__len__() == 0:
-                break
-            x_old = self.circles[nr][0]
-            y_old = self.circles[nr][1]
-            x_new = round(x_old + x_old * norm)
-            y_new = round(y_old + y_old * norm)
-            if x_new >= width - 1:
-                x_new = width - 1
-            elif x_new < 1:
-                x_new = 1
-            if y_new >= height - 1:
-                y_new = height - 1
-            elif y_new < 1:
-                y_new = 1
+                # index of circle to mutate
+                nr = randint(0, self.number)
+                empty_fields = np.where(self.fill_matrix == False)
+                if empty_fields[0].__len__() == 0:
+                    break
+                x_old = self.circles[nr][0]
+                y_old = self.circles[nr][1]
+                # Mutate only x or only y, not both
+                x_or_y = randint(0, 2)
+                if x_or_y:
+                    x_new = round(x_old + x_old * norm)
+                    y_new = y_old
+                    if x_new >= width - 1:
+                        x_new = width - 1
+                    elif x_new < 1:
+                        x_new = 1
+                else:
+                    x_new = x_old
+                    y_new = round(y_old + y_old * norm)
+                    if y_new >= height - 1:
+                        y_new = height - 1
+                    elif y_new < 1:
+                        y_new = 1
+                # Distance from empty places - mean square
+                distance = []
+                for k in range(empty_fields[0].__len__()):
+                    dis = (empty_fields[0][k] - x_new) ** 2 + (empty_fields[1][k] - y_new) ** 2
+                    distance.append(dis)
+                    if dis < 1:
+                        break
 
-            # Distance from empty places - mean square
-            distance = []
-            for k in range(empty_fields[0].__len__()):
-                dis = (empty_fields[0][k] - x_new) ** 2 + (empty_fields[1][k] - y_new) ** 2
-                distance.append(dis)
-
-            x_new = empty_fields[0][np.argmin(distance)] + 1
-            y_new = empty_fields[1][np.argmin(distance)] + 1
-            # Remove circle before mutation
-            self.fill_matrix[x_old - 1, y_old - 1] = False
-            del(self.circles[nr])
-            # Add circle after mutation
-            self.fill_matrix[x_new - 1, y_new - 1] = True
-            self.circles.append((x_new, y_new, self.radius))
+                x_new = empty_fields[0][np.argmin(distance)] + 1
+                y_new = empty_fields[1][np.argmin(distance)] + 1
+                # Remove circle before mutation
+                self.fill_matrix[x_old - 1, y_old - 1] = False
+                del(self.circles[nr])
+                # Add circle after mutation
+                self.fill_matrix[x_new - 1, y_new - 1] = True
+                self.circles.append((x_new, y_new, self.radius))
