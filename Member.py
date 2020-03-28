@@ -31,7 +31,6 @@ class Member:
         output = open("output.txt", "w")  # otwieranie pliku
         for c in self.circles:
             output.write("circle" + str(c) + ";\n")
-        output.write("grid on")
         output.close()
 
     def mutate(self, other, norm, mutate_circles=True):
