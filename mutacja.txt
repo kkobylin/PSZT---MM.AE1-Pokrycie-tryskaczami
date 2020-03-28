@@ -1,0 +1,70 @@
+(20, 9, 3, 92) m = 20, sigma = min(width, height)/(radius**2) * 2, sigma_min = 1e-3
+Mutate every 2nd:
+	780
+	Pokrycie tryskaczy wynosi 92.093%
+	Ilosc tryskaczy = 13
+	Czas : 114.5642026
+	Prawdziwe pokrycie = 92.121
+	780
+	Pokrycie tryskaczy wynosi 92.341%
+	Ilosc tryskaczy = 18
+	Czas : 170.5178021
+	Prawdziwe pokrycie = 92.353
+	800
+	Pokrycie tryskaczy wynosi 92.576%
+	Ilosc tryskaczy = 16
+	Czas : 163.00897329999998
+	Prawdziwe pokrycie = 92.616
+Mutate every 5th:
+	780
+	Pokrycie tryskaczy wynosi 92.057%
+	Ilosc tryskaczy = 13
+	Czas : 137.3162933
+	Prawdziwe pokrycie = 92.083
+	780
+	Pokrycie tryskaczy wynosi 92.576%
+	Ilosc tryskaczy = 10
+	Czas : 109.4964308
+	Prawdziwe pokrycie = 92.588
+	800
+	Pokrycie tryskaczy wynosi 92.901%
+	Ilosc tryskaczy = 10
+	Czas : 114.5647161
+	Prawdziwe pokrycie = 92.900
+Bez mutacji kol:
+	780
+	Pokrycie tryskaczy wynosi 92.003%
+	Ilosc tryskaczy = 12
+	Czas : 110.34122190000001
+	Prawdziwe pokrycie = 92.002
+	780
+	Pokrycie tryskaczy wynosi 92.074%
+	Ilosc tryskaczy = 13
+	Czas : 117.9720001
+	Prawdziwe pokrycie = 92.065
+	800
+	Pokrycie tryskaczy wynosi 92.323%
+	Ilosc tryskaczy = 10
+	Czas : 108.6709401
+	Prawdziwe pokrycie = 92.355
+every 5th and mutate_circle condition:
+	780
+	Pokrycie tryskaczy wynosi 92.836%
+	Ilosc tryskaczy = 10
+	Czas : 110.1840505
+	Prawdziwe pokrycie = 92.832
+	780
+	Pokrycie tryskaczy wynosi 92.023%
+	Ilosc tryskaczy = 9
+	Czas : 100.502233
+	Prawdziwe pokrycie = 92.020
+	780
+	Pokrycie tryskaczy wynosi 92.275%
+	Ilosc tryskaczy = 14
+	Czas : 138.1758783
+	Prawdziwe pokrycie = 92.283
+	780
+	Pokrycie tryskaczy wynosi 92.028%
+	Ilosc tryskaczy = 13
+	Czas : 139.31797020000002
+	Prawdziwe pokrycie = 92.016
