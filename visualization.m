@@ -4,8 +4,8 @@ while ~feof(input)
     eval(param);
 end
 fclose(input);
-rectangle('Position', [0 0 x y]);
-axis([0-r, x+r, 0-r, y+r]);
+rectangle('Position', [0 0 width height]);
+axis([0-radius, width+radius, 0-radius, height+radius]);
 grid on;
 output = fopen('output.txt', 'r');
 while ~feof(output)

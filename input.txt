@@ -1,4 +1,4 @@
-x = 4
-y = 5
-r = 1
-eff = 50
+width = 4;
+height = 5;
+radius = 1;
+min_coverage = 50;

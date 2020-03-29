@@ -131,6 +131,3 @@ dmypy.json
 #pycharm
 .idea
 
-#our files
-input.txt
-output.txt
