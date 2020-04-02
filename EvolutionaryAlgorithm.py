@@ -1,6 +1,7 @@
 import Member
 import IntersectArea
 import numpy.random as random
+import copy
 
 
 # (1 + 1) Algorithm
@@ -28,8 +29,9 @@ def alg(width, height, radius, min_coverage, precision):
     while coverage < min_coverage or sigma > sigma_min:
         i = i + 1
         norm = random.normal(0, sigma)
-        y = Member.Member(width, height, radius, False)
-        y.mutate(x, norm)
+        #y = Member.Member(width, height, radius, False)
+        y = copy.deepcopy(x)
+        y.mutate(norm)
         if x_changed:
             x_area = IntersectArea.area_scan(precision, x.circles.copy(), width, height)
         y_area = IntersectArea.area_scan(precision, y.circles.copy(), width, height)
@@ -51,7 +53,8 @@ def alg(width, height, radius, min_coverage, precision):
                 sigma = sigma * c2
             fi = 0
 
-        print("iteration = " + str(i) +  ":  coverage = " + str(coverage) + ", sprinklers = " + str(x.number))
+        print("iteration = " + str(i) +  ":  coverage = " + str(coverage) + ", sprinklers = " + str(x.number) +
+              ", norm = " + str(norm) + ", sigma = " + str(sigma))
 
         if i > 1000:
             print("Too much iterations")

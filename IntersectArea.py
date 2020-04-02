@@ -1,4 +1,21 @@
 from math import floor, ceil, sqrt
+import numpy as np
+
+
+def intersect_area(A, B):
+    d = np.sqrt(np.square(B[0]-A[0]) - np.square(B[1]-A[1]))  # distance between circle's center
+    if d < (A[2] + B[2]):
+        a = A[2] * A[2]
+        b = B[2] * B[2]
+
+        x = (a - b + d * d) / (2 * d)
+        z = x * x
+        y = np.sqrt(a - z)
+
+        if d <= np.abs(A[2] - B[2]):
+            return np.pi * min(a, b)
+        return a*np.arcsin((y/A[2])) + b*np.arcsin((y/B[2])) - y*(x+np.sqrt((z+b-a)))
+    return 0
 
 
 def area_scan(precision, circles, width, height):
