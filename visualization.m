@@ -2,7 +2,7 @@ input = fopen('input.txt', 'r');
 while ~feof(input)
     param = fgets(input);
     eval(param);
-end
+    endgit
 fclose(input);
 rectangle('Position', [0 0 width height]);
 axis([0-radius, width+radius, 0-radius, height+radius]);
