@@ -40,8 +40,7 @@ def area_scan(precision, circles, width, height, rest_areas):
                             continue_flag = True
                             break
                         elif x_min >= x0 and x_max <= x1:  # 3
-                            # moze byc wiele restricted area w ramach jednego kolka
-                            # todo trudna sprawa
+                            # todo moze byc wiele restricted area w ramach jednego kolka
                             obstacle_section += (x_max - x_min)
                         elif x_min <= x1 <= x_max:  # 2
                             x1 = x_min
@@ -50,6 +49,7 @@ def area_scan(precision, circles, width, height, rest_areas):
                 if continue_flag:
                     continue
                 total -= obstacle_section
+
                 total += x1 - max(x0, right)
                 right = x1
 

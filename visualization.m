@@ -1,8 +1,8 @@
 input = fopen('input.txt', 'r');
-while ~feof(input)
+for i = 1:4
     param = fgets(input);
     eval(param);
-    endgit
+end
 fclose(input);
 rectangle('Position', [0 0 width height]);
 axis([0-radius, width+radius, 0-radius, height+radius]);
