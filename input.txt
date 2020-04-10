@@ -1,4 +1,4 @@
-width = 10;
+width = 10
 height = 10;
 radius = 1;
-min_coverage = 50;
+min_coverage = 70;
