@@ -21,7 +21,8 @@ def main():
     params = load_params()
     width = int(params[0])
     height = int(params[1])
-    radius = int(params[2])
+    # todo moze radius jako double?
+    radius = float(params[2])
     min_coverage = int(params[3])
     rest_areas = eval("[%s]" % params[4])  # restriction areas
     if width < 2 or height < 2 or radius < 1 or min_coverage < 0 or min_coverage > 100:

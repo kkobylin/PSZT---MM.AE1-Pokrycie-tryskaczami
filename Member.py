@@ -47,39 +47,74 @@ class Member:
             output.write("circle" + str(c) + ";\n")
         output.close()
 
-    def mutate(self, other, norm):
+    def mutate(self, other, norm, sigma):
         self.circles = []
         width = self.width
         height = self.height
         radius = self.radius
         self.fill_matrix = self.forbidden_places.copy()
-        mutation = other.number * norm  # mutation can be positive and negative
+        # mutation = other.number * norm  # mutation can be positive and negative
+        mutation = norm
+        print("norm", mutation)
         # Mutate number of circles
-        self.number = round(other.number + mutation) # change number of sprinklers
+        self.number = int(round(other.number + mutation))  # change number of sprinklers
         if self.number > (width - 1) * (height - 1) - self.forbidden_nr:
-            self.number = (width - 1) * (height - 1) - self.forbidden_nr
+            self.number = int((width - 1) * (height - 1) - self.forbidden_nr)
         elif self.number < 1:
             self.number = 1
 
         # Copy circles from parent to child (child may have more circles than parent)
         indexes_of_circles_to_copy = np.random.choice(other.number, min(self.number, other.number), replace=False)
+        copy_matrix = other.fill_matrix.copy()
         for i in indexes_of_circles_to_copy:
-            self.circles.append(other.circles[i])
-            self.fill_matrix[other.circles[i][0] - 1, other.circles[i][1] - 1] = Element.Taken
+            # todo zmiana
+            # self.circles.append(other.circles[i])
+            # self.fill_matrix[other.circles[i][0] - 1, other.circles[i][1] - 1] = Element.Taken
+            taken_fields = np.where(copy_matrix == Element.Taken)
+            taken_field = randint(0, taken_fields[0].__len__())
+            x = taken_fields[0][taken_field] + 1
+            y = taken_fields[1][taken_field] + 1
+            self.fill_matrix[x - 1, y - 1] = Element.Taken
+            self.circles.append((x, y, radius))
+            copy_matrix[x - 1, y - 1] = Element.Empty
 
         # If child have more circles than parent - add the rest
         for i in range(self.number - other.number):
-            # Empty fields - [0] - x values, [1] - y values
-            empty_fields = np.where(self.fill_matrix == Element.Empty)
-            free_field = randint(0, empty_fields[0].__len__())
-            x = empty_fields[0][free_field] + 1
-            y = empty_fields[1][free_field] + 1
+            # Most empty column
+            empty_x = np.argmin(self.fill_matrix.sum(axis=1))
+            # Most empty row
+            empty_y = np.argmin(self.fill_matrix.sum(axis=0))
+            if self.fill_matrix[empty_x, empty_y] == Element.Empty:
+                x = empty_x + 1
+                y = empty_y + 1
+            else:
+                # Empty fields - [0] - x values, [1] - y values
+                empty_fields = np.where(self.fill_matrix == Element.Empty)
+                free_field = randint(0, empty_fields[0].__len__())
+                x = empty_fields[0][free_field] + 1
+                y = empty_fields[1][free_field] + 1
             self.fill_matrix[x - 1, y - 1] = Element.Taken
             self.circles.append((x, y, radius))
 
         # Mutate every 5th circle
+        # todo zmienic norm przy mutacji kolek
+        # mutate_circle_step = 5 if sigma > 1 else 3
         for i in range(0, self.number, 5):
-            circle_to_mutate = randint(0, self.number)
+            # todo zmiana
+            # circle_to_mutate = randint(0, self.number)
+
+            # Most taken column
+            taken_x = np.argmax(self.fill_matrix.sum(axis=1))
+            # Most taken row
+            taken_y = np.argmax(self.fill_matrix.sum(axis=0))
+            if self.fill_matrix[taken_x, taken_y] == Element.Taken:
+                x = taken_x + 1
+                y = taken_y + 1
+                circle_to_mutate = self.circles.index((x, y, self.radius))
+            else:
+                circle_to_mutate = randint(0, self.number)
+            #####
+
             empty_fields = np.where(self.fill_matrix == Element.Empty)
             if empty_fields[0].__len__() == 0:
                 break
@@ -87,7 +122,8 @@ class Member:
             y_old = self.circles[circle_to_mutate][1]
             x_or_y = randint(0, 2)  # Mutate only x or only y, not both
             if x_or_y:
-                x_new = round(x_old + x_old * norm)
+               # x_new = round(x_old + x_old * norm)
+                x_new = round(x_old + norm)
                 y_new = y_old
                 if x_new >= width - 1:
                     x_new = width - 1
@@ -95,7 +131,8 @@ class Member:
                     x_new = 1
             else:
                 x_new = x_old
-                y_new = round(y_old + y_old * norm)
+                # y_new = round(y_old + y_old * norm)
+                y_new = round(y_old + norm)
                 if y_new >= height - 1:
                     y_new = height - 1
                 elif y_new < 1:
@@ -106,7 +143,7 @@ class Member:
                 distance.append(dis)
                 if dis < 1:
                     break
-
+            # todo prawy gorny rog to sprawa argminow
             x_new = empty_fields[0][np.argmin(distance)] + 1
             y_new = empty_fields[1][np.argmin(distance)] + 1
             # Remove circle before mutation

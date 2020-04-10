@@ -13,35 +13,52 @@ def alg(width, height, radius, min_coverage, precision, rest_areas):
     del restricted
     whole_area = width * height - restricted_area
 
-    def objective_function(area, number):
+    def objective_function(area, number, it):
         current_coverage = area / whole_area * 100
         if current_coverage >= min_coverage:
             return 1/number * current_coverage ** (1 / 4)
         else:
             return (current_coverage - min_coverage) * number ** (1 / 3)
+        # todo zapamietac najlepsze rozwiazanie z pierwszej funkcji celu
+        # todo znormalizowac numer bo coverage zawsze 0 100 a numery rozne
+        # if it < 250:
+        #     return current_coverage / number ** (1/6)
+        # # elif it < 310:
+        # #     if current_coverage >= min_coverage - 5:
+        # #         return 1 / number * current_coverage ** (1 / 4)
+        # #     else:
+        # #         return (current_coverage - min_coverage) * number ** (1 / 3)
+        # else:
+        #     if current_coverage >= min_coverage:
+        #         return 1 / number
+        #     else:
+        #         return (current_coverage - min_coverage) * number ** (1 / 3)
+        # return -abs(area - np.pi * radius * radius * number) / (width * height) - abs(min_coverage - current_coverage)
 
     x = Member.Member()  # First member
     # Parameters declarations
-    m = 10
-    c1 = 0.82
-    c2 = 1.2
+    m = 15
+    c2 = 1.06
+    c1 = 1 / c2
     fi = 0  # Number of chose y in the last m iterations
     coverage = 0  # Coverage of current x <0, 100>
     i = 0  # Number of iterations
-    sigma = min(width, height)/(radius**2) * 2
-    sigma_min = 1e-3
+    sigma = round(whole_area / (4 * radius))
+    sigma_min = 0.1
     x_changed = True  # Whether calc x_area - do not have to if x didn't change
 
     while coverage < min_coverage or sigma > sigma_min:
         i = i + 1
-        norm = random.normal(0, sigma)
+        norm = sigma * random.normal(0, 1)
         y = Member.Member(False)
-        y.mutate(x, norm)
+        y.mutate(x, norm, sigma)
         if x_changed:
             x_area = IntersectArea.area_scan(precision, x.circles.copy(), width, height, rest_areas)
         y_area = IntersectArea.area_scan(precision, y.circles.copy(), width, height, rest_areas)
-        x_rate = objective_function(x_area, x.number)
-        y_rate = objective_function(y_area, y.number)
+        x_rate = objective_function(x_area, x.number, i)
+        y_rate = objective_function(y_area, y.number, i)
+        print("it ", i, " x_num:", x.number, " x_cov:", int(x_area / whole_area * 100), " y_num:",
+              y.number, " y_cov:", int(y_area / whole_area * 100), " sigma:", sigma)
         if y_rate > x_rate:
             fi = fi + 1
             x = y
@@ -58,9 +75,9 @@ def alg(width, height, radius, min_coverage, precision, rest_areas):
                 sigma = sigma * c2
             fi = 0
 
-        print("iteration = " + str(i) +  ":  coverage = " + str(coverage) + ", sprinklers = " + str(x.number))
+       # print("iteration = " + str(i) +  ":  coverage = " + str(coverage) + ", sprinklers = " + str(x.number))
 
-        if i > 1000:
+        if i > 2000:
             print("Too much iterations")
             break
     return x, coverage
