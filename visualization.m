@@ -1,5 +1,5 @@
 input = fopen('input.txt', 'r');
-while ~feof(input)
+for i = 1:4
     param = fgets(input);
     eval(param);
 end
