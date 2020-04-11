@@ -19,22 +19,6 @@ def alg(width, height, radius, min_coverage, precision, rest_areas):
             return 1/number * current_coverage ** (1 / 4)
         else:
             return (current_coverage - min_coverage) * number ** (1 / 3)
-        # todo zapamietac najlepsze rozwiazanie z pierwszej funkcji celu
-        # todo znormalizowac numer bo coverage zawsze 0 100 a numery rozne
-        # if it < 250:
-        #     return current_coverage / number ** (1/6)
-        # # elif it < 310:
-        # #     if current_coverage >= min_coverage - 5:
-        # #         return 1 / number * current_coverage ** (1 / 4)
-        # #     else:
-        # #         return (current_coverage - min_coverage) * number ** (1 / 3)
-        # else:
-        #     if current_coverage >= min_coverage:
-        #         return 1 / number
-        #     else:
-        #         return (current_coverage - min_coverage) * number ** (1 / 3)
-        # return -abs(area - np.pi * radius * radius * number) / (width * height) - abs(min_coverage - current_coverage)
-
     x = Member.Member()  # First member
     x_area = IntersectArea.area_scan(precision, x.circles.copy(), width, height, rest_areas)
     # Parameters declarations

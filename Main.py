@@ -38,6 +38,7 @@ def main():
     Member.width = width
     Member.radius = radius
     Member.set_restricted_areas(rest_areas)
+    Member.rest_areas = rest_areas
 
     precision = 1e-2  # to calculate intersect area
     start = time.perf_counter()
