@@ -1,5 +1,5 @@
-width = 8;
-height = 8;
-radius = 2;
-min_coverage = 98;
+width = 5;
+height = 5;
+radius = 1;
+min_coverage = 100;
 rest_area = []

@@ -1,19 +1,16 @@
 import re
 import EvolutionaryAlgorithm
 import time
-import IntersectArea
-import numpy as np
-from Element import Element
 from Member import Member
 
 
 def load_params():
-    input = open("input.txt", "r")
-    params = input.readlines()
+    input_file = open("input.txt", "r")
+    params = input_file.readlines()
     for i in range(0, 5):
-        params[i] = re.sub('[a-zA-z" "="\n"_;]', '',
+        params[i] = re.sub('[a-zA-z =\n_;]', '',
                            params[i])  # delete  a-z, A-Z, space i equal sign, just left numbers
-    input.close()
+    input_file.close()
     return params
 
 
@@ -29,8 +26,9 @@ def main():
         raise Exception("Wrong arguments")
 
     for (x_min, x_max, y_min, y_max) in rest_areas:
-        if not (isinstance(x_min, int) and isinstance(x_max, int) and isinstance(y_min, int) and isinstance(y_max, int)):
-            raise Exception("Input arguments should be integers")
+        if not (isinstance(x_min, int) and isinstance(x_max, int)
+                and isinstance(y_min, int) and isinstance(y_max, int)):
+            raise Exception('Input arguments should be integers')
         if x_min >= x_max or y_min >= y_max:
             raise Exception("Wrong rest_area arguments")
         if x_max > width or x_min < 0 or y_max > height or y_min < 0:

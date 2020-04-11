@@ -2,25 +2,27 @@ from math import floor, ceil, sqrt
 import numpy as np
 
 
-def intersect_area(A, B):
-    d = np.sqrt(np.square(B[0]-A[0]) - np.square(B[1]-A[1]))  # distance between circle's center
-    if d < (A[2] + B[2]) and d != 0:
-        a = A[2] * A[2]
-        b = B[2] * B[2]
+def intersect_area(first, second):
+    d = np.sqrt((second[0] - first[0]) * (second[0] - first[0]) + (second[1] - first[1]) * (second[1] - first[1]))
+    if d < (first[2] + second[2]) and d != 0:
+        a = first[2] * first[2]
+        b = second[2] * second[2]
 
         x = (a - b + d * d) / (2 * d)
         z = x * x
         y = np.sqrt(a - z)
 
-        if d <= np.abs(A[2] - B[2]):
+        if d <= np.abs(first[2] - second[2]):
             return np.pi * min(a, b)
-        return a*np.arcsin((y/A[2])) + b*np.arcsin((y/B[2])) - y*(x+np.sqrt((z+b-a)))
+        return a * np.arcsin((y / first[2])) + b * np.arcsin((y / second[2])) - y * (x + np.sqrt((z + b - a)))
     return 0
+
 
 def void_area(circle, width, height):
     x = circle[0]
     y = circle[1]
     r = circle[2]
+    cos_first = cos_second = cos_third = cos_fourth = arm = 0
     if not (not (x + r > width and y + r > height) and not (x - r < 0 and y + r > height) and not (
             x - r < 0 and y - r < 0) and not (x + r > width and y - r < 0)):
         if x + r > width and y + r > height:
@@ -64,7 +66,7 @@ def void_area(circle, width, height):
         void = void_first + void_second
         return void
     else:
-        half_cos  = 0
+        half_cos = 0
         if x + r > width:
             half_cos = (width - x) / r
 
@@ -101,7 +103,7 @@ def area_scan(precision, circles, width, height, rest_areas):
 
             for (x0, x1) in sorted(sect(cx, cy, r, y)   # liczymy zasieg x0-x1 dla danego y dla kazdego kolka
                                    for (cx, cy, r) in circles
-                                   if abs(y - cy) < r): # tylko te kolka ktore siegaja do danego y
+                                   if abs(y - cy) < r):  # tylko te kolka ktore siegaja do danego y
                 if x0 < 0:
                     x0 = 0
                 if x1 > width:
