@@ -1,0 +1,2795 @@
+norm 54.19413782485321
+it  1  x_num: 290  x_cov: 97  y_num: 325  y_cov: 98  sigma: 78.0
+norm -1.3818727768933319
+it  2  x_num: 290  x_cov: 97  y_num: 288  y_cov: 98  sigma: 78.0
+norm 10.92210422782156
+it  3  x_num: 288  x_cov: 98  y_num: 298  y_cov: 98  sigma: 78.0
+norm 69.1510016983875
+it  4  x_num: 288  x_cov: 98  y_num: 325  y_cov: 98  sigma: 78.0
+norm 44.61353681454234
+it  5  x_num: 288  x_cov: 98  y_num: 325  y_cov: 98  sigma: 78.0
+norm 12.060390816786406
+it  6  x_num: 288  x_cov: 98  y_num: 300  y_cov: 98  sigma: 78.0
+norm -86.14952044135917
+it  7  x_num: 288  x_cov: 98  y_num: 201  y_cov: 97  sigma: 78.0
+norm -93.78497943645093
+it  8  x_num: 201  x_cov: 97  y_num: 107  y_cov: 84  sigma: 78.0
+norm 58.74098434791173
+it  9  x_num: 107  x_cov: 84  y_num: 165  y_cov: 95  sigma: 78.0
+norm 95.5709983083126
+it  10  x_num: 107  x_cov: 84  y_num: 202  y_cov: 97  sigma: 78.0
+norm 176.1774058384312
+it  11  x_num: 107  x_cov: 84  y_num: 283  y_cov: 98  sigma: 78.0
+norm -13.123620001673196
+it  12  x_num: 107  x_cov: 84  y_num: 93  y_cov: 80  sigma: 78.0
+norm -6.298781287306941
+it  13  x_num: 93  x_cov: 80  y_num: 86  y_cov: 78  sigma: 78.0
+norm -53.577847900405864
+it  14  x_num: 86  x_cov: 78  y_num: 32  y_cov: 32  sigma: 78.0
+norm 3.210737507830275
+it  15  x_num: 86  x_cov: 78  y_num: 89  y_cov: 79  sigma: 78.0
+norm 26.057088699810684
+it  16  x_num: 86  x_cov: 78  y_num: 112  y_cov: 87  sigma: 82.68
+norm -26.368777453224833
+it  17  x_num: 86  x_cov: 78  y_num: 59  y_cov: 59  sigma: 82.68
+norm -126.46146275805945
+it  18  x_num: 86  x_cov: 78  y_num: 1  y_cov: 1  sigma: 82.68
+norm -29.143894187171348
+it  19  x_num: 86  x_cov: 78  y_num: 56  y_cov: 56  sigma: 82.68
+norm 115.38646385746533
+it  20  x_num: 86  x_cov: 78  y_num: 201  y_cov: 96  sigma: 82.68
+norm -46.55826481081625
+it  21  x_num: 86  x_cov: 78  y_num: 39  y_cov: 39  sigma: 82.68
+norm -138.02431941336718
+it  22  x_num: 86  x_cov: 78  y_num: 1  y_cov: 1  sigma: 82.68
+norm 31.288221982888444
+it  23  x_num: 86  x_cov: 78  y_num: 117  y_cov: 88  sigma: 82.68
+norm 105.58593312116649
+it  24  x_num: 86  x_cov: 78  y_num: 191  y_cov: 96  sigma: 82.68
+norm -71.67378196778367
+it  25  x_num: 86  x_cov: 78  y_num: 14  y_cov: 14  sigma: 82.68
+norm -0.6401577938394004
+it  26  x_num: 86  x_cov: 78  y_num: 85  y_cov: 77  sigma: 82.68
+norm 35.89194435026782
+it  27  x_num: 85  x_cov: 77  y_num: 120  y_cov: 88  sigma: 82.68
+norm -66.8633418705986
+it  28  x_num: 85  x_cov: 77  y_num: 18  y_cov: 18  sigma: 82.68
+norm -27.15765128333423
+it  29  x_num: 85  x_cov: 77  y_num: 57  y_cov: 57  sigma: 82.68
+norm -102.10287378102116
+it  30  x_num: 85  x_cov: 77  y_num: 1  y_cov: 1  sigma: 82.68
+norm -76.46448434047268
+it  31  x_num: 85  x_cov: 77  y_num: 8  y_cov: 8  sigma: 78.0
+norm 46.18424577677855
+it  32  x_num: 85  x_cov: 77  y_num: 131  y_cov: 90  sigma: 78.0
+norm -31.442810167114786
+it  33  x_num: 85  x_cov: 77  y_num: 53  y_cov: 53  sigma: 78.0
+norm 113.37367506723001
+it  34  x_num: 85  x_cov: 77  y_num: 198  y_cov: 96  sigma: 78.0
+norm -27.087533354879675
+it  35  x_num: 85  x_cov: 77  y_num: 57  y_cov: 57  sigma: 78.0
+norm 31.834530002156697
+it  36  x_num: 85  x_cov: 77  y_num: 116  y_cov: 88  sigma: 78.0
+norm 65.80781004835589
+it  37  x_num: 85  x_cov: 77  y_num: 150  y_cov: 92  sigma: 78.0
+norm -178.67052234935036
+it  38  x_num: 85  x_cov: 77  y_num: 1  y_cov: 1  sigma: 78.0
+norm -35.556357499779054
+it  39  x_num: 85  x_cov: 77  y_num: 49  y_cov: 48  sigma: 78.0
+norm 168.22791618137543
+it  40  x_num: 85  x_cov: 77  y_num: 253  y_cov: 98  sigma: 78.0
+norm -5.065121807148828
+it  41  x_num: 85  x_cov: 77  y_num: 79  y_cov: 74  sigma: 78.0
+norm -116.60910572978406
+it  42  x_num: 79  x_cov: 74  y_num: 1  y_cov: 1  sigma: 78.0
+norm -99.08804542395798
+it  43  x_num: 79  x_cov: 74  y_num: 1  y_cov: 1  sigma: 78.0
+norm 19.40078557548909
+it  44  x_num: 79  x_cov: 74  y_num: 98  y_cov: 83  sigma: 78.0
+norm 57.97065609090263
+it  45  x_num: 79  x_cov: 74  y_num: 136  y_cov: 91  sigma: 78.0
+norm 87.99440880631724
+it  46  x_num: 79  x_cov: 74  y_num: 166  y_cov: 93  sigma: 73.58490566037734
+norm -19.845243403809622
+it  47  x_num: 79  x_cov: 74  y_num: 59  y_cov: 59  sigma: 73.58490566037734
+norm 62.25749411485384
+it  48  x_num: 79  x_cov: 74  y_num: 141  y_cov: 91  sigma: 73.58490566037734
+norm 47.87488170930975
+it  49  x_num: 79  x_cov: 74  y_num: 126  y_cov: 89  sigma: 73.58490566037734
+norm -68.26895755022878
+it  50  x_num: 79  x_cov: 74  y_num: 10  y_cov: 10  sigma: 73.58490566037734
+norm -159.91369193580098
+it  51  x_num: 79  x_cov: 74  y_num: 1  y_cov: 1  sigma: 73.58490566037734
+norm 99.13760181210597
+it  52  x_num: 79  x_cov: 74  y_num: 178  y_cov: 94  sigma: 73.58490566037734
+norm 31.188021099706887
+it  53  x_num: 79  x_cov: 74  y_num: 110  y_cov: 86  sigma: 73.58490566037734
+norm 116.36638265585249
+it  54  x_num: 79  x_cov: 74  y_num: 195  y_cov: 96  sigma: 73.58490566037734
+norm 23.095993129880632
+it  55  x_num: 79  x_cov: 74  y_num: 102  y_cov: 84  sigma: 73.58490566037734
+norm 98.30779859839508
+it  56  x_num: 79  x_cov: 74  y_num: 177  y_cov: 94  sigma: 73.58490566037734
+norm -107.88601681217342
+it  57  x_num: 79  x_cov: 74  y_num: 1  y_cov: 1  sigma: 73.58490566037734
+norm -22.74387876746088
+it  58  x_num: 79  x_cov: 74  y_num: 56  y_cov: 56  sigma: 73.58490566037734
+norm -85.78445471907693
+it  59  x_num: 79  x_cov: 74  y_num: 1  y_cov: 1  sigma: 73.58490566037734
+norm 60.20239476818678
+it  60  x_num: 79  x_cov: 74  y_num: 139  y_cov: 91  sigma: 73.58490566037734
+norm 98.87108848630052
+it  61  x_num: 79  x_cov: 74  y_num: 177  y_cov: 94  sigma: 69.4197223211107
+norm -34.78393313127865
+it  62  x_num: 79  x_cov: 74  y_num: 44  y_cov: 44  sigma: 69.4197223211107
+norm -26.63807682402206
+it  63  x_num: 79  x_cov: 74  y_num: 52  y_cov: 52  sigma: 69.4197223211107
+norm -9.099459780116067
+it  64  x_num: 79  x_cov: 74  y_num: 69  y_cov: 68  sigma: 69.4197223211107
+norm 173.19292242408383
+it  65  x_num: 79  x_cov: 74  y_num: 252  y_cov: 98  sigma: 69.4197223211107
+norm 7.051231124062905
+it  66  x_num: 79  x_cov: 74  y_num: 86  y_cov: 78  sigma: 69.4197223211107
+norm -73.46260355056354
+it  67  x_num: 79  x_cov: 74  y_num: 5  y_cov: 5  sigma: 69.4197223211107
+norm -13.205692596945468
+it  68  x_num: 79  x_cov: 74  y_num: 65  y_cov: 64  sigma: 69.4197223211107
+norm -53.71134296441575
+it  69  x_num: 79  x_cov: 74  y_num: 25  y_cov: 25  sigma: 69.4197223211107
+norm -15.657136174503771
+it  70  x_num: 79  x_cov: 74  y_num: 63  y_cov: 63  sigma: 69.4197223211107
+norm -71.56746496946268
+it  71  x_num: 79  x_cov: 74  y_num: 7  y_cov: 7  sigma: 69.4197223211107
+norm 106.02890960495205
+it  72  x_num: 79  x_cov: 74  y_num: 185  y_cov: 95  sigma: 69.4197223211107
+norm 124.31161741955145
+it  73  x_num: 79  x_cov: 74  y_num: 203  y_cov: 96  sigma: 69.4197223211107
+norm 5.501330767817911
+it  74  x_num: 79  x_cov: 74  y_num: 84  y_cov: 77  sigma: 69.4197223211107
+norm -163.12112702647468
+it  75  x_num: 79  x_cov: 74  y_num: 1  y_cov: 1  sigma: 69.4197223211107
+norm -23.991841369614708
+it  76  x_num: 79  x_cov: 74  y_num: 55  y_cov: 55  sigma: 65.49030407651952
+norm -41.1815438383017
+it  77  x_num: 79  x_cov: 74  y_num: 37  y_cov: 37  sigma: 65.49030407651952
+norm -29.59296373941361
+it  78  x_num: 79  x_cov: 74  y_num: 49  y_cov: 49  sigma: 65.49030407651952
+norm -29.600456897302735
+it  79  x_num: 79  x_cov: 74  y_num: 49  y_cov: 49  sigma: 65.49030407651952
+norm 0.19431172871985303
+it  80  x_num: 79  x_cov: 74  y_num: 79  y_cov: 74  sigma: 65.49030407651952
+norm 128.7634517814626
+it  81  x_num: 79  x_cov: 74  y_num: 207  y_cov: 96  sigma: 65.49030407651952
+norm -27.31366794096557
+it  82  x_num: 79  x_cov: 74  y_num: 51  y_cov: 50  sigma: 65.49030407651952
+norm -14.440001016068447
+it  83  x_num: 79  x_cov: 74  y_num: 64  y_cov: 63  sigma: 65.49030407651952
+norm -45.569789149785365
+it  84  x_num: 79  x_cov: 74  y_num: 33  y_cov: 33  sigma: 65.49030407651952
+norm 60.60678388078139
+it  85  x_num: 79  x_cov: 74  y_num: 139  y_cov: 91  sigma: 65.49030407651952
+norm -119.98860421200169
+it  86  x_num: 79  x_cov: 74  y_num: 1  y_cov: 1  sigma: 65.49030407651952
+norm -77.40657731177313
+it  87  x_num: 79  x_cov: 74  y_num: 1  y_cov: 1  sigma: 65.49030407651952
+norm -34.58398990195194
+it  88  x_num: 79  x_cov: 74  y_num: 44  y_cov: 44  sigma: 65.49030407651952
+norm -123.9154178221517
+it  89  x_num: 79  x_cov: 74  y_num: 1  y_cov: 1  sigma: 65.49030407651952
+norm -70.73397357853224
+it  90  x_num: 79  x_cov: 74  y_num: 8  y_cov: 8  sigma: 65.49030407651952
+norm -0.15846719280862268
+it  91  x_num: 79  x_cov: 74  y_num: 78  y_cov: 74  sigma: 61.78330573256558
+norm 180.58131659056087
+it  92  x_num: 78  x_cov: 74  y_num: 258  y_cov: 98  sigma: 61.78330573256558
+norm 84.38352245959344
+it  93  x_num: 78  x_cov: 74  y_num: 162  y_cov: 93  sigma: 61.78330573256558
+norm -39.21069838097685
+it  94  x_num: 78  x_cov: 74  y_num: 38  y_cov: 38  sigma: 61.78330573256558
+norm -114.08292153567872
+it  95  x_num: 78  x_cov: 74  y_num: 1  y_cov: 1  sigma: 61.78330573256558
+norm 1.1838469989808773
+it  96  x_num: 78  x_cov: 74  y_num: 79  y_cov: 75  sigma: 61.78330573256558
+norm -17.01292935759299
+it  97  x_num: 78  x_cov: 74  y_num: 60  y_cov: 60  sigma: 61.78330573256558
+norm -72.63683809526026
+it  98  x_num: 78  x_cov: 74  y_num: 5  y_cov: 5  sigma: 61.78330573256558
+norm 76.83077529381293
+it  99  x_num: 78  x_cov: 74  y_num: 154  y_cov: 92  sigma: 61.78330573256558
+norm -43.55168487225988
+it  100  x_num: 78  x_cov: 74  y_num: 34  y_cov: 34  sigma: 61.78330573256558
+norm 10.565613106225394
+it  101  x_num: 78  x_cov: 74  y_num: 88  y_cov: 79  sigma: 61.78330573256558
+norm -70.3224073638779
+it  102  x_num: 78  x_cov: 74  y_num: 7  y_cov: 7  sigma: 61.78330573256558
+norm -20.054394540293504
+it  103  x_num: 78  x_cov: 74  y_num: 57  y_cov: 57  sigma: 61.78330573256558
+norm -141.0241390309432
+it  104  x_num: 78  x_cov: 74  y_num: 1  y_cov: 1  sigma: 61.78330573256558
+norm 54.156253317214436
+it  105  x_num: 78  x_cov: 74  y_num: 132  y_cov: 90  sigma: 61.78330573256558
+norm -46.90277856215063
+it  106  x_num: 78  x_cov: 74  y_num: 31  y_cov: 31  sigma: 58.28613748355243
+norm -47.06122698497459
+it  107  x_num: 78  x_cov: 74  y_num: 30  y_cov: 30  sigma: 58.28613748355243
+norm -22.619267594981384
+it  108  x_num: 78  x_cov: 74  y_num: 55  y_cov: 55  sigma: 58.28613748355243
+norm 99.4992723504651
+it  109  x_num: 78  x_cov: 74  y_num: 177  y_cov: 94  sigma: 58.28613748355243
+norm 67.5727258379912
+it  110  x_num: 78  x_cov: 74  y_num: 145  y_cov: 91  sigma: 58.28613748355243
+norm -23.078167938869974
+it  111  x_num: 78  x_cov: 74  y_num: 54  y_cov: 54  sigma: 58.28613748355243
+norm 19.982526940168864
+it  112  x_num: 78  x_cov: 74  y_num: 97  y_cov: 82  sigma: 58.28613748355243
+norm 91.15738306324174
+it  113  x_num: 78  x_cov: 74  y_num: 169  y_cov: 94  sigma: 58.28613748355243
+norm 102.0378541877614
+it  114  x_num: 78  x_cov: 74  y_num: 180  y_cov: 94  sigma: 58.28613748355243
+norm -9.636178408369945
+it  115  x_num: 78  x_cov: 74  y_num: 68  y_cov: 67  sigma: 58.28613748355243
+norm -78.67265003543946
+it  116  x_num: 78  x_cov: 74  y_num: 1  y_cov: 1  sigma: 58.28613748355243
+norm 13.787077811057806
+it  117  x_num: 78  x_cov: 74  y_num: 91  y_cov: 80  sigma: 58.28613748355243
+norm -81.49432786380798
+it  118  x_num: 78  x_cov: 74  y_num: 1  y_cov: 1  sigma: 58.28613748355243
+norm 48.706632160474165
+it  119  x_num: 78  x_cov: 74  y_num: 126  y_cov: 89  sigma: 58.28613748355243
+norm 62.84267435939919
+it  120  x_num: 78  x_cov: 74  y_num: 140  y_cov: 91  sigma: 58.28613748355243
+norm 35.977297062156396
+it  121  x_num: 78  x_cov: 74  y_num: 113  y_cov: 86  sigma: 54.98692215429474
+norm 9.568703864549528
+it  122  x_num: 78  x_cov: 74  y_num: 87  y_cov: 78  sigma: 54.98692215429474
+norm 39.634990708617906
+it  123  x_num: 78  x_cov: 74  y_num: 117  y_cov: 87  sigma: 54.98692215429474
+norm 19.035476998789235
+it  124  x_num: 78  x_cov: 74  y_num: 97  y_cov: 82  sigma: 54.98692215429474
+norm -27.702789394452587
+it  125  x_num: 78  x_cov: 74  y_num: 50  y_cov: 50  sigma: 54.98692215429474
+norm 17.561664474708913
+it  126  x_num: 78  x_cov: 74  y_num: 95  y_cov: 82  sigma: 54.98692215429474
+norm 75.94064386007916
+it  127  x_num: 78  x_cov: 74  y_num: 153  y_cov: 92  sigma: 54.98692215429474
+norm -31.08895936347041
+it  128  x_num: 78  x_cov: 74  y_num: 46  y_cov: 46  sigma: 54.98692215429474
+norm -62.59338977103194
+it  129  x_num: 78  x_cov: 74  y_num: 15  y_cov: 15  sigma: 54.98692215429474
+norm -54.484734669356875
+it  130  x_num: 78  x_cov: 74  y_num: 23  y_cov: 23  sigma: 54.98692215429474
+norm -7.914455827371293
+it  131  x_num: 78  x_cov: 74  y_num: 70  y_cov: 68  sigma: 54.98692215429474
+norm 22.79233033902483
+it  132  x_num: 78  x_cov: 74  y_num: 100  y_cov: 83  sigma: 54.98692215429474
+norm 22.760170219841086
+it  133  x_num: 78  x_cov: 74  y_num: 100  y_cov: 83  sigma: 54.98692215429474
+norm -91.12883137758094
+it  134  x_num: 78  x_cov: 74  y_num: 1  y_cov: 1  sigma: 54.98692215429474
+norm 47.397454091694215
+it  135  x_num: 78  x_cov: 74  y_num: 125  y_cov: 88  sigma: 54.98692215429474
+norm -10.602348536226694
+it  136  x_num: 78  x_cov: 74  y_num: 67  y_cov: 66  sigma: 51.8744548625422
+norm 2.1593413790494655
+it  137  x_num: 78  x_cov: 74  y_num: 80  y_cov: 76  sigma: 51.8744548625422
+norm -92.92202322975373
+it  138  x_num: 78  x_cov: 74  y_num: 1  y_cov: 1  sigma: 51.8744548625422
+norm 33.29161211553534
+it  139  x_num: 78  x_cov: 74  y_num: 111  y_cov: 86  sigma: 51.8744548625422
+norm 30.51321388868817
+it  140  x_num: 78  x_cov: 74  y_num: 108  y_cov: 85  sigma: 51.8744548625422
+norm 61.957510924099694
+it  141  x_num: 78  x_cov: 74  y_num: 139  y_cov: 91  sigma: 51.8744548625422
+norm -34.404112344651274
+it  142  x_num: 78  x_cov: 74  y_num: 43  y_cov: 43  sigma: 51.8744548625422
+norm -9.60920812967187
+it  143  x_num: 78  x_cov: 74  y_num: 68  y_cov: 67  sigma: 51.8744548625422
+norm -3.5189551908206105
+it  144  x_num: 78  x_cov: 74  y_num: 74  y_cov: 72  sigma: 51.8744548625422
+norm 43.54312984754179
+it  145  x_num: 74  x_cov: 72  y_num: 117  y_cov: 87  sigma: 51.8744548625422
+norm -13.512022655921605
+it  146  x_num: 74  x_cov: 72  y_num: 60  y_cov: 60  sigma: 51.8744548625422
+norm -5.019250944245342
+it  147  x_num: 74  x_cov: 72  y_num: 68  y_cov: 67  sigma: 51.8744548625422
+norm 86.15791121075453
+it  148  x_num: 74  x_cov: 72  y_num: 160  y_cov: 92  sigma: 51.8744548625422
+norm 75.2456566578776
+it  149  x_num: 74  x_cov: 72  y_num: 149  y_cov: 91  sigma: 51.8744548625422
+norm -18.018833888131944
+it  150  x_num: 74  x_cov: 72  y_num: 55  y_cov: 55  sigma: 51.8744548625422
+norm -89.42399227934796
+it  151  x_num: 74  x_cov: 72  y_num: 1  y_cov: 1  sigma: 48.93816496466245
+norm -67.15981850496547
+it  152  x_num: 74  x_cov: 72  y_num: 6  y_cov: 6  sigma: 48.93816496466245
+norm -36.19011602025758
+it  153  x_num: 74  x_cov: 72  y_num: 37  y_cov: 37  sigma: 48.93816496466245
+norm -41.16179533176124
+it  154  x_num: 74  x_cov: 72  y_num: 32  y_cov: 32  sigma: 48.93816496466245
+norm -29.792899901548353
+it  155  x_num: 74  x_cov: 72  y_num: 44  y_cov: 44  sigma: 48.93816496466245
+norm -75.67307817072881
+it  156  x_num: 74  x_cov: 72  y_num: 1  y_cov: 1  sigma: 48.93816496466245
+norm -34.31941052490471
+it  157  x_num: 74  x_cov: 72  y_num: 39  y_cov: 39  sigma: 48.93816496466245
+norm -83.13595073333818
+it  158  x_num: 74  x_cov: 72  y_num: 1  y_cov: 1  sigma: 48.93816496466245
+norm -25.63530361830166
+it  159  x_num: 74  x_cov: 72  y_num: 48  y_cov: 48  sigma: 48.93816496466245
+norm 79.86150931411989
+it  160  x_num: 74  x_cov: 72  y_num: 153  y_cov: 92  sigma: 48.93816496466245
+norm -18.69637546600582
+it  161  x_num: 74  x_cov: 72  y_num: 55  y_cov: 55  sigma: 48.93816496466245
+norm 50.63939285089701
+it  162  x_num: 74  x_cov: 72  y_num: 124  y_cov: 88  sigma: 48.93816496466245
+norm 45.71990390326173
+it  163  x_num: 74  x_cov: 72  y_num: 119  y_cov: 87  sigma: 48.93816496466245
+norm -36.142121764504644
+it  164  x_num: 74  x_cov: 72  y_num: 37  y_cov: 37  sigma: 48.93816496466245
+norm -92.45754945817887
+it  165  x_num: 74  x_cov: 72  y_num: 1  y_cov: 1  sigma: 48.93816496466245
+norm -11.118496385123104
+it  166  x_num: 74  x_cov: 72  y_num: 62  y_cov: 62  sigma: 46.168080155341926
+norm 29.681848044936714
+it  167  x_num: 74  x_cov: 72  y_num: 103  y_cov: 84  sigma: 46.168080155341926
+norm -33.58477636744646
+it  168  x_num: 74  x_cov: 72  y_num: 40  y_cov: 40  sigma: 46.168080155341926
+norm 38.29017315653182
+it  169  x_num: 74  x_cov: 72  y_num: 112  y_cov: 86  sigma: 46.168080155341926
+norm 13.777357168299723
+it  170  x_num: 74  x_cov: 72  y_num: 87  y_cov: 79  sigma: 46.168080155341926
+norm -12.960253897487009
+it  171  x_num: 74  x_cov: 72  y_num: 61  y_cov: 61  sigma: 46.168080155341926
+norm -77.98919118995909
+it  172  x_num: 74  x_cov: 72  y_num: 1  y_cov: 1  sigma: 46.168080155341926
+norm 33.971031576394985
+it  173  x_num: 74  x_cov: 72  y_num: 107  y_cov: 85  sigma: 46.168080155341926
+norm -14.384164632883628
+it  174  x_num: 74  x_cov: 72  y_num: 59  y_cov: 59  sigma: 46.168080155341926
+norm -19.002243314800342
+it  175  x_num: 74  x_cov: 72  y_num: 54  y_cov: 54  sigma: 46.168080155341926
+norm 25.84873011958717
+it  176  x_num: 74  x_cov: 72  y_num: 99  y_cov: 83  sigma: 46.168080155341926
+norm -14.335322235988851
+it  177  x_num: 74  x_cov: 72  y_num: 59  y_cov: 59  sigma: 46.168080155341926
+norm -48.42478803162174
+it  178  x_num: 74  x_cov: 72  y_num: 25  y_cov: 25  sigma: 46.168080155341926
+norm -26.56201200320964
+it  179  x_num: 74  x_cov: 72  y_num: 47  y_cov: 47  sigma: 46.168080155341926
+norm 141.1493723164841
+it  180  x_num: 74  x_cov: 72  y_num: 215  y_cov: 97  sigma: 46.168080155341926
+norm 46.14106614624448
+it  181  x_num: 74  x_cov: 72  y_num: 120  y_cov: 87  sigma: 43.55479259937917
+norm 24.40767301397125
+it  182  x_num: 74  x_cov: 72  y_num: 98  y_cov: 83  sigma: 43.55479259937917
+norm 7.0395969049783185
+it  183  x_num: 74  x_cov: 72  y_num: 81  y_cov: 76  sigma: 43.55479259937917
+norm -39.55800348155283
+it  184  x_num: 74  x_cov: 72  y_num: 34  y_cov: 34  sigma: 43.55479259937917
+norm -9.581444907429988
+it  185  x_num: 74  x_cov: 72  y_num: 64  y_cov: 64  sigma: 43.55479259937917
+norm 6.120591743088717
+it  186  x_num: 74  x_cov: 72  y_num: 80  y_cov: 76  sigma: 43.55479259937917
+norm -27.133910184690503
+it  187  x_num: 74  x_cov: 72  y_num: 46  y_cov: 46  sigma: 43.55479259937917
+norm 65.53009537954665
+it  188  x_num: 74  x_cov: 72  y_num: 139  y_cov: 90  sigma: 43.55479259937917
+norm 58.42739485205507
+it  189  x_num: 74  x_cov: 72  y_num: 132  y_cov: 90  sigma: 43.55479259937917
+norm 9.328706247010343
+it  190  x_num: 74  x_cov: 72  y_num: 83  y_cov: 77  sigma: 43.55479259937917
+norm 11.628668609842222
+it  191  x_num: 74  x_cov: 72  y_num: 85  y_cov: 78  sigma: 43.55479259937917
+norm 98.06067390198967
+it  192  x_num: 74  x_cov: 72  y_num: 172  y_cov: 93  sigma: 43.55479259937917
+norm 61.80828304131585
+it  193  x_num: 74  x_cov: 72  y_num: 135  y_cov: 90  sigma: 43.55479259937917
+norm 43.431829504057724
+it  194  x_num: 74  x_cov: 72  y_num: 117  y_cov: 87  sigma: 43.55479259937917
+norm 37.23727914965568
+it  195  x_num: 74  x_cov: 72  y_num: 111  y_cov: 86  sigma: 43.55479259937917
+norm 2.301963896690735
+it  196  x_num: 74  x_cov: 72  y_num: 76  y_cov: 73  sigma: 41.089426980546385
+norm 4.502668494503201
+it  197  x_num: 74  x_cov: 72  y_num: 78  y_cov: 74  sigma: 41.089426980546385
+norm -14.60563704803638
+it  198  x_num: 74  x_cov: 72  y_num: 59  y_cov: 59  sigma: 41.089426980546385
+norm -34.00339371541676
+it  199  x_num: 74  x_cov: 72  y_num: 39  y_cov: 39  sigma: 41.089426980546385
+norm -13.326190388273229
+it  200  x_num: 74  x_cov: 72  y_num: 60  y_cov: 60  sigma: 41.089426980546385
+norm 9.442640733603092
+it  201  x_num: 74  x_cov: 72  y_num: 83  y_cov: 77  sigma: 41.089426980546385
+norm -32.28510910575905
+it  202  x_num: 74  x_cov: 72  y_num: 41  y_cov: 41  sigma: 41.089426980546385
+norm -28.606444526892943
+it  203  x_num: 74  x_cov: 72  y_num: 45  y_cov: 45  sigma: 41.089426980546385
+norm 29.808994487117047
+it  204  x_num: 74  x_cov: 72  y_num: 103  y_cov: 84  sigma: 41.089426980546385
+norm -10.203089952595798
+it  205  x_num: 74  x_cov: 72  y_num: 63  y_cov: 63  sigma: 41.089426980546385
+norm 49.42740374862292
+it  206  x_num: 74  x_cov: 72  y_num: 123  y_cov: 88  sigma: 41.089426980546385
+norm 1.2197894273877241
+it  207  x_num: 74  x_cov: 72  y_num: 75  y_cov: 72  sigma: 41.089426980546385
+norm 59.27800763220066
+it  208  x_num: 74  x_cov: 72  y_num: 133  y_cov: 90  sigma: 41.089426980546385
+norm -43.77143647924098
+it  209  x_num: 74  x_cov: 72  y_num: 30  y_cov: 30  sigma: 41.089426980546385
+norm 32.75308103477857
+it  210  x_num: 74  x_cov: 72  y_num: 106  y_cov: 85  sigma: 41.089426980546385
+norm 82.07529915702627
+it  211  x_num: 74  x_cov: 72  y_num: 156  y_cov: 92  sigma: 38.76361035900602
+norm -57.760306681292384
+it  212  x_num: 74  x_cov: 72  y_num: 16  y_cov: 16  sigma: 38.76361035900602
+norm 19.772251494594034
+it  213  x_num: 74  x_cov: 72  y_num: 93  y_cov: 81  sigma: 38.76361035900602
+norm 17.916753519989697
+it  214  x_num: 74  x_cov: 72  y_num: 91  y_cov: 80  sigma: 38.76361035900602
+norm -54.82886094053447
+it  215  x_num: 74  x_cov: 72  y_num: 19  y_cov: 19  sigma: 38.76361035900602
+norm -40.835261665204214
+it  216  x_num: 74  x_cov: 72  y_num: 33  y_cov: 33  sigma: 38.76361035900602
+norm 35.13057211140017
+it  217  x_num: 74  x_cov: 72  y_num: 109  y_cov: 86  sigma: 38.76361035900602
+norm 34.18480412951715
+it  218  x_num: 74  x_cov: 72  y_num: 108  y_cov: 85  sigma: 38.76361035900602
+norm -40.089929932716764
+it  219  x_num: 74  x_cov: 72  y_num: 33  y_cov: 33  sigma: 38.76361035900602
+norm 36.884980607523694
+it  220  x_num: 74  x_cov: 72  y_num: 110  y_cov: 86  sigma: 38.76361035900602
+norm 63.5813940340589
+it  221  x_num: 74  x_cov: 72  y_num: 137  y_cov: 90  sigma: 38.76361035900602
+norm 18.339686586671355
+it  222  x_num: 74  x_cov: 72  y_num: 92  y_cov: 81  sigma: 38.76361035900602
+norm -7.180203890983141
+it  223  x_num: 74  x_cov: 72  y_num: 66  y_cov: 66  sigma: 38.76361035900602
+norm 21.566145856751064
+it  224  x_num: 74  x_cov: 72  y_num: 95  y_cov: 82  sigma: 38.76361035900602
+norm 37.61139066636109
+it  225  x_num: 74  x_cov: 72  y_num: 111  y_cov: 86  sigma: 38.76361035900602
+norm -12.685989781759888
+it  226  x_num: 74  x_cov: 72  y_num: 61  y_cov: 61  sigma: 36.56944373491134
+norm 44.07690311217087
+it  227  x_num: 74  x_cov: 72  y_num: 118  y_cov: 87  sigma: 36.56944373491134
+norm -22.57025435724443
+it  228  x_num: 74  x_cov: 72  y_num: 51  y_cov: 51  sigma: 36.56944373491134
+norm 30.8398804619422
+it  229  x_num: 74  x_cov: 72  y_num: 104  y_cov: 84  sigma: 36.56944373491134
+norm 33.43741250616631
+it  230  x_num: 74  x_cov: 72  y_num: 107  y_cov: 85  sigma: 36.56944373491134
+norm 16.145887100537088
+it  231  x_num: 74  x_cov: 72  y_num: 90  y_cov: 80  sigma: 36.56944373491134
+norm -25.077872085709416
+it  232  x_num: 74  x_cov: 72  y_num: 48  y_cov: 48  sigma: 36.56944373491134
+norm -62.6721548763646
+it  233  x_num: 74  x_cov: 72  y_num: 11  y_cov: 11  sigma: 36.56944373491134
+norm -69.53657658931577
+it  234  x_num: 74  x_cov: 72  y_num: 4  y_cov: 4  sigma: 36.56944373491134
+norm -11.651954128748205
+it  235  x_num: 74  x_cov: 72  y_num: 62  y_cov: 62  sigma: 36.56944373491134
+norm 13.741855614344065
+it  236  x_num: 74  x_cov: 72  y_num: 87  y_cov: 79  sigma: 36.56944373491134
+norm -42.9133994690711
+it  237  x_num: 74  x_cov: 72  y_num: 31  y_cov: 31  sigma: 36.56944373491134
+norm -46.93959343122956
+it  238  x_num: 74  x_cov: 72  y_num: 27  y_cov: 27  sigma: 36.56944373491134
+norm 6.711700680298247
+it  239  x_num: 74  x_cov: 72  y_num: 80  y_cov: 76  sigma: 36.56944373491134
+norm -35.29628179712924
+it  240  x_num: 74  x_cov: 72  y_num: 38  y_cov: 38  sigma: 36.56944373491134
+norm 21.149275605503703
+it  241  x_num: 74  x_cov: 72  y_num: 95  y_cov: 82  sigma: 34.49947522161447
+norm -39.713051801740626
+it  242  x_num: 74  x_cov: 72  y_num: 34  y_cov: 34  sigma: 34.49947522161447
+norm 13.255214938718202
+it  243  x_num: 74  x_cov: 72  y_num: 87  y_cov: 79  sigma: 34.49947522161447
+norm 56.359680691321444
+it  244  x_num: 74  x_cov: 72  y_num: 130  y_cov: 89  sigma: 34.49947522161447
+norm -31.98152541378901
+it  245  x_num: 74  x_cov: 72  y_num: 42  y_cov: 42  sigma: 34.49947522161447
+norm 9.598348975601569
+it  246  x_num: 74  x_cov: 72  y_num: 83  y_cov: 77  sigma: 34.49947522161447
+norm 19.248675007819557
+it  247  x_num: 74  x_cov: 72  y_num: 93  y_cov: 81  sigma: 34.49947522161447
+norm -18.324625388869777
+it  248  x_num: 74  x_cov: 72  y_num: 55  y_cov: 55  sigma: 34.49947522161447
+norm 56.29667771294111
+it  249  x_num: 74  x_cov: 72  y_num: 130  y_cov: 89  sigma: 34.49947522161447
+norm 45.44989212353368
+it  250  x_num: 74  x_cov: 72  y_num: 119  y_cov: 87  sigma: 34.49947522161447
+norm 55.28926251802827
+it  251  x_num: 74  x_cov: 72  y_num: 129  y_cov: 89  sigma: 34.49947522161447
+norm 27.947329319297992
+it  252  x_num: 74  x_cov: 72  y_num: 101  y_cov: 83  sigma: 34.49947522161447
+norm -38.062593663881145
+it  253  x_num: 74  x_cov: 72  y_num: 35  y_cov: 35  sigma: 34.49947522161447
+norm -30.9090930978403
+it  254  x_num: 74  x_cov: 72  y_num: 43  y_cov: 43  sigma: 34.49947522161447
+norm 48.522490442865
+it  255  x_num: 74  x_cov: 72  y_num: 122  y_cov: 88  sigma: 34.49947522161447
+norm -15.62811633196804
+it  256  x_num: 74  x_cov: 72  y_num: 58  y_cov: 58  sigma: 32.546674737372136
+norm 5.810392535640897
+it  257  x_num: 74  x_cov: 72  y_num: 79  y_cov: 75  sigma: 32.546674737372136
+norm 33.42385230146283
+it  258  x_num: 74  x_cov: 72  y_num: 107  y_cov: 85  sigma: 32.546674737372136
+norm 4.57876941067014
+it  259  x_num: 74  x_cov: 72  y_num: 78  y_cov: 74  sigma: 32.546674737372136
+norm 0.25670817758665376
+it  260  x_num: 74  x_cov: 72  y_num: 74  y_cov: 72  sigma: 32.546674737372136
+norm 75.74836075951796
+it  261  x_num: 74  x_cov: 72  y_num: 149  y_cov: 91  sigma: 32.546674737372136
+norm -26.673385423857006
+it  262  x_num: 74  x_cov: 72  y_num: 47  y_cov: 47  sigma: 32.546674737372136
+norm 23.953034297910907
+it  263  x_num: 74  x_cov: 72  y_num: 97  y_cov: 82  sigma: 32.546674737372136
+norm 17.13289820084485
+it  264  x_num: 74  x_cov: 72  y_num: 91  y_cov: 80  sigma: 32.546674737372136
+norm -21.477716296943637
+it  265  x_num: 74  x_cov: 72  y_num: 52  y_cov: 52  sigma: 32.546674737372136
+norm -19.70296533068784
+it  266  x_num: 74  x_cov: 72  y_num: 54  y_cov: 54  sigma: 32.546674737372136
+norm -17.805307414299783
+it  267  x_num: 74  x_cov: 72  y_num: 56  y_cov: 56  sigma: 32.546674737372136
+norm -23.52120259190866
+it  268  x_num: 74  x_cov: 72  y_num: 50  y_cov: 50  sigma: 32.546674737372136
+norm 19.41413897051706
+it  269  x_num: 74  x_cov: 72  y_num: 93  y_cov: 81  sigma: 32.546674737372136
+norm 27.822311992610747
+it  270  x_num: 74  x_cov: 72  y_num: 101  y_cov: 83  sigma: 32.546674737372136
+norm 53.92233812498351
+it  271  x_num: 74  x_cov: 72  y_num: 127  y_cov: 89  sigma: 30.70441012959635
+norm 6.932630873440524
+it  272  x_num: 74  x_cov: 72  y_num: 80  y_cov: 76  sigma: 30.70441012959635
+norm -0.2992314932783338
+it  273  x_num: 74  x_cov: 72  y_num: 73  y_cov: 71  sigma: 30.70441012959635
+norm 39.92540816075183
+it  274  x_num: 73  x_cov: 71  y_num: 112  y_cov: 86  sigma: 30.70441012959635
+norm -20.341484378863374
+it  275  x_num: 73  x_cov: 71  y_num: 52  y_cov: 52  sigma: 30.70441012959635
+norm -10.51935357861325
+it  276  x_num: 73  x_cov: 71  y_num: 62  y_cov: 62  sigma: 30.70441012959635
+norm 7.134339927261276
+it  277  x_num: 73  x_cov: 71  y_num: 80  y_cov: 75  sigma: 30.70441012959635
+norm -10.821876998767674
+it  278  x_num: 73  x_cov: 71  y_num: 62  y_cov: 62  sigma: 30.70441012959635
+norm 27.691689853592752
+it  279  x_num: 73  x_cov: 71  y_num: 100  y_cov: 83  sigma: 30.70441012959635
+norm -44.442491286361914
+it  280  x_num: 73  x_cov: 71  y_num: 28  y_cov: 28  sigma: 30.70441012959635
+norm 0.7248625048819276
+it  281  x_num: 73  x_cov: 71  y_num: 73  y_cov: 71  sigma: 30.70441012959635
+norm 23.304695216102218
+it  282  x_num: 73  x_cov: 71  y_num: 96  y_cov: 82  sigma: 30.70441012959635
+norm 5.911777321204818
+it  283  x_num: 73  x_cov: 71  y_num: 78  y_cov: 74  sigma: 30.70441012959635
+norm -30.070841241280775
+it  284  x_num: 73  x_cov: 71  y_num: 42  y_cov: 42  sigma: 30.70441012959635
+norm 10.519955517230628
+it  285  x_num: 73  x_cov: 71  y_num: 83  y_cov: 77  sigma: 30.70441012959635
+norm -16.430103223623266
+it  286  x_num: 73  x_cov: 71  y_num: 56  y_cov: 56  sigma: 28.96642465056259
+norm 64.55643685067267
+it  287  x_num: 73  x_cov: 71  y_num: 137  y_cov: 90  sigma: 28.96642465056259
+norm -32.31841043539783
+it  288  x_num: 73  x_cov: 71  y_num: 40  y_cov: 40  sigma: 28.96642465056259
+norm -24.74106214975381
+it  289  x_num: 73  x_cov: 71  y_num: 48  y_cov: 48  sigma: 28.96642465056259
+norm -12.593782504224887
+it  290  x_num: 73  x_cov: 71  y_num: 60  y_cov: 60  sigma: 28.96642465056259
+norm -8.905065163521051
+it  291  x_num: 73  x_cov: 71  y_num: 64  y_cov: 64  sigma: 28.96642465056259
+norm 19.55919516778069
+it  292  x_num: 73  x_cov: 71  y_num: 92  y_cov: 81  sigma: 28.96642465056259
+norm -8.300723212093205
+it  293  x_num: 73  x_cov: 71  y_num: 64  y_cov: 64  sigma: 28.96642465056259
+norm 3.0270511491325762
+it  294  x_num: 73  x_cov: 71  y_num: 76  y_cov: 73  sigma: 28.96642465056259
+norm 7.0884214324870545
+it  295  x_num: 73  x_cov: 71  y_num: 80  y_cov: 75  sigma: 28.96642465056259
+norm 26.13743225344048
+it  296  x_num: 73  x_cov: 71  y_num: 99  y_cov: 83  sigma: 28.96642465056259
+norm 9.473603119134795
+it  297  x_num: 73  x_cov: 71  y_num: 82  y_cov: 76  sigma: 28.96642465056259
+norm 22.108096452057232
+it  298  x_num: 73  x_cov: 71  y_num: 95  y_cov: 82  sigma: 28.96642465056259
+norm 40.410828917639456
+it  299  x_num: 73  x_cov: 71  y_num: 113  y_cov: 86  sigma: 28.96642465056259
+norm 20.239748104379196
+it  300  x_num: 73  x_cov: 71  y_num: 93  y_cov: 81  sigma: 28.96642465056259
+norm 23.700415300301803
+it  301  x_num: 73  x_cov: 71  y_num: 96  y_cov: 82  sigma: 27.326815708077913
+norm 19.071566045974155
+it  302  x_num: 73  x_cov: 71  y_num: 92  y_cov: 81  sigma: 27.326815708077913
+norm 24.82462283762177
+it  303  x_num: 73  x_cov: 71  y_num: 97  y_cov: 82  sigma: 27.326815708077913
+norm 34.02291626012238
+it  304  x_num: 73  x_cov: 71  y_num: 107  y_cov: 85  sigma: 27.326815708077913
+norm 20.23900373669844
+it  305  x_num: 73  x_cov: 71  y_num: 93  y_cov: 81  sigma: 27.326815708077913
+norm -44.194409152495616
+it  306  x_num: 73  x_cov: 71  y_num: 28  y_cov: 28  sigma: 27.326815708077913
+norm 16.365398682794492
+it  307  x_num: 73  x_cov: 71  y_num: 89  y_cov: 79  sigma: 27.326815708077913
+norm -41.45897475302671
+it  308  x_num: 73  x_cov: 71  y_num: 31  y_cov: 31  sigma: 27.326815708077913
+norm -52.093016194652556
+it  309  x_num: 73  x_cov: 71  y_num: 20  y_cov: 20  sigma: 27.326815708077913
+norm -11.452291312614442
+it  310  x_num: 73  x_cov: 71  y_num: 61  y_cov: 61  sigma: 27.326815708077913
+norm -17.089745486510367
+it  311  x_num: 73  x_cov: 71  y_num: 55  y_cov: 55  sigma: 27.326815708077913
+norm 15.921257949490295
+it  312  x_num: 73  x_cov: 71  y_num: 88  y_cov: 79  sigma: 27.326815708077913
+norm -16.521543824771665
+it  313  x_num: 73  x_cov: 71  y_num: 56  y_cov: 56  sigma: 27.326815708077913
+norm -23.43127780343229
+it  314  x_num: 73  x_cov: 71  y_num: 49  y_cov: 49  sigma: 27.326815708077913
+norm 18.621730365648325
+it  315  x_num: 73  x_cov: 71  y_num: 91  y_cov: 80  sigma: 27.326815708077913
+norm -16.566774497660752
+it  316  x_num: 73  x_cov: 71  y_num: 56  y_cov: 56  sigma: 25.780014818941424
+norm -27.79957351157476
+it  317  x_num: 73  x_cov: 71  y_num: 45  y_cov: 45  sigma: 25.780014818941424
+norm 7.336907829711952
+it  318  x_num: 73  x_cov: 71  y_num: 80  y_cov: 75  sigma: 25.780014818941424
+norm 6.049746200999576
+it  319  x_num: 73  x_cov: 71  y_num: 79  y_cov: 75  sigma: 25.780014818941424
+norm -12.534029276230417
+it  320  x_num: 73  x_cov: 71  y_num: 60  y_cov: 60  sigma: 25.780014818941424
+norm 24.10927149860726
+it  321  x_num: 73  x_cov: 71  y_num: 97  y_cov: 82  sigma: 25.780014818941424
+norm 6.755538948242513
+it  322  x_num: 73  x_cov: 71  y_num: 79  y_cov: 75  sigma: 25.780014818941424
+norm -92.15270907633115
+it  323  x_num: 73  x_cov: 71  y_num: 1  y_cov: 1  sigma: 25.780014818941424
+norm 22.870417874985613
+it  324  x_num: 73  x_cov: 71  y_num: 95  y_cov: 82  sigma: 25.780014818941424
+norm -4.944673670527058
+it  325  x_num: 73  x_cov: 71  y_num: 68  y_cov: 67  sigma: 25.780014818941424
+norm -15.683663771760482
+it  326  x_num: 73  x_cov: 71  y_num: 57  y_cov: 57  sigma: 25.780014818941424
+norm -8.665213464735562
+it  327  x_num: 73  x_cov: 71  y_num: 64  y_cov: 64  sigma: 25.780014818941424
+norm 27.62338304998469
+it  328  x_num: 73  x_cov: 71  y_num: 100  y_cov: 83  sigma: 25.780014818941424
+norm -1.8539596097750364
+it  329  x_num: 73  x_cov: 71  y_num: 71  y_cov: 70  sigma: 25.780014818941424
+norm -15.52859052894102
+it  330  x_num: 71  x_cov: 70  y_num: 55  y_cov: 55  sigma: 25.780014818941424
+norm 9.888562257232355
+it  331  x_num: 71  x_cov: 70  y_num: 80  y_cov: 75  sigma: 24.32076869711455
+norm -27.903287857378007
+it  332  x_num: 71  x_cov: 70  y_num: 43  y_cov: 43  sigma: 24.32076869711455
+norm -2.5697711932256397
+it  333  x_num: 71  x_cov: 70  y_num: 68  y_cov: 67  sigma: 24.32076869711455
+norm -6.932245725906137
+it  334  x_num: 71  x_cov: 70  y_num: 64  y_cov: 64  sigma: 24.32076869711455
+norm -2.369015046218714
+it  335  x_num: 71  x_cov: 70  y_num: 68  y_cov: 67  sigma: 24.32076869711455
+norm 14.185128124661455
+it  336  x_num: 71  x_cov: 70  y_num: 85  y_cov: 78  sigma: 24.32076869711455
+norm -8.505890143391436
+it  337  x_num: 71  x_cov: 70  y_num: 62  y_cov: 62  sigma: 24.32076869711455
+norm 3.5016576400999226
+it  338  x_num: 71  x_cov: 70  y_num: 74  y_cov: 72  sigma: 24.32076869711455
+norm -1.5703736644893276
+it  339  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 24.32076869711455
+norm 15.021893719996271
+it  340  x_num: 71  x_cov: 70  y_num: 86  y_cov: 78  sigma: 24.32076869711455
+norm -23.426213766086505
+it  341  x_num: 71  x_cov: 70  y_num: 47  y_cov: 47  sigma: 24.32076869711455
+norm -15.276532865897764
+it  342  x_num: 71  x_cov: 70  y_num: 55  y_cov: 55  sigma: 24.32076869711455
+norm -11.556869110489387
+it  343  x_num: 71  x_cov: 70  y_num: 59  y_cov: 59  sigma: 24.32076869711455
+norm 42.77283577916907
+it  344  x_num: 71  x_cov: 70  y_num: 113  y_cov: 86  sigma: 24.32076869711455
+norm -11.876638020172212
+it  345  x_num: 71  x_cov: 70  y_num: 59  y_cov: 59  sigma: 24.32076869711455
+norm 15.103188790644067
+it  346  x_num: 71  x_cov: 70  y_num: 86  y_cov: 78  sigma: 22.944121412372212
+norm -6.747962199071149
+it  347  x_num: 71  x_cov: 70  y_num: 64  y_cov: 64  sigma: 22.944121412372212
+norm 24.38569706894991
+it  348  x_num: 71  x_cov: 70  y_num: 95  y_cov: 81  sigma: 22.944121412372212
+norm -4.036486314590453
+it  349  x_num: 71  x_cov: 70  y_num: 66  y_cov: 66  sigma: 22.944121412372212
+norm 3.129962810319996
+it  350  x_num: 71  x_cov: 70  y_num: 74  y_cov: 72  sigma: 22.944121412372212
+norm 24.93537722560173
+it  351  x_num: 71  x_cov: 70  y_num: 95  y_cov: 81  sigma: 22.944121412372212
+norm 31.703728208311947
+it  352  x_num: 71  x_cov: 70  y_num: 102  y_cov: 83  sigma: 22.944121412372212
+norm -17.632944321997908
+it  353  x_num: 71  x_cov: 70  y_num: 53  y_cov: 53  sigma: 22.944121412372212
+norm 5.846479084860097
+it  354  x_num: 71  x_cov: 70  y_num: 76  y_cov: 73  sigma: 22.944121412372212
+norm -48.45660148578917
+it  355  x_num: 71  x_cov: 70  y_num: 22  y_cov: 22  sigma: 22.944121412372212
+norm 18.38947400126025
+it  356  x_num: 71  x_cov: 70  y_num: 89  y_cov: 79  sigma: 22.944121412372212
+norm 7.338766997247509
+it  357  x_num: 71  x_cov: 70  y_num: 78  y_cov: 74  sigma: 22.944121412372212
+norm 7.194494983855009
+it  358  x_num: 71  x_cov: 70  y_num: 78  y_cov: 74  sigma: 22.944121412372212
+norm 10.275761021369787
+it  359  x_num: 71  x_cov: 70  y_num: 81  y_cov: 76  sigma: 22.944121412372212
+norm 5.866621297843763
+it  360  x_num: 71  x_cov: 70  y_num: 76  y_cov: 73  sigma: 22.944121412372212
+norm -9.401349522218013
+it  361  x_num: 71  x_cov: 70  y_num: 61  y_cov: 61  sigma: 21.645397558841708
+norm 2.8446546873672416
+it  362  x_num: 71  x_cov: 70  y_num: 73  y_cov: 71  sigma: 21.645397558841708
+norm 9.639943110795574
+it  363  x_num: 71  x_cov: 70  y_num: 80  y_cov: 75  sigma: 21.645397558841708
+norm -16.05428012698333
+it  364  x_num: 71  x_cov: 70  y_num: 54  y_cov: 54  sigma: 21.645397558841708
+norm -5.784828837611021
+it  365  x_num: 71  x_cov: 70  y_num: 65  y_cov: 65  sigma: 21.645397558841708
+norm -8.498571896106972
+it  366  x_num: 71  x_cov: 70  y_num: 62  y_cov: 62  sigma: 21.645397558841708
+norm 19.94619799805224
+it  367  x_num: 71  x_cov: 70  y_num: 90  y_cov: 80  sigma: 21.645397558841708
+norm -12.07705725211237
+it  368  x_num: 71  x_cov: 70  y_num: 58  y_cov: 58  sigma: 21.645397558841708
+norm -13.789414643040043
+it  369  x_num: 71  x_cov: 70  y_num: 57  y_cov: 57  sigma: 21.645397558841708
+norm 1.122829293762138
+it  370  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 21.645397558841708
+norm 10.163687596064944
+it  371  x_num: 71  x_cov: 70  y_num: 81  y_cov: 76  sigma: 21.645397558841708
+norm -7.77741116685911
+it  372  x_num: 71  x_cov: 70  y_num: 63  y_cov: 63  sigma: 21.645397558841708
+norm -14.149646187732671
+it  373  x_num: 71  x_cov: 70  y_num: 56  y_cov: 56  sigma: 21.645397558841708
+norm 52.48786389925222
+it  374  x_num: 71  x_cov: 70  y_num: 123  y_cov: 88  sigma: 21.645397558841708
+norm 33.66616734639421
+it  375  x_num: 71  x_cov: 70  y_num: 104  y_cov: 84  sigma: 21.645397558841708
+norm 0.06507026758574286
+it  376  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 20.42018637626576
+norm -3.1836386611090943
+it  377  x_num: 71  x_cov: 70  y_num: 67  y_cov: 67  sigma: 20.42018637626576
+norm -25.171888587685412
+it  378  x_num: 71  x_cov: 70  y_num: 45  y_cov: 45  sigma: 20.42018637626576
+norm 9.034659719439901
+it  379  x_num: 71  x_cov: 70  y_num: 80  y_cov: 75  sigma: 20.42018637626576
+norm -17.736281328645635
+it  380  x_num: 71  x_cov: 70  y_num: 53  y_cov: 53  sigma: 20.42018637626576
+norm 17.619459868650846
+it  381  x_num: 71  x_cov: 70  y_num: 88  y_cov: 79  sigma: 20.42018637626576
+norm 23.336381025562673
+it  382  x_num: 71  x_cov: 70  y_num: 94  y_cov: 81  sigma: 20.42018637626576
+norm 0.3351636194140669
+it  383  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 20.42018637626576
+norm -0.2856195883885894
+it  384  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 20.42018637626576
+norm 2.0532323838009177
+it  385  x_num: 71  x_cov: 70  y_num: 73  y_cov: 71  sigma: 20.42018637626576
+norm 8.556706230821144
+it  386  x_num: 71  x_cov: 70  y_num: 79  y_cov: 75  sigma: 20.42018637626576
+norm -11.021584099567967
+it  387  x_num: 71  x_cov: 70  y_num: 59  y_cov: 59  sigma: 20.42018637626576
+norm -20.273775035368317
+it  388  x_num: 71  x_cov: 70  y_num: 50  y_cov: 50  sigma: 20.42018637626576
+norm -3.981500243459227
+it  389  x_num: 71  x_cov: 70  y_num: 67  y_cov: 67  sigma: 20.42018637626576
+norm 9.81295216955462
+it  390  x_num: 71  x_cov: 70  y_num: 80  y_cov: 75  sigma: 20.42018637626576
+norm 8.643259133840676
+it  391  x_num: 71  x_cov: 70  y_num: 79  y_cov: 75  sigma: 19.264326770062038
+norm 0.8672053634142249
+it  392  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 19.264326770062038
+norm -8.083079268428499
+it  393  x_num: 71  x_cov: 70  y_num: 62  y_cov: 62  sigma: 19.264326770062038
+norm 13.841672185631793
+it  394  x_num: 71  x_cov: 70  y_num: 84  y_cov: 77  sigma: 19.264326770062038
+norm 15.181055183853031
+it  395  x_num: 71  x_cov: 70  y_num: 86  y_cov: 78  sigma: 19.264326770062038
+norm -0.5154647058800416
+it  396  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 19.264326770062038
+norm -3.0711184297185987
+it  397  x_num: 71  x_cov: 70  y_num: 67  y_cov: 67  sigma: 19.264326770062038
+norm -37.51060401218419
+it  398  x_num: 71  x_cov: 70  y_num: 33  y_cov: 33  sigma: 19.264326770062038
+norm -10.64885689962743
+it  399  x_num: 71  x_cov: 70  y_num: 60  y_cov: 60  sigma: 19.264326770062038
+norm 1.861691094797158
+it  400  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 19.264326770062038
+norm 3.6118272817673316
+it  401  x_num: 71  x_cov: 70  y_num: 74  y_cov: 72  sigma: 19.264326770062038
+norm 11.383517364756624
+it  402  x_num: 71  x_cov: 70  y_num: 82  y_cov: 76  sigma: 19.264326770062038
+norm -7.391978309428192
+it  403  x_num: 71  x_cov: 70  y_num: 63  y_cov: 63  sigma: 19.264326770062038
+norm -14.86939164879421
+it  404  x_num: 71  x_cov: 70  y_num: 56  y_cov: 56  sigma: 19.264326770062038
+norm 16.4214164806715
+it  405  x_num: 71  x_cov: 70  y_num: 87  y_cov: 79  sigma: 19.264326770062038
+norm -12.595443166356867
+it  406  x_num: 71  x_cov: 70  y_num: 58  y_cov: 58  sigma: 18.173893179303807
+norm -0.9878637998104739
+it  407  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 18.173893179303807
+norm 12.919270672940996
+it  408  x_num: 71  x_cov: 70  y_num: 83  y_cov: 77  sigma: 18.173893179303807
+norm 5.619089557180231
+it  409  x_num: 71  x_cov: 70  y_num: 76  y_cov: 73  sigma: 18.173893179303807
+norm -5.420628065247108
+it  410  x_num: 71  x_cov: 70  y_num: 65  y_cov: 65  sigma: 18.173893179303807
+norm 8.193137197809705
+it  411  x_num: 71  x_cov: 70  y_num: 79  y_cov: 75  sigma: 18.173893179303807
+norm -33.62907649122176
+it  412  x_num: 71  x_cov: 70  y_num: 37  y_cov: 37  sigma: 18.173893179303807
+norm -33.09903650451402
+it  413  x_num: 71  x_cov: 70  y_num: 37  y_cov: 37  sigma: 18.173893179303807
+norm -14.83369305326512
+it  414  x_num: 71  x_cov: 70  y_num: 56  y_cov: 56  sigma: 18.173893179303807
+norm -13.827405257244772
+it  415  x_num: 71  x_cov: 70  y_num: 57  y_cov: 57  sigma: 18.173893179303807
+norm -9.139100266295452
+it  416  x_num: 71  x_cov: 70  y_num: 61  y_cov: 61  sigma: 18.173893179303807
+norm -4.485794569652411
+it  417  x_num: 71  x_cov: 70  y_num: 66  y_cov: 66  sigma: 18.173893179303807
+norm -18.28034768269876
+it  418  x_num: 71  x_cov: 70  y_num: 52  y_cov: 52  sigma: 18.173893179303807
+norm -1.2413970632431226
+it  419  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 18.173893179303807
+norm -21.702096791310424
+it  420  x_num: 71  x_cov: 70  y_num: 49  y_cov: 49  sigma: 18.173893179303807
+norm 15.544434733835528
+it  421  x_num: 71  x_cov: 70  y_num: 86  y_cov: 78  sigma: 17.14518224462623
+norm -19.128689161224727
+it  422  x_num: 71  x_cov: 70  y_num: 51  y_cov: 51  sigma: 17.14518224462623
+norm 7.90057797347251
+it  423  x_num: 71  x_cov: 70  y_num: 78  y_cov: 74  sigma: 17.14518224462623
+norm -17.96498329680703
+it  424  x_num: 71  x_cov: 70  y_num: 53  y_cov: 53  sigma: 17.14518224462623
+norm -0.9663305421022876
+it  425  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 17.14518224462623
+norm 15.107161360079647
+it  426  x_num: 71  x_cov: 70  y_num: 86  y_cov: 78  sigma: 17.14518224462623
+norm 2.3091037565923944
+it  427  x_num: 71  x_cov: 70  y_num: 73  y_cov: 71  sigma: 17.14518224462623
+norm -19.122851046239365
+it  428  x_num: 71  x_cov: 70  y_num: 51  y_cov: 51  sigma: 17.14518224462623
+norm -11.516381135932289
+it  429  x_num: 71  x_cov: 70  y_num: 59  y_cov: 59  sigma: 17.14518224462623
+norm -15.608053544741095
+it  430  x_num: 71  x_cov: 70  y_num: 55  y_cov: 55  sigma: 17.14518224462623
+norm 2.9862981847863446
+it  431  x_num: 71  x_cov: 70  y_num: 73  y_cov: 71  sigma: 17.14518224462623
+norm -22.620113030860633
+it  432  x_num: 71  x_cov: 70  y_num: 48  y_cov: 48  sigma: 17.14518224462623
+norm -8.651424111145845
+it  433  x_num: 71  x_cov: 70  y_num: 62  y_cov: 62  sigma: 17.14518224462623
+norm 4.362664388234057
+it  434  x_num: 71  x_cov: 70  y_num: 75  y_cov: 72  sigma: 17.14518224462623
+norm 23.442130744931806
+it  435  x_num: 71  x_cov: 70  y_num: 94  y_cov: 81  sigma: 17.14518224462623
+norm 15.238843214678553
+it  436  x_num: 71  x_cov: 70  y_num: 86  y_cov: 78  sigma: 16.17470023077946
+norm 5.84139554383309
+it  437  x_num: 71  x_cov: 70  y_num: 76  y_cov: 73  sigma: 16.17470023077946
+norm -6.289002253665585
+it  438  x_num: 71  x_cov: 70  y_num: 64  y_cov: 64  sigma: 16.17470023077946
+norm 1.8870436910206485
+it  439  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 16.17470023077946
+norm -7.770611090395699
+it  440  x_num: 71  x_cov: 70  y_num: 63  y_cov: 63  sigma: 16.17470023077946
+norm 3.907523013613982
+it  441  x_num: 71  x_cov: 70  y_num: 74  y_cov: 72  sigma: 16.17470023077946
+norm -8.72508817694945
+it  442  x_num: 71  x_cov: 70  y_num: 62  y_cov: 62  sigma: 16.17470023077946
+norm 8.078067034275877
+it  443  x_num: 71  x_cov: 70  y_num: 79  y_cov: 75  sigma: 16.17470023077946
+norm 5.217340388870288
+it  444  x_num: 71  x_cov: 70  y_num: 76  y_cov: 73  sigma: 16.17470023077946
+norm 22.45657397026277
+it  445  x_num: 71  x_cov: 70  y_num: 93  y_cov: 81  sigma: 16.17470023077946
+norm -29.203448456798583
+it  446  x_num: 71  x_cov: 70  y_num: 41  y_cov: 41  sigma: 16.17470023077946
+norm 17.310210955197235
+it  447  x_num: 71  x_cov: 70  y_num: 88  y_cov: 79  sigma: 16.17470023077946
+norm -0.900592251795538
+it  448  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 16.17470023077946
+norm -20.627934323645253
+it  449  x_num: 71  x_cov: 70  y_num: 50  y_cov: 50  sigma: 16.17470023077946
+norm 7.694061680927845
+it  450  x_num: 71  x_cov: 70  y_num: 78  y_cov: 74  sigma: 16.17470023077946
+norm -9.727845723184068
+it  451  x_num: 71  x_cov: 70  y_num: 61  y_cov: 61  sigma: 15.259151161112698
+norm 13.37622631305204
+it  452  x_num: 71  x_cov: 70  y_num: 84  y_cov: 77  sigma: 15.259151161112698
+norm -30.087366291034563
+it  453  x_num: 71  x_cov: 70  y_num: 40  y_cov: 40  sigma: 15.259151161112698
+norm -4.733798304392403
+it  454  x_num: 71  x_cov: 70  y_num: 66  y_cov: 66  sigma: 15.259151161112698
+norm 9.519055258437572
+it  455  x_num: 71  x_cov: 70  y_num: 80  y_cov: 75  sigma: 15.259151161112698
+norm -6.305208098104872
+it  456  x_num: 71  x_cov: 70  y_num: 64  y_cov: 64  sigma: 15.259151161112698
+norm -28.57143623821011
+it  457  x_num: 71  x_cov: 70  y_num: 42  y_cov: 42  sigma: 15.259151161112698
+norm -13.19402955201917
+it  458  x_num: 71  x_cov: 70  y_num: 57  y_cov: 57  sigma: 15.259151161112698
+norm -11.8569839461176
+it  459  x_num: 71  x_cov: 70  y_num: 59  y_cov: 59  sigma: 15.259151161112698
+norm 1.5778405213406368
+it  460  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 15.259151161112698
+norm 12.257164126409458
+it  461  x_num: 71  x_cov: 70  y_num: 83  y_cov: 77  sigma: 15.259151161112698
+norm -6.471408584092743
+it  462  x_num: 71  x_cov: 70  y_num: 64  y_cov: 64  sigma: 15.259151161112698
+norm -5.943012428512948
+it  463  x_num: 71  x_cov: 70  y_num: 65  y_cov: 65  sigma: 15.259151161112698
+norm 12.604067049062865
+it  464  x_num: 71  x_cov: 70  y_num: 83  y_cov: 77  sigma: 15.259151161112698
+norm -2.542243032347091
+it  465  x_num: 71  x_cov: 70  y_num: 68  y_cov: 67  sigma: 15.259151161112698
+norm 34.639707084666405
+it  466  x_num: 71  x_cov: 70  y_num: 105  y_cov: 84  sigma: 14.395425623691223
+norm 10.548513173361881
+it  467  x_num: 71  x_cov: 70  y_num: 81  y_cov: 76  sigma: 14.395425623691223
+norm -18.985361372786926
+it  468  x_num: 71  x_cov: 70  y_num: 52  y_cov: 52  sigma: 14.395425623691223
+norm -6.02830451876274
+it  469  x_num: 71  x_cov: 70  y_num: 64  y_cov: 64  sigma: 14.395425623691223
+norm -4.426862845804387
+it  470  x_num: 71  x_cov: 70  y_num: 66  y_cov: 66  sigma: 14.395425623691223
+norm -7.979955531553508
+it  471  x_num: 71  x_cov: 70  y_num: 63  y_cov: 63  sigma: 14.395425623691223
+norm -6.9512834056472785
+it  472  x_num: 71  x_cov: 70  y_num: 64  y_cov: 64  sigma: 14.395425623691223
+norm -0.6214262671479848
+it  473  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 14.395425623691223
+norm 14.362762230051697
+it  474  x_num: 71  x_cov: 70  y_num: 85  y_cov: 78  sigma: 14.395425623691223
+norm 6.120454676808935
+it  475  x_num: 71  x_cov: 70  y_num: 77  y_cov: 74  sigma: 14.395425623691223
+norm -27.94921174634003
+it  476  x_num: 71  x_cov: 70  y_num: 43  y_cov: 43  sigma: 14.395425623691223
+norm 5.427676586784308
+it  477  x_num: 71  x_cov: 70  y_num: 76  y_cov: 73  sigma: 14.395425623691223
+norm -5.638032577401072
+it  478  x_num: 71  x_cov: 70  y_num: 65  y_cov: 65  sigma: 14.395425623691223
+norm 9.551398627165607
+it  479  x_num: 71  x_cov: 70  y_num: 80  y_cov: 75  sigma: 14.395425623691223
+norm -0.033323626007976885
+it  480  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 14.395425623691223
+norm -3.849950840997098
+it  481  x_num: 71  x_cov: 70  y_num: 67  y_cov: 67  sigma: 13.580590211029454
+norm 11.136175327417243
+it  482  x_num: 71  x_cov: 70  y_num: 82  y_cov: 76  sigma: 13.580590211029454
+norm 9.027825078329476
+it  483  x_num: 71  x_cov: 70  y_num: 80  y_cov: 75  sigma: 13.580590211029454
+norm -1.5688093077088057
+it  484  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 13.580590211029454
+norm 2.4380841198173
+it  485  x_num: 71  x_cov: 70  y_num: 73  y_cov: 71  sigma: 13.580590211029454
+norm 3.5791786194108237
+it  486  x_num: 71  x_cov: 70  y_num: 74  y_cov: 72  sigma: 13.580590211029454
+norm 11.358508002628533
+it  487  x_num: 71  x_cov: 70  y_num: 82  y_cov: 76  sigma: 13.580590211029454
+norm -0.057354098941402656
+it  488  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 13.580590211029454
+norm 4.420244609402829
+it  489  x_num: 71  x_cov: 70  y_num: 75  y_cov: 72  sigma: 13.580590211029454
+norm 22.591703338938693
+it  490  x_num: 71  x_cov: 70  y_num: 93  y_cov: 81  sigma: 13.580590211029454
+norm -10.968716111386957
+it  491  x_num: 71  x_cov: 70  y_num: 60  y_cov: 60  sigma: 13.580590211029454
+norm -0.33729208660170207
+it  492  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 13.580590211029454
+norm 2.281262207069028
+it  493  x_num: 71  x_cov: 70  y_num: 73  y_cov: 71  sigma: 13.580590211029454
+norm 16.90449724830686
+it  494  x_num: 71  x_cov: 70  y_num: 87  y_cov: 79  sigma: 13.580590211029454
+norm -5.46136883930647
+it  495  x_num: 71  x_cov: 70  y_num: 65  y_cov: 65  sigma: 13.580590211029454
+norm 3.511604234944061
+it  496  x_num: 71  x_cov: 70  y_num: 74  y_cov: 72  sigma: 12.811877557574956
+norm -0.46217357065987424
+it  497  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 12.811877557574956
+norm 6.144722517411552
+it  498  x_num: 71  x_cov: 70  y_num: 77  y_cov: 74  sigma: 12.811877557574956
+norm -17.28100052791101
+it  499  x_num: 71  x_cov: 70  y_num: 53  y_cov: 53  sigma: 12.811877557574956
+norm 7.319488689842622
+it  500  x_num: 71  x_cov: 70  y_num: 78  y_cov: 74  sigma: 12.811877557574956
+norm -14.890920619829974
+it  501  x_num: 71  x_cov: 70  y_num: 56  y_cov: 56  sigma: 12.811877557574956
+norm -4.787686783872636
+it  502  x_num: 71  x_cov: 70  y_num: 66  y_cov: 66  sigma: 12.811877557574956
+norm 4.538673433973309
+it  503  x_num: 71  x_cov: 70  y_num: 75  y_cov: 72  sigma: 12.811877557574956
+norm 9.275660939599694
+it  504  x_num: 71  x_cov: 70  y_num: 80  y_cov: 75  sigma: 12.811877557574956
+norm -8.99362728385618
+it  505  x_num: 71  x_cov: 70  y_num: 62  y_cov: 62  sigma: 12.811877557574956
+norm -14.879465646905835
+it  506  x_num: 71  x_cov: 70  y_num: 56  y_cov: 56  sigma: 12.811877557574956
+norm 2.0771726341950036
+it  507  x_num: 71  x_cov: 70  y_num: 73  y_cov: 71  sigma: 12.811877557574956
+norm -17.25892973181527
+it  508  x_num: 71  x_cov: 70  y_num: 53  y_cov: 53  sigma: 12.811877557574956
+norm 28.090236391588736
+it  509  x_num: 71  x_cov: 70  y_num: 99  y_cov: 82  sigma: 12.811877557574956
+norm 21.937062807245418
+it  510  x_num: 71  x_cov: 70  y_num: 92  y_cov: 81  sigma: 12.811877557574956
+norm 1.6923149250112404
+it  511  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 12.086676941108447
+norm 4.122622070890833
+it  512  x_num: 71  x_cov: 70  y_num: 75  y_cov: 72  sigma: 12.086676941108447
+norm 10.721144857977386
+it  513  x_num: 71  x_cov: 70  y_num: 81  y_cov: 76  sigma: 12.086676941108447
+norm -9.110459575849521
+it  514  x_num: 71  x_cov: 70  y_num: 61  y_cov: 61  sigma: 12.086676941108447
+norm 13.600951468374214
+it  515  x_num: 71  x_cov: 70  y_num: 84  y_cov: 77  sigma: 12.086676941108447
+norm 7.541948083406443
+it  516  x_num: 71  x_cov: 70  y_num: 78  y_cov: 74  sigma: 12.086676941108447
+norm -24.87571340798599
+it  517  x_num: 71  x_cov: 70  y_num: 46  y_cov: 46  sigma: 12.086676941108447
+norm -4.343572224457607
+it  518  x_num: 71  x_cov: 70  y_num: 66  y_cov: 66  sigma: 12.086676941108447
+norm -18.22489909706319
+it  519  x_num: 71  x_cov: 70  y_num: 52  y_cov: 52  sigma: 12.086676941108447
+norm 2.627416705418111
+it  520  x_num: 71  x_cov: 70  y_num: 73  y_cov: 71  sigma: 12.086676941108447
+norm 17.39320951800473
+it  521  x_num: 71  x_cov: 70  y_num: 88  y_cov: 79  sigma: 12.086676941108447
+norm -0.8311493136509182
+it  522  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 12.086676941108447
+norm -21.744719296262424
+it  523  x_num: 71  x_cov: 70  y_num: 49  y_cov: 49  sigma: 12.086676941108447
+norm 22.054210952930838
+it  524  x_num: 71  x_cov: 70  y_num: 93  y_cov: 81  sigma: 12.086676941108447
+norm 4.861081289233938
+it  525  x_num: 71  x_cov: 70  y_num: 75  y_cov: 72  sigma: 12.086676941108447
+norm 1.2918857868347802
+it  526  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 11.402525416140042
+norm 7.442887681658163
+it  527  x_num: 71  x_cov: 70  y_num: 78  y_cov: 74  sigma: 11.402525416140042
+norm -9.222816330727104
+it  528  x_num: 71  x_cov: 70  y_num: 61  y_cov: 61  sigma: 11.402525416140042
+norm -6.080974991665467
+it  529  x_num: 71  x_cov: 70  y_num: 64  y_cov: 64  sigma: 11.402525416140042
+norm 7.918776832713313
+it  530  x_num: 71  x_cov: 70  y_num: 78  y_cov: 74  sigma: 11.402525416140042
+norm -1.2461387763371667
+it  531  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 11.402525416140042
+norm -4.397465132255604
+it  532  x_num: 71  x_cov: 70  y_num: 66  y_cov: 66  sigma: 11.402525416140042
+norm 6.019353189191756
+it  533  x_num: 71  x_cov: 70  y_num: 77  y_cov: 74  sigma: 11.402525416140042
+norm 30.8424140156299
+it  534  x_num: 71  x_cov: 70  y_num: 101  y_cov: 83  sigma: 11.402525416140042
+norm 7.486815056799433
+it  535  x_num: 71  x_cov: 70  y_num: 78  y_cov: 74  sigma: 11.402525416140042
+norm 4.410338307260751
+it  536  x_num: 71  x_cov: 70  y_num: 75  y_cov: 72  sigma: 11.402525416140042
+norm 3.1809736678384737
+it  537  x_num: 71  x_cov: 70  y_num: 74  y_cov: 72  sigma: 11.402525416140042
+norm -5.381591716680833
+it  538  x_num: 71  x_cov: 70  y_num: 65  y_cov: 65  sigma: 11.402525416140042
+norm -27.666167501910103
+it  539  x_num: 71  x_cov: 70  y_num: 43  y_cov: 43  sigma: 11.402525416140042
+norm -10.657883867527461
+it  540  x_num: 71  x_cov: 70  y_num: 60  y_cov: 60  sigma: 11.402525416140042
+norm 5.308107154299203
+it  541  x_num: 71  x_cov: 70  y_num: 76  y_cov: 73  sigma: 10.757099449188718
+norm -9.42800555349336
+it  542  x_num: 71  x_cov: 70  y_num: 61  y_cov: 61  sigma: 10.757099449188718
+norm 27.42457332566796
+it  543  x_num: 71  x_cov: 70  y_num: 98  y_cov: 82  sigma: 10.757099449188718
+norm 16.10218906394958
+it  544  x_num: 71  x_cov: 70  y_num: 87  y_cov: 79  sigma: 10.757099449188718
+norm 0.6708588091527257
+it  545  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 10.757099449188718
+norm 10.144228965256099
+it  546  x_num: 71  x_cov: 70  y_num: 81  y_cov: 76  sigma: 10.757099449188718
+norm 7.578679757529861
+it  547  x_num: 71  x_cov: 70  y_num: 78  y_cov: 74  sigma: 10.757099449188718
+norm 13.469483999328407
+it  548  x_num: 71  x_cov: 70  y_num: 84  y_cov: 77  sigma: 10.757099449188718
+norm -11.816796895921849
+it  549  x_num: 71  x_cov: 70  y_num: 59  y_cov: 59  sigma: 10.757099449188718
+norm 2.3292824246064048
+it  550  x_num: 71  x_cov: 70  y_num: 73  y_cov: 71  sigma: 10.757099449188718
+norm -6.041369328451816
+it  551  x_num: 71  x_cov: 70  y_num: 64  y_cov: 64  sigma: 10.757099449188718
+norm 4.240908098348289
+it  552  x_num: 71  x_cov: 70  y_num: 75  y_cov: 72  sigma: 10.757099449188718
+norm 3.4889036670422637
+it  553  x_num: 71  x_cov: 70  y_num: 74  y_cov: 72  sigma: 10.757099449188718
+norm 7.358698935597603
+it  554  x_num: 71  x_cov: 70  y_num: 78  y_cov: 74  sigma: 10.757099449188718
+norm 2.7863793954246403
+it  555  x_num: 71  x_cov: 70  y_num: 73  y_cov: 71  sigma: 10.757099449188718
+norm 23.123632666741262
+it  556  x_num: 71  x_cov: 70  y_num: 94  y_cov: 81  sigma: 10.148207027536525
+norm -15.947681798562986
+it  557  x_num: 71  x_cov: 70  y_num: 55  y_cov: 55  sigma: 10.148207027536525
+norm -9.545989390918292
+it  558  x_num: 71  x_cov: 70  y_num: 61  y_cov: 61  sigma: 10.148207027536525
+norm 5.354255077348729
+it  559  x_num: 71  x_cov: 70  y_num: 76  y_cov: 73  sigma: 10.148207027536525
+norm 4.655937479029908
+it  560  x_num: 71  x_cov: 70  y_num: 75  y_cov: 72  sigma: 10.148207027536525
+norm -12.611180513084404
+it  561  x_num: 71  x_cov: 70  y_num: 58  y_cov: 58  sigma: 10.148207027536525
+norm -7.723497115928596
+it  562  x_num: 71  x_cov: 70  y_num: 63  y_cov: 63  sigma: 10.148207027536525
+norm -6.26164923650081
+it  563  x_num: 71  x_cov: 70  y_num: 64  y_cov: 64  sigma: 10.148207027536525
+norm -15.725872820545383
+it  564  x_num: 71  x_cov: 70  y_num: 55  y_cov: 55  sigma: 10.148207027536525
+norm 23.28491359843202
+it  565  x_num: 71  x_cov: 70  y_num: 94  y_cov: 81  sigma: 10.148207027536525
+norm -6.096302370197578
+it  566  x_num: 71  x_cov: 70  y_num: 64  y_cov: 64  sigma: 10.148207027536525
+norm -16.914058383006168
+it  567  x_num: 71  x_cov: 70  y_num: 54  y_cov: 54  sigma: 10.148207027536525
+norm 9.110359089322593
+it  568  x_num: 71  x_cov: 70  y_num: 80  y_cov: 75  sigma: 10.148207027536525
+norm -3.2706974570899963
+it  569  x_num: 71  x_cov: 70  y_num: 67  y_cov: 67  sigma: 10.148207027536525
+norm -6.814075488593934
+it  570  x_num: 71  x_cov: 70  y_num: 64  y_cov: 64  sigma: 10.148207027536525
+norm 3.935805531146449
+it  571  x_num: 71  x_cov: 70  y_num: 74  y_cov: 72  sigma: 9.573780214657098
+norm 9.703809736568035
+it  572  x_num: 71  x_cov: 70  y_num: 80  y_cov: 75  sigma: 9.573780214657098
+norm 4.293409098491475
+it  573  x_num: 71  x_cov: 70  y_num: 75  y_cov: 72  sigma: 9.573780214657098
+norm -0.7574700925475709
+it  574  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 9.573780214657098
+norm 3.5895257417893007
+it  575  x_num: 71  x_cov: 70  y_num: 74  y_cov: 72  sigma: 9.573780214657098
+norm -4.692919665879329
+it  576  x_num: 71  x_cov: 70  y_num: 66  y_cov: 66  sigma: 9.573780214657098
+norm -3.6203808066064025
+it  577  x_num: 71  x_cov: 70  y_num: 67  y_cov: 67  sigma: 9.573780214657098
+norm 0.7621594133656796
+it  578  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 9.573780214657098
+norm -10.08756566668917
+it  579  x_num: 71  x_cov: 70  y_num: 60  y_cov: 60  sigma: 9.573780214657098
+norm -11.42773769809834
+it  580  x_num: 71  x_cov: 70  y_num: 59  y_cov: 59  sigma: 9.573780214657098
+norm 3.8892844925971923
+it  581  x_num: 71  x_cov: 70  y_num: 74  y_cov: 72  sigma: 9.573780214657098
+norm -7.046963558924253
+it  582  x_num: 71  x_cov: 70  y_num: 63  y_cov: 63  sigma: 9.573780214657098
+norm -14.519573000484778
+it  583  x_num: 71  x_cov: 70  y_num: 56  y_cov: 56  sigma: 9.573780214657098
+norm 14.87600419123222
+it  584  x_num: 71  x_cov: 70  y_num: 85  y_cov: 78  sigma: 9.573780214657098
+norm 14.460545211542849
+it  585  x_num: 71  x_cov: 70  y_num: 85  y_cov: 78  sigma: 9.573780214657098
+norm 4.846761603714762
+it  586  x_num: 71  x_cov: 70  y_num: 75  y_cov: 72  sigma: 9.031868127034997
+norm 1.9205236032252202
+it  587  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 9.031868127034997
+norm 4.1496943628437295
+it  588  x_num: 71  x_cov: 70  y_num: 75  y_cov: 72  sigma: 9.031868127034997
+norm -13.412407025418068
+it  589  x_num: 71  x_cov: 70  y_num: 57  y_cov: 57  sigma: 9.031868127034997
+norm 1.302713691194584
+it  590  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 9.031868127034997
+norm -8.694508421230646
+it  591  x_num: 71  x_cov: 70  y_num: 62  y_cov: 62  sigma: 9.031868127034997
+norm -1.3662755029805786
+it  592  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 9.031868127034997
+norm 10.849463388277012
+it  593  x_num: 71  x_cov: 70  y_num: 81  y_cov: 76  sigma: 9.031868127034997
+norm -4.857349001662573
+it  594  x_num: 71  x_cov: 70  y_num: 66  y_cov: 66  sigma: 9.031868127034997
+norm 10.16953503950324
+it  595  x_num: 71  x_cov: 70  y_num: 81  y_cov: 76  sigma: 9.031868127034997
+norm 1.6332221241838616
+it  596  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 9.031868127034997
+norm -11.545986692372807
+it  597  x_num: 71  x_cov: 70  y_num: 59  y_cov: 59  sigma: 9.031868127034997
+norm 6.969868463920931
+it  598  x_num: 71  x_cov: 70  y_num: 77  y_cov: 74  sigma: 9.031868127034997
+norm 4.753312422993494
+it  599  x_num: 71  x_cov: 70  y_num: 75  y_cov: 72  sigma: 9.031868127034997
+norm 12.586047845679563
+it  600  x_num: 71  x_cov: 70  y_num: 83  y_cov: 77  sigma: 9.031868127034997
+norm -5.457372717624673
+it  601  x_num: 71  x_cov: 70  y_num: 65  y_cov: 65  sigma: 8.52063030852358
+norm -13.877458915611003
+it  602  x_num: 71  x_cov: 70  y_num: 57  y_cov: 57  sigma: 8.52063030852358
+norm 3.598103965868249
+it  603  x_num: 71  x_cov: 70  y_num: 74  y_cov: 72  sigma: 8.52063030852358
+norm 8.023143935413204
+it  604  x_num: 71  x_cov: 70  y_num: 79  y_cov: 75  sigma: 8.52063030852358
+norm -1.9564773250383771
+it  605  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 8.52063030852358
+norm 15.324247288758952
+it  606  x_num: 71  x_cov: 70  y_num: 86  y_cov: 78  sigma: 8.52063030852358
+norm -3.713166578614371
+it  607  x_num: 71  x_cov: 70  y_num: 67  y_cov: 67  sigma: 8.52063030852358
+norm -25.58762730684379
+it  608  x_num: 71  x_cov: 70  y_num: 45  y_cov: 45  sigma: 8.52063030852358
+norm -5.671164964485793
+it  609  x_num: 71  x_cov: 70  y_num: 65  y_cov: 65  sigma: 8.52063030852358
+norm 1.8332135460095813
+it  610  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 8.52063030852358
+norm -2.3705242666441704
+it  611  x_num: 71  x_cov: 70  y_num: 68  y_cov: 67  sigma: 8.52063030852358
+norm 1.3643623590334901
+it  612  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 8.52063030852358
+norm -13.90479456582433
+it  613  x_num: 71  x_cov: 70  y_num: 57  y_cov: 57  sigma: 8.52063030852358
+norm -1.8602214082232358
+it  614  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 8.52063030852358
+norm -8.184293376513638
+it  615  x_num: 71  x_cov: 70  y_num: 62  y_cov: 62  sigma: 8.52063030852358
+norm -1.4092110386278254
+it  616  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 8.038330479739226
+norm -1.8461212779298073
+it  617  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 8.038330479739226
+norm 0.8550520379765805
+it  618  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 8.038330479739226
+norm 4.661867974982653
+it  619  x_num: 71  x_cov: 70  y_num: 75  y_cov: 72  sigma: 8.038330479739226
+norm 6.121790089529058
+it  620  x_num: 71  x_cov: 70  y_num: 77  y_cov: 74  sigma: 8.038330479739226
+norm 8.292945048229564
+it  621  x_num: 71  x_cov: 70  y_num: 79  y_cov: 75  sigma: 8.038330479739226
+norm -0.033939670339452846
+it  622  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 8.038330479739226
+norm 14.79249391517466
+it  623  x_num: 71  x_cov: 70  y_num: 85  y_cov: 78  sigma: 8.038330479739226
+norm -1.189928595944817
+it  624  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 8.038330479739226
+norm 3.6709435111191744
+it  625  x_num: 71  x_cov: 70  y_num: 74  y_cov: 72  sigma: 8.038330479739226
+norm 2.528260879352261
+it  626  x_num: 71  x_cov: 70  y_num: 73  y_cov: 71  sigma: 8.038330479739226
+norm -0.6212991052645124
+it  627  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 8.038330479739226
+norm 1.6036363704031553
+it  628  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 8.038330479739226
+norm 11.586558492803196
+it  629  x_num: 71  x_cov: 70  y_num: 82  y_cov: 76  sigma: 8.038330479739226
+norm 0.25866227896818156
+it  630  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 8.038330479739226
+norm -3.094815653803453
+it  631  x_num: 71  x_cov: 70  y_num: 67  y_cov: 67  sigma: 7.58333064126342
+norm -6.657481550331949
+it  632  x_num: 71  x_cov: 70  y_num: 64  y_cov: 64  sigma: 7.58333064126342
+norm 3.7034205582319046
+it  633  x_num: 71  x_cov: 70  y_num: 74  y_cov: 72  sigma: 7.58333064126342
+norm 2.116714118700761
+it  634  x_num: 71  x_cov: 70  y_num: 73  y_cov: 71  sigma: 7.58333064126342
+norm 4.801972556243608
+it  635  x_num: 71  x_cov: 70  y_num: 75  y_cov: 72  sigma: 7.58333064126342
+norm 12.784256872487104
+it  636  x_num: 71  x_cov: 70  y_num: 83  y_cov: 77  sigma: 7.58333064126342
+norm -1.9204776120124756
+it  637  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 7.58333064126342
+norm 0.19429609371646817
+it  638  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 7.58333064126342
+norm -2.0813639262772043
+it  639  x_num: 71  x_cov: 70  y_num: 68  y_cov: 67  sigma: 7.58333064126342
+norm -2.2249806767875153
+it  640  x_num: 71  x_cov: 70  y_num: 68  y_cov: 67  sigma: 7.58333064126342
+norm 2.316191998223582
+it  641  x_num: 71  x_cov: 70  y_num: 73  y_cov: 71  sigma: 7.58333064126342
+norm -5.659976144807244
+it  642  x_num: 71  x_cov: 70  y_num: 65  y_cov: 65  sigma: 7.58333064126342
+norm -0.35742426296722246
+it  643  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 7.58333064126342
+norm 9.924943824115937
+it  644  x_num: 71  x_cov: 70  y_num: 80  y_cov: 75  sigma: 7.58333064126342
+norm 4.345991483599166
+it  645  x_num: 71  x_cov: 70  y_num: 75  y_cov: 72  sigma: 7.58333064126342
+norm -1.2263145681214045
+it  646  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 7.154085510625867
+norm -8.888727425872093
+it  647  x_num: 71  x_cov: 70  y_num: 62  y_cov: 62  sigma: 7.154085510625867
+norm -1.4095986820517603
+it  648  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 7.154085510625867
+norm 7.021523010334236
+it  649  x_num: 71  x_cov: 70  y_num: 78  y_cov: 74  sigma: 7.154085510625867
+norm 5.5932281355132005
+it  650  x_num: 71  x_cov: 70  y_num: 76  y_cov: 73  sigma: 7.154085510625867
+norm -13.44028625291433
+it  651  x_num: 71  x_cov: 70  y_num: 57  y_cov: 57  sigma: 7.154085510625867
+norm -11.532699639872455
+it  652  x_num: 71  x_cov: 70  y_num: 59  y_cov: 59  sigma: 7.154085510625867
+norm -16.40859859484593
+it  653  x_num: 71  x_cov: 70  y_num: 54  y_cov: 54  sigma: 7.154085510625867
+norm -0.4861300067881299
+it  654  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 7.154085510625867
+norm 0.5417934751370461
+it  655  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 7.154085510625867
+norm 5.173576307939534
+it  656  x_num: 71  x_cov: 70  y_num: 76  y_cov: 73  sigma: 7.154085510625867
+norm 1.6750487638927158
+it  657  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 7.154085510625867
+norm 3.4603592388387496
+it  658  x_num: 71  x_cov: 70  y_num: 74  y_cov: 72  sigma: 7.154085510625867
+norm -6.143349738291968
+it  659  x_num: 71  x_cov: 70  y_num: 64  y_cov: 64  sigma: 7.154085510625867
+norm -1.132249506754097
+it  660  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 7.154085510625867
+norm 2.4317637534977963
+it  661  x_num: 71  x_cov: 70  y_num: 73  y_cov: 71  sigma: 6.749137274175346
+norm 3.7018878539526665
+it  662  x_num: 71  x_cov: 70  y_num: 74  y_cov: 72  sigma: 6.749137274175346
+norm -9.284388509856203
+it  663  x_num: 71  x_cov: 70  y_num: 61  y_cov: 61  sigma: 6.749137274175346
+norm 1.144327734804087
+it  664  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 6.749137274175346
+norm 8.126992519657941
+it  665  x_num: 71  x_cov: 70  y_num: 79  y_cov: 75  sigma: 6.749137274175346
+norm 1.6180194052160324
+it  666  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 6.749137274175346
+norm -6.208540477991198
+it  667  x_num: 71  x_cov: 70  y_num: 64  y_cov: 64  sigma: 6.749137274175346
+norm -1.566571572048619
+it  668  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 6.749137274175346
+norm 5.780132935966652
+it  669  x_num: 71  x_cov: 70  y_num: 76  y_cov: 73  sigma: 6.749137274175346
+norm -9.448686104147077
+it  670  x_num: 71  x_cov: 70  y_num: 61  y_cov: 61  sigma: 6.749137274175346
+norm -0.29553645203051515
+it  671  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 6.749137274175346
+norm -12.453320581391171
+it  672  x_num: 71  x_cov: 70  y_num: 58  y_cov: 58  sigma: 6.749137274175346
+norm 6.8447747216576635
+it  673  x_num: 71  x_cov: 70  y_num: 77  y_cov: 74  sigma: 6.749137274175346
+norm -10.086581953123456
+it  674  x_num: 71  x_cov: 70  y_num: 60  y_cov: 60  sigma: 6.749137274175346
+norm 4.086738142203935
+it  675  x_num: 71  x_cov: 70  y_num: 75  y_cov: 72  sigma: 6.749137274175346
+norm 2.461191273302609
+it  676  x_num: 71  x_cov: 70  y_num: 73  y_cov: 71  sigma: 6.367110636014476
+norm 2.6058304398134506
+it  677  x_num: 71  x_cov: 70  y_num: 73  y_cov: 71  sigma: 6.367110636014476
+norm 3.8965727593838975
+it  678  x_num: 71  x_cov: 70  y_num: 74  y_cov: 72  sigma: 6.367110636014476
+norm -1.6830170124696462
+it  679  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 6.367110636014476
+norm -8.864174933769867
+it  680  x_num: 71  x_cov: 70  y_num: 62  y_cov: 62  sigma: 6.367110636014476
+norm -0.3013336894585584
+it  681  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 6.367110636014476
+norm 13.244170792134188
+it  682  x_num: 71  x_cov: 70  y_num: 84  y_cov: 77  sigma: 6.367110636014476
+norm 4.595600527166238
+it  683  x_num: 71  x_cov: 70  y_num: 75  y_cov: 72  sigma: 6.367110636014476
+norm -7.596146341209603
+it  684  x_num: 71  x_cov: 70  y_num: 63  y_cov: 63  sigma: 6.367110636014476
+norm 5.536140491178711
+it  685  x_num: 71  x_cov: 70  y_num: 76  y_cov: 73  sigma: 6.367110636014476
+norm -0.2640541871681057
+it  686  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 6.367110636014476
+norm -5.863824243345371
+it  687  x_num: 71  x_cov: 70  y_num: 65  y_cov: 65  sigma: 6.367110636014476
+norm 5.831145076497301
+it  688  x_num: 71  x_cov: 70  y_num: 76  y_cov: 73  sigma: 6.367110636014476
+norm -5.206008851157156
+it  689  x_num: 71  x_cov: 70  y_num: 65  y_cov: 65  sigma: 6.367110636014476
+norm 1.245070801455943
+it  690  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 6.367110636014476
+norm -3.850024003222391
+it  691  x_num: 71  x_cov: 70  y_num: 67  y_cov: 67  sigma: 6.006708147183467
+norm 4.285311311242684
+it  692  x_num: 71  x_cov: 70  y_num: 75  y_cov: 72  sigma: 6.006708147183467
+norm -5.246306099503249
+it  693  x_num: 71  x_cov: 70  y_num: 65  y_cov: 65  sigma: 6.006708147183467
+norm -3.258343079218268
+it  694  x_num: 71  x_cov: 70  y_num: 67  y_cov: 67  sigma: 6.006708147183467
+norm 0.7760727712906691
+it  695  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 6.006708147183467
+norm 3.816508844734913
+it  696  x_num: 71  x_cov: 70  y_num: 74  y_cov: 72  sigma: 6.006708147183467
+norm 3.0751129190731996
+it  697  x_num: 71  x_cov: 70  y_num: 74  y_cov: 72  sigma: 6.006708147183467
+norm 11.678574904113155
+it  698  x_num: 71  x_cov: 70  y_num: 82  y_cov: 76  sigma: 6.006708147183467
+norm -4.427003775009773
+it  699  x_num: 71  x_cov: 70  y_num: 66  y_cov: 66  sigma: 6.006708147183467
+norm 9.90038186562953
+it  700  x_num: 71  x_cov: 70  y_num: 80  y_cov: 75  sigma: 6.006708147183467
+norm -6.062271868769851
+it  701  x_num: 71  x_cov: 70  y_num: 64  y_cov: 64  sigma: 6.006708147183467
+norm -8.627065868932704
+it  702  x_num: 71  x_cov: 70  y_num: 62  y_cov: 62  sigma: 6.006708147183467
+norm -4.120504550536203
+it  703  x_num: 71  x_cov: 70  y_num: 66  y_cov: 66  sigma: 6.006708147183467
+norm 1.4719043277706294
+it  704  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 6.006708147183467
+norm 3.534812774073554
+it  705  x_num: 71  x_cov: 70  y_num: 74  y_cov: 72  sigma: 6.006708147183467
+norm -2.803844771925011
+it  706  x_num: 71  x_cov: 70  y_num: 68  y_cov: 67  sigma: 5.666705799229685
+norm -3.0552464602946334
+it  707  x_num: 71  x_cov: 70  y_num: 67  y_cov: 67  sigma: 5.666705799229685
+norm 2.251695951604546
+it  708  x_num: 71  x_cov: 70  y_num: 73  y_cov: 71  sigma: 5.666705799229685
+norm 7.450853781985332
+it  709  x_num: 71  x_cov: 70  y_num: 78  y_cov: 74  sigma: 5.666705799229685
+norm 5.9957930210787875
+it  710  x_num: 71  x_cov: 70  y_num: 76  y_cov: 73  sigma: 5.666705799229685
+norm -3.975548024599607
+it  711  x_num: 71  x_cov: 70  y_num: 67  y_cov: 67  sigma: 5.666705799229685
+norm 3.9758850678480515
+it  712  x_num: 71  x_cov: 70  y_num: 74  y_cov: 72  sigma: 5.666705799229685
+norm -0.9748414326580599
+it  713  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 5.666705799229685
+norm -6.056229066847229
+it  714  x_num: 71  x_cov: 70  y_num: 64  y_cov: 64  sigma: 5.666705799229685
+norm 5.436562283636892
+it  715  x_num: 71  x_cov: 70  y_num: 76  y_cov: 73  sigma: 5.666705799229685
+norm -0.0493514893361087
+it  716  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 5.666705799229685
+norm 6.953991648477181
+it  717  x_num: 71  x_cov: 70  y_num: 77  y_cov: 74  sigma: 5.666705799229685
+norm 8.105622521778375
+it  718  x_num: 71  x_cov: 70  y_num: 79  y_cov: 75  sigma: 5.666705799229685
+norm 9.557307232887014
+it  719  x_num: 71  x_cov: 70  y_num: 80  y_cov: 75  sigma: 5.666705799229685
+norm -4.0881812204474075
+it  720  x_num: 71  x_cov: 70  y_num: 66  y_cov: 66  sigma: 5.666705799229685
+norm -2.3709621045843488
+it  721  x_num: 71  x_cov: 70  y_num: 68  y_cov: 67  sigma: 5.345948867197816
+norm 3.11612938404495
+it  722  x_num: 71  x_cov: 70  y_num: 74  y_cov: 72  sigma: 5.345948867197816
+norm 9.571951948253066
+it  723  x_num: 71  x_cov: 70  y_num: 80  y_cov: 75  sigma: 5.345948867197816
+norm -6.352791927486874
+it  724  x_num: 71  x_cov: 70  y_num: 64  y_cov: 64  sigma: 5.345948867197816
+norm -7.424955963473544
+it  725  x_num: 71  x_cov: 70  y_num: 63  y_cov: 63  sigma: 5.345948867197816
+norm -3.8438994897014918
+it  726  x_num: 71  x_cov: 70  y_num: 67  y_cov: 67  sigma: 5.345948867197816
+norm 1.0409901137815376
+it  727  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 5.345948867197816
+norm 4.916357229976505
+it  728  x_num: 71  x_cov: 70  y_num: 75  y_cov: 72  sigma: 5.345948867197816
+norm 3.899766530630089
+it  729  x_num: 71  x_cov: 70  y_num: 74  y_cov: 72  sigma: 5.345948867197816
+norm 2.970279856825225
+it  730  x_num: 71  x_cov: 70  y_num: 73  y_cov: 71  sigma: 5.345948867197816
+norm 8.293093805271837
+it  731  x_num: 71  x_cov: 70  y_num: 79  y_cov: 75  sigma: 5.345948867197816
+norm -0.16415611821931134
+it  732  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 5.345948867197816
+norm 0.32048013538606945
+it  733  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 5.345948867197816
+norm -8.536128717923726
+it  734  x_num: 71  x_cov: 70  y_num: 62  y_cov: 62  sigma: 5.345948867197816
+norm -1.2382849341206237
+it  735  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 5.345948867197816
+norm -3.500242738336826
+it  736  x_num: 71  x_cov: 70  y_num: 67  y_cov: 67  sigma: 5.043347987922467
+norm 2.176661591119669
+it  737  x_num: 71  x_cov: 70  y_num: 73  y_cov: 71  sigma: 5.043347987922467
+norm -7.168512003682511
+it  738  x_num: 71  x_cov: 70  y_num: 63  y_cov: 63  sigma: 5.043347987922467
+norm 2.2968761584370863
+it  739  x_num: 71  x_cov: 70  y_num: 73  y_cov: 71  sigma: 5.043347987922467
+norm -1.9716764625122336
+it  740  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 5.043347987922467
+norm -0.8578206980361898
+it  741  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 5.043347987922467
+norm -0.5992794251489069
+it  742  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 5.043347987922467
+norm -6.0358766709786655
+it  743  x_num: 71  x_cov: 70  y_num: 64  y_cov: 64  sigma: 5.043347987922467
+norm 8.659721588458208
+it  744  x_num: 71  x_cov: 70  y_num: 79  y_cov: 75  sigma: 5.043347987922467
+norm -5.836835652615237
+it  745  x_num: 71  x_cov: 70  y_num: 65  y_cov: 65  sigma: 5.043347987922467
+norm 0.7090777556855211
+it  746  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 5.043347987922467
+norm 0.46899399134760805
+it  747  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 5.043347987922467
+norm 6.25738371504847
+it  748  x_num: 71  x_cov: 70  y_num: 77  y_cov: 74  sigma: 5.043347987922467
+norm 1.1196081886955513
+it  749  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 5.043347987922467
+norm -1.185151799282085
+it  750  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 5.043347987922467
+norm -8.607964762384752
+it  751  x_num: 71  x_cov: 70  y_num: 62  y_cov: 62  sigma: 4.757875460304214
+norm 3.7091636321509402
+it  752  x_num: 71  x_cov: 70  y_num: 74  y_cov: 72  sigma: 4.757875460304214
+norm 2.2048167895323565
+it  753  x_num: 71  x_cov: 70  y_num: 73  y_cov: 71  sigma: 4.757875460304214
+norm 4.301382164613006
+it  754  x_num: 71  x_cov: 70  y_num: 75  y_cov: 72  sigma: 4.757875460304214
+norm -1.186081926100611
+it  755  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 4.757875460304214
+norm 2.6734526344620013
+it  756  x_num: 71  x_cov: 70  y_num: 73  y_cov: 71  sigma: 4.757875460304214
+norm -3.8449792210719393
+it  757  x_num: 71  x_cov: 70  y_num: 67  y_cov: 67  sigma: 4.757875460304214
+norm 2.429800329556252
+it  758  x_num: 71  x_cov: 70  y_num: 73  y_cov: 71  sigma: 4.757875460304214
+norm -6.27574274532652
+it  759  x_num: 71  x_cov: 70  y_num: 64  y_cov: 64  sigma: 4.757875460304214
+norm -2.694180014873901
+it  760  x_num: 71  x_cov: 70  y_num: 68  y_cov: 67  sigma: 4.757875460304214
+norm -2.5510506773205814
+it  761  x_num: 71  x_cov: 70  y_num: 68  y_cov: 67  sigma: 4.757875460304214
+norm -2.52252860179356
+it  762  x_num: 71  x_cov: 70  y_num: 68  y_cov: 68  sigma: 4.757875460304214
+norm 1.5215310448024164
+it  763  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 4.757875460304214
+norm -2.2657670790891133
+it  764  x_num: 71  x_cov: 70  y_num: 68  y_cov: 67  sigma: 4.757875460304214
+norm 2.3283212213849427
+it  765  x_num: 71  x_cov: 70  y_num: 73  y_cov: 71  sigma: 4.757875460304214
+norm 9.701368417216388
+it  766  x_num: 71  x_cov: 70  y_num: 80  y_cov: 75  sigma: 4.488561755003975
+norm 1.738018245578853
+it  767  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 4.488561755003975
+norm 0.45400180220692976
+it  768  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 4.488561755003975
+norm -3.97765383972281
+it  769  x_num: 71  x_cov: 70  y_num: 67  y_cov: 67  sigma: 4.488561755003975
+norm 7.97282252579681
+it  770  x_num: 71  x_cov: 70  y_num: 78  y_cov: 74  sigma: 4.488561755003975
+norm -3.298429563654111
+it  771  x_num: 71  x_cov: 70  y_num: 67  y_cov: 67  sigma: 4.488561755003975
+norm -6.7347928526399325
+it  772  x_num: 71  x_cov: 70  y_num: 64  y_cov: 64  sigma: 4.488561755003975
+norm -1.0677821765000235
+it  773  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 4.488561755003975
+norm 12.082937382332258
+it  774  x_num: 71  x_cov: 70  y_num: 83  y_cov: 77  sigma: 4.488561755003975
+norm 6.19820125727938
+it  775  x_num: 71  x_cov: 70  y_num: 77  y_cov: 74  sigma: 4.488561755003975
+norm 5.513416093209139
+it  776  x_num: 71  x_cov: 70  y_num: 76  y_cov: 73  sigma: 4.488561755003975
+norm -0.7458364307040145
+it  777  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 4.488561755003975
+norm -10.701053665191168
+it  778  x_num: 71  x_cov: 70  y_num: 60  y_cov: 60  sigma: 4.488561755003975
+norm 0.28055598046533964
+it  779  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 4.488561755003975
+norm -2.4329125027864
+it  780  x_num: 71  x_cov: 70  y_num: 68  y_cov: 67  sigma: 4.488561755003975
+norm -1.408412221540648
+it  781  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 4.234492221701863
+norm -2.1156595177760265
+it  782  x_num: 71  x_cov: 70  y_num: 68  y_cov: 67  sigma: 4.234492221701863
+norm 5.102474133553761
+it  783  x_num: 71  x_cov: 70  y_num: 76  y_cov: 73  sigma: 4.234492221701863
+norm -2.2327045338840406
+it  784  x_num: 71  x_cov: 70  y_num: 68  y_cov: 67  sigma: 4.234492221701863
+norm 3.3885300517090915
+it  785  x_num: 71  x_cov: 70  y_num: 74  y_cov: 72  sigma: 4.234492221701863
+norm 2.6513021334942115
+it  786  x_num: 71  x_cov: 70  y_num: 73  y_cov: 71  sigma: 4.234492221701863
+norm -1.0361210601871351
+it  787  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 4.234492221701863
+norm 13.879052180895966
+it  788  x_num: 71  x_cov: 70  y_num: 84  y_cov: 77  sigma: 4.234492221701863
+norm 3.9453984738275367
+it  789  x_num: 71  x_cov: 70  y_num: 74  y_cov: 72  sigma: 4.234492221701863
+norm 1.5076210765018938
+it  790  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 4.234492221701863
+norm 4.20148973539274
+it  791  x_num: 71  x_cov: 70  y_num: 75  y_cov: 72  sigma: 4.234492221701863
+norm -3.896536159861358
+it  792  x_num: 71  x_cov: 70  y_num: 67  y_cov: 67  sigma: 4.234492221701863
+norm 1.1716813969977187
+it  793  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 4.234492221701863
+norm -1.2799486176613981
+it  794  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 4.234492221701863
+norm -0.03769883891001745
+it  795  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 4.234492221701863
+norm 0.003916642355023315
+it  796  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 3.9948039827376056
+norm 7.032768229720827
+it  797  x_num: 71  x_cov: 70  y_num: 78  y_cov: 74  sigma: 3.9948039827376056
+norm -5.999500611325927
+it  798  x_num: 71  x_cov: 70  y_num: 65  y_cov: 65  sigma: 3.9948039827376056
+norm 4.914208046899887
+it  799  x_num: 71  x_cov: 70  y_num: 75  y_cov: 72  sigma: 3.9948039827376056
+norm -0.2648257573386293
+it  800  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 3.9948039827376056
+norm 1.503714316803205
+it  801  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 3.9948039827376056
+norm 1.1639539008733153
+it  802  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 3.9948039827376056
+norm -1.3185201280135521
+it  803  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 3.9948039827376056
+norm 1.5961271725522308
+it  804  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 3.9948039827376056
+norm -1.6682804091286076
+it  805  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 3.9948039827376056
+norm 4.251173375208975
+it  806  x_num: 71  x_cov: 70  y_num: 75  y_cov: 72  sigma: 3.9948039827376056
+norm -4.3526342458569
+it  807  x_num: 71  x_cov: 70  y_num: 66  y_cov: 66  sigma: 3.9948039827376056
+norm 3.1313424649964867
+it  808  x_num: 71  x_cov: 70  y_num: 74  y_cov: 72  sigma: 3.9948039827376056
+norm 2.495718890338328
+it  809  x_num: 71  x_cov: 70  y_num: 73  y_cov: 71  sigma: 3.9948039827376056
+norm -4.7094013663047205
+it  810  x_num: 71  x_cov: 70  y_num: 66  y_cov: 66  sigma: 3.9948039827376056
+norm -2.5951002589156658
+it  811  x_num: 71  x_cov: 70  y_num: 68  y_cov: 67  sigma: 3.7686830025826463
+norm 1.5530259572485725
+it  812  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 3.7686830025826463
+norm -0.006179762677895964
+it  813  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 3.7686830025826463
+norm 2.608098652436029
+it  814  x_num: 71  x_cov: 70  y_num: 73  y_cov: 71  sigma: 3.7686830025826463
+norm 7.857356297505499
+it  815  x_num: 71  x_cov: 70  y_num: 78  y_cov: 74  sigma: 3.7686830025826463
+norm 0.5765910556908224
+it  816  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 3.7686830025826463
+norm 9.484077227740313
+it  817  x_num: 71  x_cov: 70  y_num: 80  y_cov: 75  sigma: 3.7686830025826463
+norm -1.779051972178801
+it  818  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 3.7686830025826463
+norm -6.286401914467018
+it  819  x_num: 71  x_cov: 70  y_num: 64  y_cov: 64  sigma: 3.7686830025826463
+norm -6.284788396628175
+it  820  x_num: 71  x_cov: 70  y_num: 64  y_cov: 64  sigma: 3.7686830025826463
+norm 3.152978510214421
+it  821  x_num: 71  x_cov: 70  y_num: 74  y_cov: 72  sigma: 3.7686830025826463
+norm -3.8725200406325433
+it  822  x_num: 71  x_cov: 70  y_num: 67  y_cov: 67  sigma: 3.7686830025826463
+norm 5.290329442567401
+it  823  x_num: 71  x_cov: 70  y_num: 76  y_cov: 73  sigma: 3.7686830025826463
+norm 2.248734005127507
+it  824  x_num: 71  x_cov: 70  y_num: 73  y_cov: 71  sigma: 3.7686830025826463
+norm -3.1200342346463064
+it  825  x_num: 71  x_cov: 70  y_num: 67  y_cov: 67  sigma: 3.7686830025826463
+norm 2.6852842413140268
+it  826  x_num: 71  x_cov: 70  y_num: 73  y_cov: 71  sigma: 3.5553613231911756
+norm 3.1092797382330706
+it  827  x_num: 71  x_cov: 70  y_num: 74  y_cov: 72  sigma: 3.5553613231911756
+norm -3.24226629233438
+it  828  x_num: 71  x_cov: 70  y_num: 67  y_cov: 67  sigma: 3.5553613231911756
+norm -6.647901308697473
+it  829  x_num: 71  x_cov: 70  y_num: 64  y_cov: 64  sigma: 3.5553613231911756
+norm -0.9441496809976191
+it  830  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 3.5553613231911756
+norm -3.527117797071115
+it  831  x_num: 71  x_cov: 70  y_num: 67  y_cov: 67  sigma: 3.5553613231911756
+norm 0.4147956479142369
+it  832  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 3.5553613231911756
+norm 6.514744012921328
+it  833  x_num: 71  x_cov: 70  y_num: 77  y_cov: 74  sigma: 3.5553613231911756
+norm 1.7047168977694043
+it  834  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 3.5553613231911756
+norm 5.282566446467362
+it  835  x_num: 71  x_cov: 70  y_num: 76  y_cov: 73  sigma: 3.5553613231911756
+norm -0.12244635011912697
+it  836  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 3.5553613231911756
+norm -2.0617054664015955
+it  837  x_num: 71  x_cov: 70  y_num: 68  y_cov: 67  sigma: 3.5553613231911756
+norm -2.264839174633768
+it  838  x_num: 71  x_cov: 70  y_num: 68  y_cov: 67  sigma: 3.5553613231911756
+norm 2.002894506932326
+it  839  x_num: 71  x_cov: 70  y_num: 73  y_cov: 71  sigma: 3.5553613231911756
+norm -1.9199157099076942
+it  840  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 3.5553613231911756
+norm -0.10777162532823896
+it  841  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 3.3541144558407314
+norm 2.519410505781618
+it  842  x_num: 71  x_cov: 70  y_num: 73  y_cov: 71  sigma: 3.3541144558407314
+norm 5.024918021270635
+it  843  x_num: 71  x_cov: 70  y_num: 76  y_cov: 73  sigma: 3.3541144558407314
+norm -1.6598761325487672
+it  844  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 3.3541144558407314
+norm -3.030466871147955
+it  845  x_num: 71  x_cov: 70  y_num: 67  y_cov: 67  sigma: 3.3541144558407314
+norm -1.0041215764240203
+it  846  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 3.3541144558407314
+norm -4.213254740764508
+it  847  x_num: 71  x_cov: 70  y_num: 66  y_cov: 66  sigma: 3.3541144558407314
+norm 2.988172884967236
+it  848  x_num: 71  x_cov: 70  y_num: 73  y_cov: 71  sigma: 3.3541144558407314
+norm 0.8663334620081395
+it  849  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 3.3541144558407314
+norm 2.8744170192863967
+it  850  x_num: 71  x_cov: 70  y_num: 73  y_cov: 71  sigma: 3.3541144558407314
+norm 6.383640496438519
+it  851  x_num: 71  x_cov: 70  y_num: 77  y_cov: 74  sigma: 3.3541144558407314
+norm 5.5373907437609065
+it  852  x_num: 71  x_cov: 70  y_num: 76  y_cov: 73  sigma: 3.3541144558407314
+norm -5.252401334934766
+it  853  x_num: 71  x_cov: 70  y_num: 65  y_cov: 65  sigma: 3.3541144558407314
+norm 0.18789449639909267
+it  854  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 3.3541144558407314
+norm 4.859610160331351
+it  855  x_num: 71  x_cov: 70  y_num: 75  y_cov: 72  sigma: 3.3541144558407314
+norm -5.638532775234356
+it  856  x_num: 71  x_cov: 70  y_num: 65  y_cov: 65  sigma: 3.164258920604463
+norm -1.4731303018296613
+it  857  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 3.164258920604463
+norm 1.5038621534009513
+it  858  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 3.164258920604463
+norm 1.3346369665099986
+it  859  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 3.164258920604463
+norm 1.1181781234721628
+it  860  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 3.164258920604463
+norm 0.05545650298515659
+it  861  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 3.164258920604463
+norm 7.381988851458741
+it  862  x_num: 71  x_cov: 70  y_num: 78  y_cov: 74  sigma: 3.164258920604463
+norm -3.604418120393805
+it  863  x_num: 71  x_cov: 70  y_num: 67  y_cov: 67  sigma: 3.164258920604463
+norm 2.9941160895974837
+it  864  x_num: 71  x_cov: 70  y_num: 73  y_cov: 71  sigma: 3.164258920604463
+norm -6.788603520842655
+it  865  x_num: 71  x_cov: 70  y_num: 64  y_cov: 64  sigma: 3.164258920604463
+norm -1.0586316072271864
+it  866  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 3.164258920604463
+norm -1.229304765691928
+it  867  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 3.164258920604463
+norm -4.041394288093403
+it  868  x_num: 71  x_cov: 70  y_num: 66  y_cov: 66  sigma: 3.164258920604463
+norm -3.20690096147039
+it  869  x_num: 71  x_cov: 70  y_num: 67  y_cov: 67  sigma: 3.164258920604463
+norm 6.538970197236718
+it  870  x_num: 71  x_cov: 70  y_num: 77  y_cov: 74  sigma: 3.164258920604463
+norm 1.3334524112656179
+it  871  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 2.9851499250985496
+norm 7.027383705007653
+it  872  x_num: 71  x_cov: 70  y_num: 78  y_cov: 74  sigma: 2.9851499250985496
+norm -5.108228121713174
+it  873  x_num: 71  x_cov: 70  y_num: 65  y_cov: 65  sigma: 2.9851499250985496
+norm -0.2951425648843184
+it  874  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 2.9851499250985496
+norm -2.5512712488648543
+it  875  x_num: 71  x_cov: 70  y_num: 68  y_cov: 68  sigma: 2.9851499250985496
+norm -1.3052248179143808
+it  876  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 2.9851499250985496
+norm 0.8685572925692534
+it  877  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 2.9851499250985496
+norm -3.3126016782012964
+it  878  x_num: 71  x_cov: 70  y_num: 67  y_cov: 67  sigma: 2.9851499250985496
+norm 2.975036518193834
+it  879  x_num: 71  x_cov: 70  y_num: 73  y_cov: 71  sigma: 2.9851499250985496
+norm -5.155616992358963
+it  880  x_num: 71  x_cov: 70  y_num: 65  y_cov: 65  sigma: 2.9851499250985496
+norm 0.6430081690693081
+it  881  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 2.9851499250985496
+norm 6.50131695907168
+it  882  x_num: 71  x_cov: 70  y_num: 77  y_cov: 74  sigma: 2.9851499250985496
+norm -4.928216983281238
+it  883  x_num: 71  x_cov: 70  y_num: 66  y_cov: 66  sigma: 2.9851499250985496
+norm -0.8483465195637203
+it  884  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 2.9851499250985496
+norm -2.1159029227461805
+it  885  x_num: 71  x_cov: 70  y_num: 68  y_cov: 67  sigma: 2.9851499250985496
+norm 6.879701281721896
+it  886  x_num: 71  x_cov: 70  y_num: 77  y_cov: 74  sigma: 2.816179174621273
+norm 0.5596207004518196
+it  887  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 2.816179174621273
+norm -4.028999392916791
+it  888  x_num: 71  x_cov: 70  y_num: 66  y_cov: 66  sigma: 2.816179174621273
+norm 3.906818044857984
+it  889  x_num: 71  x_cov: 70  y_num: 74  y_cov: 72  sigma: 2.816179174621273
+norm -1.4020050738600511
+it  890  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 2.816179174621273
+norm -1.7057198256092816
+it  891  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 2.816179174621273
+norm 0.6159458905752601
+it  892  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 2.816179174621273
+norm 0.44148653592214276
+it  893  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 2.816179174621273
+norm -0.3326386338762243
+it  894  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 2.816179174621273
+norm -0.6489398894391879
+it  895  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 2.816179174621273
+norm 5.058219942226667
+it  896  x_num: 71  x_cov: 70  y_num: 76  y_cov: 73  sigma: 2.816179174621273
+norm 3.658783439308073
+it  897  x_num: 71  x_cov: 70  y_num: 74  y_cov: 72  sigma: 2.816179174621273
+norm -0.010491629040451093
+it  898  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 2.816179174621273
+norm 0.11432595049149895
+it  899  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 2.816179174621273
+norm -5.156387082442275
+it  900  x_num: 71  x_cov: 70  y_num: 65  y_cov: 65  sigma: 2.816179174621273
+norm -0.8010394131542053
+it  901  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 2.6567728062464835
+norm 1.285253012571917
+it  902  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 2.6567728062464835
+norm 1.403767328790522
+it  903  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 2.6567728062464835
+norm 0.7086065136915243
+it  904  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 2.6567728062464835
+norm 2.275446744144994
+it  905  x_num: 71  x_cov: 70  y_num: 73  y_cov: 71  sigma: 2.6567728062464835
+norm -1.3305325060787956
+it  906  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 2.6567728062464835
+norm -2.5011255391825116
+it  907  x_num: 71  x_cov: 70  y_num: 68  y_cov: 68  sigma: 2.6567728062464835
+norm -4.102174507885758
+it  908  x_num: 71  x_cov: 70  y_num: 66  y_cov: 66  sigma: 2.6567728062464835
+norm 0.9974100763955545
+it  909  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 2.6567728062464835
+norm 1.7022261006874535
+it  910  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 2.6567728062464835
+norm -7.0059309551193065
+it  911  x_num: 71  x_cov: 70  y_num: 63  y_cov: 63  sigma: 2.6567728062464835
+norm -4.109507587809949
+it  912  x_num: 71  x_cov: 70  y_num: 66  y_cov: 66  sigma: 2.6567728062464835
+norm -1.4672489512049718
+it  913  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 2.6567728062464835
+norm -1.5109968370683948
+it  914  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 2.6567728062464835
+norm -0.2866928466319148
+it  915  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 2.6567728062464835
+norm 0.5609904998599586
+it  916  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 2.5063894398551727
+norm 1.9534752144818754
+it  917  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 2.5063894398551727
+norm -0.8482627074374754
+it  918  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 2.5063894398551727
+norm -1.6665489149698864
+it  919  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 2.5063894398551727
+norm 0.11822505674626405
+it  920  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 2.5063894398551727
+norm -0.10439777882344431
+it  921  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 2.5063894398551727
+norm -2.563306928219062
+it  922  x_num: 71  x_cov: 70  y_num: 68  y_cov: 67  sigma: 2.5063894398551727
+norm -1.8968481860488782
+it  923  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 2.5063894398551727
+norm -2.8497329360152155
+it  924  x_num: 71  x_cov: 70  y_num: 68  y_cov: 67  sigma: 2.5063894398551727
+norm 2.119918139929141
+it  925  x_num: 71  x_cov: 70  y_num: 73  y_cov: 71  sigma: 2.5063894398551727
+norm -1.1241192484419604
+it  926  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 2.5063894398551727
+norm -0.5093744107620057
+it  927  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 2.5063894398551727
+norm 0.15266544608191243
+it  928  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 2.5063894398551727
+norm -0.22369124761640097
+it  929  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 2.5063894398551727
+norm -0.9136745128259942
+it  930  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 2.5063894398551727
+norm 1.953485231777509
+it  931  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 2.3645183394860116
+norm 2.4354785216255106
+it  932  x_num: 71  x_cov: 70  y_num: 73  y_cov: 71  sigma: 2.3645183394860116
+norm -3.2816899967237845
+it  933  x_num: 71  x_cov: 70  y_num: 67  y_cov: 67  sigma: 2.3645183394860116
+norm 2.433218788415214
+it  934  x_num: 71  x_cov: 70  y_num: 73  y_cov: 71  sigma: 2.3645183394860116
+norm 1.590987889021287
+it  935  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 2.3645183394860116
+norm 2.0777900405242313
+it  936  x_num: 71  x_cov: 70  y_num: 73  y_cov: 71  sigma: 2.3645183394860116
+norm 0.21357323936476552
+it  937  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 2.3645183394860116
+norm 0.6894567685635262
+it  938  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 2.3645183394860116
+norm 3.866115224177126
+it  939  x_num: 71  x_cov: 70  y_num: 74  y_cov: 72  sigma: 2.3645183394860116
+norm -0.3857378030267456
+it  940  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 2.3645183394860116
+norm 1.2353621906482395
+it  941  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 2.3645183394860116
+norm -3.1731957883908333
+it  942  x_num: 71  x_cov: 70  y_num: 67  y_cov: 67  sigma: 2.3645183394860116
+norm 1.7443950006775961
+it  943  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 2.3645183394860116
+norm -0.8136087985692589
+it  944  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 2.3645183394860116
+norm -2.422093628035915
+it  945  x_num: 71  x_cov: 70  y_num: 68  y_cov: 67  sigma: 2.3645183394860116
+norm 2.3915422455731634
+it  946  x_num: 71  x_cov: 70  y_num: 73  y_cov: 71  sigma: 2.230677678760388
+norm 1.2039174927450413
+it  947  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 2.230677678760388
+norm 0.16999459352787186
+it  948  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 2.230677678760388
+norm -2.2219244546730548
+it  949  x_num: 71  x_cov: 70  y_num: 68  y_cov: 67  sigma: 2.230677678760388
+norm 1.0703865560201729
+it  950  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 2.230677678760388
+norm -0.24495730464090987
+it  951  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 2.230677678760388
+norm -0.18291201199845994
+it  952  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 2.230677678760388
+norm 1.1559618515108663
+it  953  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 2.230677678760388
+norm -1.4895031359253978
+it  954  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 2.230677678760388
+norm 1.941377333262875
+it  955  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 2.230677678760388
+norm -0.22018295596993032
+it  956  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 2.230677678760388
+norm -1.0101897240912703
+it  957  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 2.230677678760388
+norm -4.262526579535703
+it  958  x_num: 71  x_cov: 70  y_num: 66  y_cov: 66  sigma: 2.230677678760388
+norm 5.714595855927204
+it  959  x_num: 71  x_cov: 70  y_num: 76  y_cov: 73  sigma: 2.230677678760388
+norm -0.5960599989979535
+it  960  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 2.230677678760388
+norm -2.7673499568644724
+it  961  x_num: 71  x_cov: 70  y_num: 68  y_cov: 67  sigma: 2.104412904490932
+norm 0.16742939583155605
+it  962  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 2.104412904490932
+norm 3.6256698891323214
+it  963  x_num: 71  x_cov: 70  y_num: 74  y_cov: 72  sigma: 2.104412904490932
+norm -0.34058499183041385
+it  964  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 2.104412904490932
+norm -1.7536561364839776
+it  965  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 2.104412904490932
+norm 3.844762802045697
+it  966  x_num: 71  x_cov: 70  y_num: 74  y_cov: 72  sigma: 2.104412904490932
+norm 2.360233902246893
+it  967  x_num: 71  x_cov: 70  y_num: 73  y_cov: 71  sigma: 2.104412904490932
+norm 4.685978666121317
+it  968  x_num: 71  x_cov: 70  y_num: 75  y_cov: 72  sigma: 2.104412904490932
+norm 1.9591260001738862
+it  969  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 2.104412904490932
+norm 1.0310938391796656
+it  970  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 2.104412904490932
+norm 0.7718189524528212
+it  971  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 2.104412904490932
+norm -3.2372236157852607
+it  972  x_num: 71  x_cov: 70  y_num: 67  y_cov: 67  sigma: 2.104412904490932
+norm 1.406916302265013
+it  973  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 2.104412904490932
+norm -2.800221292332866
+it  974  x_num: 71  x_cov: 70  y_num: 68  y_cov: 67  sigma: 2.104412904490932
+norm 0.7017111182863968
+it  975  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 2.104412904490932
+norm 0.5665753942393291
+it  976  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 1.9852951929159732
+norm 1.370690277858231
+it  977  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 1.9852951929159732
+norm -1.3296179189389306
+it  978  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 1.9852951929159732
+norm 3.180682698001145
+it  979  x_num: 71  x_cov: 70  y_num: 74  y_cov: 72  sigma: 1.9852951929159732
+norm -0.725754145160994
+it  980  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 1.9852951929159732
+norm -0.13426017151819228
+it  981  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 1.9852951929159732
+norm 0.4504994445006968
+it  982  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 1.9852951929159732
+norm 1.1925031983602847
+it  983  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 1.9852951929159732
+norm -0.02243285532280438
+it  984  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 1.9852951929159732
+norm 2.8428624510812077
+it  985  x_num: 71  x_cov: 70  y_num: 73  y_cov: 71  sigma: 1.9852951929159732
+norm -1.2624406774047912
+it  986  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 1.9852951929159732
+norm -0.3181320755445934
+it  987  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 1.9852951929159732
+norm 0.6177549962170255
+it  988  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 1.9852951929159732
+norm -4.215756138372012
+it  989  x_num: 71  x_cov: 70  y_num: 66  y_cov: 66  sigma: 1.9852951929159732
+norm -1.7033937781015076
+it  990  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 1.9852951929159732
+norm 0.3937334005459266
+it  991  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 1.8729199933169556
+norm -2.0704494100646
+it  992  x_num: 71  x_cov: 70  y_num: 68  y_cov: 68  sigma: 1.8729199933169556
+norm 0.4552733615738419
+it  993  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 1.8729199933169556
+norm 3.4148796640280112
+it  994  x_num: 71  x_cov: 70  y_num: 74  y_cov: 72  sigma: 1.8729199933169556
+norm 1.5442590842120516
+it  995  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 1.8729199933169556
+norm -1.1055757001158926
+it  996  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 1.8729199933169556
+norm -0.3629461206883228
+it  997  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 1.8729199933169556
+norm 0.8159214376618811
+it  998  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 1.8729199933169556
+norm -3.8060887034990962
+it  999  x_num: 71  x_cov: 70  y_num: 67  y_cov: 67  sigma: 1.8729199933169556
+norm 2.2127921231551024
+it  1000  x_num: 71  x_cov: 70  y_num: 73  y_cov: 71  sigma: 1.8729199933169556
+norm -4.343696110104186
+it  1001  x_num: 71  x_cov: 70  y_num: 66  y_cov: 66  sigma: 1.8729199933169556
+norm 0.7888263696283994
+it  1002  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 1.8729199933169556
+norm 0.8172225244176133
+it  1003  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 1.8729199933169556
+norm -0.243564240092261
+it  1004  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 1.8729199933169556
+norm 0.2641575278163202
+it  1005  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 1.8729199933169556
+norm 1.6884149263701795
+it  1006  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 1.7669056540725994
+norm -0.7261664152131911
+it  1007  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 1.7669056540725994
+norm -3.449812670399118
+it  1008  x_num: 71  x_cov: 70  y_num: 67  y_cov: 67  sigma: 1.7669056540725994
+norm -0.921673710120687
+it  1009  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 1.7669056540725994
+norm 0.2037639431115845
+it  1010  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 1.7669056540725994
+norm 2.589789080776354
+it  1011  x_num: 71  x_cov: 70  y_num: 73  y_cov: 71  sigma: 1.7669056540725994
+norm 0.6679240458602526
+it  1012  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 1.7669056540725994
+norm 0.005360623503576355
+it  1013  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 1.7669056540725994
+norm -0.09257094642532374
+it  1014  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 1.7669056540725994
+norm -0.6401806937723366
+it  1015  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 1.7669056540725994
+norm -1.9398801998253616
+it  1016  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 1.7669056540725994
+norm 0.8378069116164657
+it  1017  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 1.7669056540725994
+norm 0.5785124048586677
+it  1018  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 1.7669056540725994
+norm -0.7167031587844679
+it  1019  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 1.7669056540725994
+norm -0.8100418035923955
+it  1020  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 1.7669056540725994
+norm -0.9446625369957211
+it  1021  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 1.666892126483584
+norm -0.3297192998539648
+it  1022  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 1.666892126483584
+norm 1.7789084739860535
+it  1023  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 1.666892126483584
+norm -0.1653873424428778
+it  1024  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 1.666892126483584
+norm -1.4804489882291265
+it  1025  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 1.666892126483584
+norm 1.497291431102284
+it  1026  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 1.666892126483584
+norm 2.2028499869683857
+it  1027  x_num: 71  x_cov: 70  y_num: 73  y_cov: 71  sigma: 1.666892126483584
+norm 0.8342539265298208
+it  1028  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 1.666892126483584
+norm -0.8354237989446203
+it  1029  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 1.666892126483584
+norm -1.6693918395662957
+it  1030  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 1.666892126483584
+norm -0.4928628761732939
+it  1031  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 1.666892126483584
+norm -2.591581403269658
+it  1032  x_num: 71  x_cov: 70  y_num: 68  y_cov: 67  sigma: 1.666892126483584
+norm -0.39468966885171997
+it  1033  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 1.666892126483584
+norm 1.0761969034437022
+it  1034  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 1.666892126483584
+norm -1.3098729866112266
+it  1035  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 1.666892126483584
+norm 3.915587584157901
+it  1036  x_num: 71  x_cov: 70  y_num: 74  y_cov: 72  sigma: 1.5725397419656453
+norm 1.363232325219293
+it  1037  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 1.5725397419656453
+norm 3.1177170083503443
+it  1038  x_num: 71  x_cov: 70  y_num: 74  y_cov: 72  sigma: 1.5725397419656453
+norm 0.7155417982759179
+it  1039  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 1.5725397419656453
+norm 0.6496822299117924
+it  1040  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 1.5725397419656453
+norm -0.7453257410799718
+it  1041  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 1.5725397419656453
+norm -0.29830610688469106
+it  1042  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 1.5725397419656453
+norm 0.44662644508567323
+it  1043  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 1.5725397419656453
+norm -0.2205537893974096
+it  1044  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 1.5725397419656453
+norm -1.064735835487415
+it  1045  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 1.5725397419656453
+norm -1.9692774333190999
+it  1046  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 1.5725397419656453
+norm 0.21826864158640677
+it  1047  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 1.5725397419656453
+norm 1.8295161328022187
+it  1048  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 1.5725397419656453
+norm -0.71709708681689
+it  1049  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 1.5725397419656453
+norm 0.5995819486995538
+it  1050  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 1.5725397419656453
+norm 0.23342230255397065
+it  1051  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 1.4835280584581558
+norm -0.050491345509642765
+it  1052  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 1.4835280584581558
+norm 2.90245143408321
+it  1053  x_num: 71  x_cov: 70  y_num: 73  y_cov: 71  sigma: 1.4835280584581558
+norm -1.9845049802933616
+it  1054  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 1.4835280584581558
+norm 1.7073151750350188
+it  1055  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 1.4835280584581558
+norm -0.2585687195583226
+it  1056  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 1.4835280584581558
+norm -1.401301365867075
+it  1057  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 1.4835280584581558
+norm -0.17786289112700066
+it  1058  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 1.4835280584581558
+norm 0.7225989829219641
+it  1059  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 1.4835280584581558
+norm 0.4968120523562087
+it  1060  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 1.4835280584581558
+norm 0.30005006118530686
+it  1061  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 1.4835280584581558
+norm 0.29486397513763046
+it  1062  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 1.4835280584581558
+norm 2.124614029017545
+it  1063  x_num: 71  x_cov: 70  y_num: 73  y_cov: 71  sigma: 1.4835280584581558
+norm -1.3027810028705005
+it  1064  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 1.4835280584581558
+norm 1.5184771742930372
+it  1065  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 1.4835280584581558
+norm 0.09708382133436891
+it  1066  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 1.3995547721303356
+norm 1.177147773620413
+it  1067  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 1.3995547721303356
+norm -0.5820830294573089
+it  1068  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 1.3995547721303356
+norm 1.4926178587375074
+it  1069  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 1.3995547721303356
+norm 0.06271564820811582
+it  1070  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 1.3995547721303356
+norm -1.0182487430976153
+it  1071  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 1.3995547721303356
+norm 0.43171498271720776
+it  1072  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 1.3995547721303356
+norm -0.0722544642997489
+it  1073  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 1.3995547721303356
+norm 0.6551287690378337
+it  1074  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 1.3995547721303356
+norm 0.8801804308653068
+it  1075  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 1.3995547721303356
+norm -3.2306832031544377
+it  1076  x_num: 71  x_cov: 70  y_num: 67  y_cov: 67  sigma: 1.3995547721303356
+norm -0.2838866994903632
+it  1077  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 1.3995547721303356
+norm 1.2692629250482403
+it  1078  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 1.3995547721303356
+norm -0.7924796557094217
+it  1079  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 1.3995547721303356
+norm 0.13036718369795627
+it  1080  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 1.3995547721303356
+norm -1.209938841950017
+it  1081  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 1.3203346906889957
+norm -0.9678324766430374
+it  1082  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 1.3203346906889957
+norm -0.17441835448604795
+it  1083  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 1.3203346906889957
+norm -0.38051038474351667
+it  1084  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 1.3203346906889957
+norm 2.3988930883291086
+it  1085  x_num: 71  x_cov: 70  y_num: 73  y_cov: 71  sigma: 1.3203346906889957
+norm 0.4314822582303494
+it  1086  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 1.3203346906889957
+norm -0.7787411086062377
+it  1087  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 1.3203346906889957
+norm 1.5115302195579243
+it  1088  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 1.3203346906889957
+norm -1.9720275474525675
+it  1089  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 1.3203346906889957
+norm 0.46574766508854554
+it  1090  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 1.3203346906889957
+norm 0.8300785194343925
+it  1091  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 1.3203346906889957
+norm -2.398118126920432
+it  1092  x_num: 71  x_cov: 70  y_num: 68  y_cov: 67  sigma: 1.3203346906889957
+norm -0.23723450668491602
+it  1093  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 1.3203346906889957
+norm -1.1542935047861929
+it  1094  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 1.3203346906889957
+norm -0.6235519055775609
+it  1095  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 1.3203346906889957
+norm 0.623674212106645
+it  1096  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 1.2455987648009392
+norm 0.9559815163836916
+it  1097  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 1.2455987648009392
+norm -1.871113598774436
+it  1098  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 1.2455987648009392
+norm -0.43042115170904166
+it  1099  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 1.2455987648009392
+norm 1.3671429705426763
+it  1100  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 1.2455987648009392
+norm -1.036812103012055
+it  1101  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 1.2455987648009392
+norm 1.3653519649428758
+it  1102  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 1.2455987648009392
+norm -0.4156560741766255
+it  1103  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 1.2455987648009392
+norm -0.9626292163680864
+it  1104  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 1.2455987648009392
+norm 0.19268142774525748
+it  1105  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 1.2455987648009392
+norm -0.25447426830275505
+it  1106  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 1.2455987648009392
+norm -1.3022125260651416
+it  1107  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 1.2455987648009392
+norm 0.46127263266904484
+it  1108  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 1.2455987648009392
+norm -0.5253931813453016
+it  1109  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 1.2455987648009392
+norm 0.7468126115362297
+it  1110  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 1.2455987648009392
+norm 1.6921099458186573
+it  1111  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 1.1750931743405086
+norm 0.23332616840343587
+it  1112  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 1.1750931743405086
+norm -0.21851108471054909
+it  1113  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 1.1750931743405086
+norm 0.5102078414687253
+it  1114  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 1.1750931743405086
+norm 0.6606532022518451
+it  1115  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 1.1750931743405086
+norm -0.7778885833069219
+it  1116  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 1.1750931743405086
+norm 0.876134759266409
+it  1117  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 1.1750931743405086
+norm 1.2585710766138543
+it  1118  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 1.1750931743405086
+norm -0.3527236074897628
+it  1119  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 1.1750931743405086
+norm -0.4632530547638343
+it  1120  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 1.1750931743405086
+norm -1.0293318455103968
+it  1121  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 1.1750931743405086
+norm 1.5396572086928104
+it  1122  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 1.1750931743405086
+norm 0.4913983570501195
+it  1123  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 1.1750931743405086
+norm 0.02244267305582693
+it  1124  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 1.1750931743405086
+norm 0.8912737005991339
+it  1125  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 1.1750931743405086
+norm -0.29888411103735874
+it  1126  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 1.1085784663589704
+norm -0.761728375167548
+it  1127  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 1.1085784663589704
+norm -0.7019539441192879
+it  1128  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 1.1085784663589704
+norm -0.5425592983352913
+it  1129  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 1.1085784663589704
+norm -0.8714394693010944
+it  1130  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 1.1085784663589704
+norm -1.0952794975116518
+it  1131  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 1.1085784663589704
+norm 0.4062901027524121
+it  1132  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 1.1085784663589704
+norm 0.06536737508395547
+it  1133  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 1.1085784663589704
+norm 0.9256513862111223
+it  1134  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 1.1085784663589704
+norm 0.7854125154252674
+it  1135  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 1.1085784663589704
+norm 1.0934221109671858
+it  1136  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 1.1085784663589704
+norm -0.7336925516904588
+it  1137  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 1.1085784663589704
+norm -1.1363434396856944
+it  1138  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 1.1085784663589704
+norm 0.8069957118376268
+it  1139  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 1.1085784663589704
+norm 0.3209111597662256
+it  1140  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 1.1085784663589704
+norm -1.4346613440953777
+it  1141  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 1.0458287418480852
+norm -2.972429831310292
+it  1142  x_num: 71  x_cov: 70  y_num: 68  y_cov: 67  sigma: 1.0458287418480852
+norm 1.730185586159427
+it  1143  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 1.0458287418480852
+norm 0.7333665998550244
+it  1144  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 1.0458287418480852
+norm -0.07983725283553782
+it  1145  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 1.0458287418480852
+norm -0.7243904375876988
+it  1146  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 1.0458287418480852
+norm 0.14774105324558065
+it  1147  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 1.0458287418480852
+norm -0.7150487284426611
+it  1148  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 1.0458287418480852
+norm 0.5324006452799189
+it  1149  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 1.0458287418480852
+norm 0.8263377920213651
+it  1150  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 1.0458287418480852
+norm 2.0186615117284106
+it  1151  x_num: 71  x_cov: 70  y_num: 73  y_cov: 71  sigma: 1.0458287418480852
+norm -0.8504251613462325
+it  1152  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 1.0458287418480852
+norm -0.4113487436226911
+it  1153  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 1.0458287418480852
+norm 1.7977444974033026
+it  1154  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 1.0458287418480852
+norm 0.37805808919429645
+it  1155  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 1.0458287418480852
+norm -0.1506975525935566
+it  1156  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.9866308885359293
+norm -1.5792659181895863
+it  1157  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 0.9866308885359293
+norm -0.22277903920406744
+it  1158  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.9866308885359293
+norm 1.8078198189569619
+it  1159  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 0.9866308885359293
+norm -1.3394004234607335
+it  1160  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 0.9866308885359293
+norm -1.233042693582475
+it  1161  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 0.9866308885359293
+norm 0.29397744470665255
+it  1162  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.9866308885359293
+norm -0.021094510609535887
+it  1163  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.9866308885359293
+norm 1.5352631909541452
+it  1164  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 0.9866308885359293
+norm 0.07869003101985382
+it  1165  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.9866308885359293
+norm 0.15128501380045714
+it  1166  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.9866308885359293
+norm -0.9025631062437826
+it  1167  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.9866308885359293
+norm -0.17194658713544814
+it  1168  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.9866308885359293
+norm 0.9029273933959646
+it  1169  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.9866308885359293
+norm 0.6890457383240831
+it  1170  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.9866308885359293
+norm -1.2710378822620105
+it  1171  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 0.9307838571093672
+norm -1.4122808710878598
+it  1172  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 0.9307838571093672
+norm -0.49501474904420656
+it  1173  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.9307838571093672
+norm -0.3961437300748115
+it  1174  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.9307838571093672
+norm -2.632851054492334
+it  1175  x_num: 71  x_cov: 70  y_num: 68  y_cov: 67  sigma: 0.9307838571093672
+norm -0.9226334067709713
+it  1176  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.9307838571093672
+norm -0.9471715037525763
+it  1177  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.9307838571093672
+norm -0.32024265792377904
+it  1178  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.9307838571093672
+norm 1.111750242379531
+it  1179  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 0.9307838571093672
+norm -0.3243808518531754
+it  1180  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.9307838571093672
+norm 0.038012286149306844
+it  1181  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.9307838571093672
+norm -0.1610995625377597
+it  1182  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.9307838571093672
+norm -2.5022437311485133
+it  1183  x_num: 71  x_cov: 70  y_num: 68  y_cov: 67  sigma: 0.9307838571093672
+norm -0.8646401280818065
+it  1184  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.9307838571093672
+norm 0.03472356143122864
+it  1185  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.9307838571093672
+norm -0.09311756946337686
+it  1186  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.8780979784050633
+norm 1.2321421374993886
+it  1187  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 0.8780979784050633
+norm -0.6200565318003489
+it  1188  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.8780979784050633
+norm -1.6069241891696016
+it  1189  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 0.8780979784050633
+norm -1.033388874088821
+it  1190  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 0.8780979784050633
+norm 1.378567213117688
+it  1191  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 0.8780979784050633
+norm 0.6929320496486304
+it  1192  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.8780979784050633
+norm -0.018793811769921343
+it  1193  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.8780979784050633
+norm 0.2047305458167088
+it  1194  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.8780979784050633
+norm -0.9022905692222056
+it  1195  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.8780979784050633
+norm 0.6341910153996383
+it  1196  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.8780979784050633
+norm -0.8364716272954043
+it  1197  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.8780979784050633
+norm 1.7050692152559188
+it  1198  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 0.8780979784050633
+norm 0.8018711962717874
+it  1199  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.8780979784050633
+norm 0.482564599985882
+it  1200  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.8780979784050633
+norm -0.0993249371414043
+it  1201  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.8283943192500597
+norm -0.9805273453378801
+it  1202  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.8283943192500597
+norm 0.6653629236641536
+it  1203  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.8283943192500597
+norm -0.09011405381236728
+it  1204  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.8283943192500597
+norm 1.108864568171016
+it  1205  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 0.8283943192500597
+norm -0.7322281899929398
+it  1206  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.8283943192500597
+norm -1.0372814530659094
+it  1207  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 0.8283943192500597
+norm 0.9557787196745325
+it  1208  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.8283943192500597
+norm 0.8450299961854518
+it  1209  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.8283943192500597
+norm -0.08610323775858124
+it  1210  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.8283943192500597
+norm 0.9595657450503653
+it  1211  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.8283943192500597
+norm -0.9566403368096127
+it  1212  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.8283943192500597
+norm 0.3433208470435137
+it  1213  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.8283943192500597
+norm 0.3930941842275236
+it  1214  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.8283943192500597
+norm -0.19950878553785725
+it  1215  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.8283943192500597
+norm -0.05201607126651071
+it  1216  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.7815040747642071
+norm -0.17553173986871168
+it  1217  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.7815040747642071
+norm 0.036168478941373025
+it  1218  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.7815040747642071
+norm 1.1037352492058965
+it  1219  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 0.7815040747642071
+norm -0.15696683909498804
+it  1220  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.7815040747642071
+norm 0.3132866458044657
+it  1221  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.7815040747642071
+norm 0.8455943791644476
+it  1222  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.7815040747642071
+norm 0.09524469546187082
+it  1223  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.7815040747642071
+norm -0.5212249593221364
+it  1224  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.7815040747642071
+norm 0.17788350076473322
+it  1225  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.7815040747642071
+norm 1.147693080695514
+it  1226  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 0.7815040747642071
+norm 0.10455475660675696
+it  1227  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.7815040747642071
+norm -0.07487276681808519
+it  1228  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.7815040747642071
+norm 0.5339556917426336
+it  1229  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.7815040747642071
+norm -2.321174091900241
+it  1230  x_num: 71  x_cov: 70  y_num: 68  y_cov: 67  sigma: 0.7815040747642071
+norm -0.6194035674415459
+it  1231  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.7372679950605727
+norm -0.15577096666223791
+it  1232  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.7372679950605727
+norm -0.09487882075519903
+it  1233  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.7372679950605727
+norm -1.7129507068910972
+it  1234  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 0.7372679950605727
+norm 1.2704422076713513
+it  1235  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 0.7372679950605727
+norm -0.9772561320202288
+it  1236  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.7372679950605727
+norm 1.3841698717568969
+it  1237  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 0.7372679950605727
+norm 0.857960389203502
+it  1238  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.7372679950605727
+norm 0.013757797913868438
+it  1239  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.7372679950605727
+norm 0.9170300203815495
+it  1240  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.7372679950605727
+norm 0.5931431081144631
+it  1241  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.7372679950605727
+norm 0.34733795728241657
+it  1242  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.7372679950605727
+norm -0.24682617278086938
+it  1243  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.7372679950605727
+norm -1.1480895593801765
+it  1244  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 0.7372679950605727
+norm -0.046997895200875744
+it  1245  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.7372679950605727
+norm 0.33966657883144785
+it  1246  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.6955358443967666
+norm 0.5757829429295415
+it  1247  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.6955358443967666
+norm -0.6562209176907582
+it  1248  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.6955358443967666
+norm 0.5539939332456579
+it  1249  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.6955358443967666
+norm -0.6996494225167738
+it  1250  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.6955358443967666
+norm 1.6335416207899203
+it  1251  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 0.6955358443967666
+norm -0.7360613638049145
+it  1252  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.6955358443967666
+norm -0.6465838315707169
+it  1253  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.6955358443967666
+norm 0.5998662322032187
+it  1254  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.6955358443967666
+norm 1.1072391113551716
+it  1255  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 0.6955358443967666
+norm -0.5005058480761103
+it  1256  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.6955358443967666
+norm 0.749311564410519
+it  1257  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.6955358443967666
+norm -0.9954120905101393
+it  1258  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.6955358443967666
+norm -0.8203396602846501
+it  1259  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.6955358443967666
+norm 1.33280481209974
+it  1260  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 0.6955358443967666
+norm -0.04820751840359351
+it  1261  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.6561658909403458
+norm -0.5802519363528412
+it  1262  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.6561658909403458
+norm 0.016255207685303218
+it  1263  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.6561658909403458
+norm 0.7600666288828768
+it  1264  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.6561658909403458
+norm -0.10440386959644422
+it  1265  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.6561658909403458
+norm 0.5892488585848881
+it  1266  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.6561658909403458
+norm 0.1808305578224436
+it  1267  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.6561658909403458
+norm -0.4319854749073692
+it  1268  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.6561658909403458
+norm -0.26306267913434056
+it  1269  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.6561658909403458
+norm 0.5517684910371183
+it  1270  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.6561658909403458
+norm 0.8526467637466608
+it  1271  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.6561658909403458
+norm 0.5200014964894216
+it  1272  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.6561658909403458
+norm -0.7370864334579533
+it  1273  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.6561658909403458
+norm 0.2751607564220087
+it  1274  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.6561658909403458
+norm 0.032924817305888476
+it  1275  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.6561658909403458
+norm -0.5711423848692699
+it  1276  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.6190244254154206
+norm 0.5497715239205534
+it  1277  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.6190244254154206
+norm -0.5151117463859424
+it  1278  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.6190244254154206
+norm 1.1274858034499193
+it  1279  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 0.6190244254154206
+norm 1.7517123057538848
+it  1280  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 0.6190244254154206
+norm 0.48473436799018066
+it  1281  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.6190244254154206
+norm -0.4345542921050007
+it  1282  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.6190244254154206
+norm -0.2826882676697378
+it  1283  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.6190244254154206
+norm 1.1049882121523815
+it  1284  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 0.6190244254154206
+norm -0.5587502461277388
+it  1285  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.6190244254154206
+norm 0.1286668377396439
+it  1286  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.6190244254154206
+norm 0.604595974207294
+it  1287  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.6190244254154206
+norm -0.37417863109376104
+it  1288  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.6190244254154206
+norm -0.21880369370334923
+it  1289  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.6190244254154206
+norm 0.12652021386566184
+it  1290  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.6190244254154206
+norm 0.5427940238141696
+it  1291  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.5839853069956797
+norm -0.40815173211555067
+it  1292  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.5839853069956797
+norm -0.201676570467746
+it  1293  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.5839853069956797
+norm -0.29454274096695615
+it  1294  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.5839853069956797
+norm 0.42401920481246286
+it  1295  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.5839853069956797
+norm -0.682427606172937
+it  1296  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.5839853069956797
+norm 0.2995583716781816
+it  1297  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.5839853069956797
+norm 0.36704236830491566
+it  1298  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.5839853069956797
+norm 0.4819725007395745
+it  1299  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.5839853069956797
+norm 0.005749333103364754
+it  1300  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.5839853069956797
+norm -0.047930723969176255
+it  1301  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.5839853069956797
+norm 0.6242949141990453
+it  1302  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.5839853069956797
+norm -1.0646661139060887
+it  1303  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 0.5839853069956797
+norm -0.1229158196755406
+it  1304  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.5839853069956797
+norm 0.4467883630551547
+it  1305  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.5839853069956797
+norm 0.08181658468073302
+it  1306  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.5509295349015846
+norm 0.1088186076141494
+it  1307  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.5509295349015846
+norm -0.42139830450437776
+it  1308  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.5509295349015846
+norm 0.3279250210258952
+it  1309  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.5509295349015846
+norm 0.5258708964779474
+it  1310  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.5509295349015846
+norm -0.23964410913156878
+it  1311  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.5509295349015846
+norm 0.39749335063892954
+it  1312  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.5509295349015846
+norm 0.6979037668070043
+it  1313  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.5509295349015846
+norm -0.3248015176691541
+it  1314  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.5509295349015846
+norm 1.6947640085679578
+it  1315  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 0.5509295349015846
+norm -0.0034494175851406115
+it  1316  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.5509295349015846
+norm 1.230597324682764
+it  1317  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 0.5509295349015846
+norm 0.2339020733773684
+it  1318  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.5509295349015846
+norm -0.1823340405237137
+it  1319  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.5509295349015846
+norm 0.10543678700200368
+it  1320  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.5509295349015846
+norm -0.5062002360919683
+it  1321  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.5197448442467778
+norm 0.586765987752371
+it  1322  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.5197448442467778
+norm -0.6951635999500945
+it  1323  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.5197448442467778
+norm 0.07778271678770451
+it  1324  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.5197448442467778
+norm -0.5358784815893309
+it  1325  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.5197448442467778
+norm -0.0716126785533147
+it  1326  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.5197448442467778
+norm 0.6446571300061645
+it  1327  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.5197448442467778
+norm -0.23466416344238425
+it  1328  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.5197448442467778
+norm -0.6953614584753727
+it  1329  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.5197448442467778
+norm -0.33534534914812364
+it  1330  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.5197448442467778
+norm 0.2117273191851205
+it  1331  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.5197448442467778
+norm 0.36295133120048007
+it  1332  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.5197448442467778
+norm -0.057242468821360484
+it  1333  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.5197448442467778
+norm 0.044936281435772135
+it  1334  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.5197448442467778
+norm 1.3051490042584928
+it  1335  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 0.5197448442467778
+norm 0.36266795892546094
+it  1336  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.49032532476111107
+norm 0.96705281746951
+it  1337  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.49032532476111107
+norm -0.8456547579560104
+it  1338  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.49032532476111107
+norm -0.8975265153483851
+it  1339  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.49032532476111107
+norm 0.7035000750526388
+it  1340  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.49032532476111107
+norm -0.7674472066677881
+it  1341  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.49032532476111107
+norm 0.08249678086798473
+it  1342  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.49032532476111107
+norm -0.3662654585226933
+it  1343  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.49032532476111107
+norm 0.09719353474984471
+it  1344  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.49032532476111107
+norm -0.45610499197380383
+it  1345  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.49032532476111107
+norm 0.20841317592173494
+it  1346  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.49032532476111107
+norm -0.9581454109336388
+it  1347  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.49032532476111107
+norm 0.17228002339844603
+it  1348  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.49032532476111107
+norm 0.17337256068922716
+it  1349  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.49032532476111107
+norm 0.1992892189847516
+it  1350  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.49032532476111107
+norm -0.19753222572589788
+it  1351  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.46257106109538776
+norm -0.584858829402233
+it  1352  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.46257106109538776
+norm -0.09414807291219744
+it  1353  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.46257106109538776
+norm 0.37427990345584794
+it  1354  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.46257106109538776
+norm 1.0115076352681107
+it  1355  x_num: 71  x_cov: 70  y_num: 72  y_cov: 70  sigma: 0.46257106109538776
+norm -0.5550767291708887
+it  1356  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.46257106109538776
+norm 0.7886624012791312
+it  1357  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.46257106109538776
+norm 0.329935369051513
+it  1358  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.46257106109538776
+norm -0.20736674696772323
+it  1359  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.46257106109538776
+norm -0.7091992892324026
+it  1360  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.46257106109538776
+norm -0.22983659248376348
+it  1361  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.46257106109538776
+norm -0.406477022885688
+it  1362  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.46257106109538776
+norm 0.45068935966454904
+it  1363  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.46257106109538776
+norm -0.15973121951489055
+it  1364  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.46257106109538776
+norm -0.377009497507939
+it  1365  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.46257106109538776
+norm -0.7933692102582872
+it  1366  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.4363877934862148
+norm 0.4902024947591194
+it  1367  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.4363877934862148
+norm -0.6593870576574773
+it  1368  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.4363877934862148
+norm 0.3935165165579809
+it  1369  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.4363877934862148
+norm 0.05318711165022564
+it  1370  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.4363877934862148
+norm 0.07967904085399445
+it  1371  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.4363877934862148
+norm 0.7230397266692249
+it  1372  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.4363877934862148
+norm -0.3325231115117057
+it  1373  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.4363877934862148
+norm -1.3130735874364627
+it  1374  x_num: 71  x_cov: 70  y_num: 69  y_cov: 68  sigma: 0.4363877934862148
+norm 0.3475552256099722
+it  1375  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.4363877934862148
+norm -0.09123803552772074
+it  1376  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.4363877934862148
+norm 0.2367590006423057
+it  1377  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.4363877934862148
+norm -0.31908837131147405
+it  1378  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.4363877934862148
+norm 0.26888758773880855
+it  1379  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.4363877934862148
+norm 0.7038973752504062
+it  1380  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.4363877934862148
+norm -0.10210161188002627
+it  1381  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.4116865976285045
+norm 0.6132079143379685
+it  1382  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.4116865976285045
+norm 0.5185037330516222
+it  1383  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.4116865976285045
+norm 0.10214750663570654
+it  1384  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.4116865976285045
+norm 0.3236586516867315
+it  1385  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.4116865976285045
+norm -0.6232225967638112
+it  1386  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.4116865976285045
+norm 0.04650667284612852
+it  1387  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.4116865976285045
+norm -0.21464682943892913
+it  1388  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.4116865976285045
+norm -0.09967835730481744
+it  1389  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.4116865976285045
+norm -0.06111002707818534
+it  1390  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.4116865976285045
+norm 0.47347713703215966
+it  1391  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.4116865976285045
+norm 0.5831970440041252
+it  1392  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.4116865976285045
+norm 0.07856721830164307
+it  1393  x_num: 71  x_cov: 70  y_num: 71  y_cov: 70  sigma: 0.4116865976285045
+norm -0.06822254072272209
+it  1394  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.4116865976285045
+norm -0.025295697284736785
+it  1395  x_num: 71  x_cov: 70  y_num: 70  y_cov: 69  sigma: 0.4116865976285045
+Pokrycie tryskaczy wynosi 70.241%
+Ilosc tryskaczy = 71
+Czas : 6864.9269692
+
+Process finished with exit code 0

@@ -29,7 +29,7 @@ def alg(width, height, radius, min_coverage, precision, rest_areas):
     coverage = 0  # Coverage of current x <0, 100>
     i = 0  # Number of iterations
     sigma = round(whole_area / (4 * radius))
-    sigma_min = 0.1
+    sigma_min = 0.4
     x_changed = True  # Whether calc x_area - do not have to if x didn't change
 
     while coverage < min_coverage or sigma > sigma_min:

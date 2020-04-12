@@ -74,7 +74,7 @@ class Member:
             self.circles.append((x, y, self.radius))
 
         # Mutate every 5th circle
-        if self.number != (self.width-1)*(self.height-1) - self.forbidden_nr:
+        if self.number != (self.width - 1) * (self.height - 1) - self.forbidden_nr:
             for i in range(0, self.number, 5):
                 mutual_area = self.calculate_mutual_area(True)
                 circle_key_old = max(mutual_area, key=lambda k: mutual_area[k])
@@ -83,7 +83,7 @@ class Member:
 
                 self.circles.remove((x_old, y_old, self.radius))
                 self.fill_matrix[x_old - 1, y_old - 1] = Element.Empty
-
+            for i in range(0, self.number, 5):
                 mutual_area = self.calculate_mutual_area(False)
                 circle_key_new = max(mutual_area, key=lambda k: mutual_area[k])
                 x_new = circle_key_new[0]
@@ -107,6 +107,7 @@ class Member:
                     if x_j == x_i and y_i == y_j:
                         continue
                     area = area + IntersectArea.intersect_area((x_i, y_i, self.radius), (x_j, y_j, self.radius))
+                area = area + IntersectArea.void_area((x_i, y_i, self.radius), self.width, self.height, self.rest_areas)
                 mutual_area.update({(x_i, y_i, self.radius): area})
                 area = 0
         else:
@@ -117,9 +118,9 @@ class Member:
                     x_j = taken_fields[0][j] + 1
                     y_j = taken_fields[1][j] + 1
                     area = area + IntersectArea.intersect_area((x_i, y_i, self.radius), (x_j, y_j, self.radius))
-                cover_area = (np.pi * self.radius * self.radius) - IntersectArea.void_area((x_i, y_i, self.radius),
-                                                                                           self.width,
-                                                                                           self.height, self.rest_areas) - area
+                cover_area = (np.pi * self.radius * self.radius) \
+                             - IntersectArea.void_area((x_i, y_i, self.radius), self.width, self.height,
+                                                       self.rest_areas) - area
                 mutual_area.update({(x_i, y_i, self.radius): cover_area})
                 area = 0
         return mutual_area

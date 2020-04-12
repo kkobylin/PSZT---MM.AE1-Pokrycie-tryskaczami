@@ -87,7 +87,7 @@ def void_area(circle, width, height, rest_areas):
             triangle = r * r * np.sin(angle) / 2
             void = slice_of_circle - triangle
     for (x_min, x_max, y_min, y_max) in rest_areas:
-        void = void + circle_rectangle_intersection_area(x-1, y-1, r, x_min, x_max, y_min, y_max)
+        void = void + circle_rectangle_intersection_area(x, y, r, x_min, x_max, y_min, y_max)
     return void
 
 
