@@ -1,4 +1,4 @@
-input = fopen('input.txt', 'r');
+input = fopen('inputtest.txt', 'r');
 for i = 1:4
     param = fgets(input);
     eval(param);
@@ -12,13 +12,13 @@ param  = strrep(param, ')', ']');
 eval(param);
 
 fclose(input);
-rectangle('Position', [0 0 width height]);
-axis([0-radius, width+radius, 0-radius, height+radius]);
-grid on;
 for i = 1:size(rest_area, 2)
     rectangle('Position', [rest_area{i}(1) rest_area{i}(3) rest_area{i}(2)-rest_area{i}(1) rest_area{i}(4)-rest_area{i}(3)], 'FaceColor', [0.749, 0.749, 0.749], 'EdgeColor', [0.749, 0.749, 0.749]);
 end
-output = fopen('output.txt', 'r');
+rectangle('Position', [0 0 width height]);
+axis([0-radius, width+radius, 0-radius, height+radius]);
+grid on;
+output = fopen('outputtest.txt', 'r');
 while ~feof(output)
     circles = fgets(output);
     eval(circles);
