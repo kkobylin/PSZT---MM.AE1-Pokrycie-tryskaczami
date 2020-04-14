@@ -30,7 +30,9 @@ class Member:
         if add_circles:
             pts_nr = (self.width - 1) * (self.height - 1) - self.forbidden_nr
             # randint(a, b) - random between <a, b)
-            self.number = randint(pts_nr / 2, pts_nr + 1)
+            # todo
+            # self.number = randint(pts_nr / 2, pts_nr + 1)
+            self.number = randint(round(pts_nr * 0.05), round(pts_nr * 0.15))
 
             for i in range(self.number):
                 empty_fields = np.where(self.fill_matrix == Element.Empty)

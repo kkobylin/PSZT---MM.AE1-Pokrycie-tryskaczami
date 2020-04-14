@@ -1,0 +1,17 @@
+circle(10, 1, 1.0);
+circle(5, 4, 1.0);
+circle(7, 1, 1.0);
+circle(2, 4, 1.0);
+circle(2, 1, 1.0);
+circle(6, 2, 1.0);
+circle(8, 4, 1.0);
+circle(15, 1, 1.0);
+circle(12, 4, 1.0);
+circle(10, 4, 1.0);
+circle(15, 4, 1.0);
+circle(4, 1, 1.0);
+circle(13, 1, 1.0);
+circle(1, 2, 1.0);
+circle(11, 2, 1.0);
+circle(1, 4, 1.0);
+circle(6, 4, 1.0);

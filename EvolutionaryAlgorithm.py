@@ -18,17 +18,18 @@ def alg(width, height, radius, min_coverage, precision, rest_areas):
         if current_coverage >= min_coverage:
             return 1/number * current_coverage ** (1 / 4)
         else:
-            return (current_coverage - min_coverage) * number ** (1 / 3)
+            # return (current_coverage - min_coverage) * number ** (1 / 3)
+            return current_coverage - min_coverage
     x = Member.Member()  # First member
     x_area = IntersectArea.area_scan(precision, x.circles.copy(), width, height, rest_areas)
     # Parameters declarations
-    m = 15
-    c2 = 1.06
+    m = 10
+    c2 = 1.1
     c1 = 1 / c2
     fi = 0  # Number of chose y in the last m iterations
     coverage = 0  # Coverage of current x <0, 100>
     i = 0  # Number of iterations
-    sigma = round(whole_area / (4 * radius))
+    sigma = round((width + height) / 8)
     sigma_min = 0.4
     x_changed = True  # Whether calc x_area - do not have to if x didn't change
 
