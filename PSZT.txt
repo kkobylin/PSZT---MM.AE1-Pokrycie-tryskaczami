@@ -1,5 +1,0 @@
-1. Zmienić liczbę tryskaczy pierwszego osobnika
-2. Przeorbić areascan, żeby brał pod uwagę ograniczenia.
-3. W osobnikach poprawić macierz na trzywartościową wolne/tryskacz/ściana
-4. Zmienić dane wejściowe
-5. Zmienić mutację, żeby sprawdzać, które kółka lepiej usunąć, przesunąć na podstawie nakładania się.
