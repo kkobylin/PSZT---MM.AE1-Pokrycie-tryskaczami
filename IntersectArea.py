@@ -2,6 +2,7 @@ from math import floor, ceil, sqrt
 import numpy as np
 
 
+# intersect of two circles
 def intersect_area(first, second):
     d = np.sqrt((second[0] - first[0]) * (second[0] - first[0]) + (second[1] - first[1]) * (second[1] - first[1]))
     if d < (first[2] + second[2]) and d != 0:
@@ -18,12 +19,13 @@ def intersect_area(first, second):
     return 0
 
 
+# calculate real coverage
 def void_area(circle, width, height, rest_areas):
     void = 0
     x = circle[0]
     y = circle[1]
     r = circle[2]
-    # dla kółek na rogach
+    # circles in the corner
     if (x + r > width and y + r > height) or (x - r < 0 and y + r > height) or (x - r < 0 and y - r < 0) \
             or (x + r > width and y - r < 0):
         cos_first = cos_second = cos_third = cos_fourth = arm = 0
@@ -67,7 +69,7 @@ def void_area(circle, width, height, rest_areas):
 
         void = void_first + void_second
     else:
-        # dla kółek na brzegach
+        # circle in the egde
         if x + r > width or x - r < 0 or y + r > height or y - r < 0:
             half_cos = 0
             if x + r > width:
@@ -161,9 +163,9 @@ def area_scan(precision, circles, width, height, rest_areas):
         if 0 <= y < height:
             right = -float("inf")
 
-            for (x0, x1) in sorted(sect(cx, cy, r, y)   # liczymy zasieg x0-x1 dla danego y dla kazdego kolka
+            for (x0, x1) in sorted(sect(cx, cy, r, y)
                                    for (cx, cy, r) in circles
-                                   if abs(y - cy) < r):  # tylko te kolka ktore siegaja do danego y
+                                   if abs(y - cy) < r):
                 if x0 < 0:
                     x0 = 0
                 if x1 > width:
@@ -176,20 +178,14 @@ def area_scan(precision, circles, width, height, rest_areas):
                 obstacle_section = 0  # section to subtract from score
                 for (x_min, x_max, y_min, y_max) in rest_areas:
                     if y_min <= y <= y_max:
-                        # 4 przypadki:
-                        # 1: x0 wchodzi na restricted area
-                        # 2: x1 wchodzi na restricted area
-                        # 3: restricted area zawiera sie pomiedzy x0 i x1
-                        # 4: x0 i x1 zawiera sie w restricted area
-                        if x0 >= x_min and x1 <= x_max:  # 4
+                        if x0 >= x_min and x1 <= x_max:
                             continue_flag = True
                             break
-                        elif x_min >= x0 and x_max <= x1:  # 3
-                            # todo moze byc wiele restricted area w ramach jednego kolka
+                        elif x_min >= x0 and x_max <= x1:
                             obstacle_section += (x_max - x_min)
-                        elif x_min <= x1 <= x_max:  # 2
+                        elif x_min <= x1 <= x_max:
                             x1 = x_min
-                        elif x_min <= x0 <= x_max:  # 1
+                        elif x_min <= x0 <= x_max:
                             x0 = x_max
                 if continue_flag:
                     continue

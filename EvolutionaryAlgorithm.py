@@ -18,7 +18,6 @@ def alg(width, height, radius, min_coverage, precision, rest_areas):
         if current_coverage >= min_coverage:
             return 1/number * current_coverage ** (1 / 4)
         else:
-            # return (current_coverage - min_coverage) * number ** (1 / 3)
             return current_coverage - min_coverage
     x = Member.Member()  # First member
     x_area = IntersectArea.area_scan(precision, x.circles.copy(), width, height, rest_areas)
@@ -43,7 +42,7 @@ def alg(width, height, radius, min_coverage, precision, rest_areas):
         y_area = IntersectArea.area_scan(precision, y.circles.copy(), width, height, rest_areas)
         x_rate = objective_function(x_area, x.number)
         y_rate = objective_function(y_area, y.number)
-        print("it ", i, " x_num:", x.number, " x_cov:", int(x_area / whole_area * 100), " y_num:",
+        print("it:", i, " x_num:", x.number, " x_cov:", int(x_area / whole_area * 100), " y_num:",
               y.number, " y_cov:", int(y_area / whole_area * 100), " sigma:", sigma)
         if y_rate > x_rate:
             fi = fi + 1

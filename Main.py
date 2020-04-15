@@ -18,7 +18,6 @@ def main():
     params = load_params()
     width = int(params[0])
     height = int(params[1])
-    # todo moze radius jako double?
     radius = float(params[2])
     min_coverage = int(params[3])
     rest_areas = eval("[%s]" % params[4])  # restriction areas

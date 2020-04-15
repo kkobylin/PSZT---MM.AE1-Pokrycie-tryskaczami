@@ -30,8 +30,6 @@ class Member:
         if add_circles:
             pts_nr = (self.width - 1) * (self.height - 1) - self.forbidden_nr
             # randint(a, b) - random between <a, b)
-            # todo
-            # self.number = randint(pts_nr / 2, pts_nr + 1)
             self.number = randint(round(pts_nr * 0.05), round(pts_nr * 0.15))
 
             for i in range(self.number):
@@ -50,7 +48,6 @@ class Member:
         output.close()
 
     def mutate(self, other, mutation):
-        # mutation = other.number * norm  # mutation can be positive and negative
         print("norm", mutation)
         # Mutate number of circles
         self.number = int(other.number + mutation)  # change number of sprinklers

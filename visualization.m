@@ -1,4 +1,4 @@
-path = "results/6/";
+path = "./";
 input = fopen(sprintf("%sinput.txt", path), 'r');
 for i = 1:4
     param = fgets(input);
