@@ -1,4 +1,4 @@
-path = "./";
+path = "./results/1/";
 input = fopen(sprintf("%sinput.txt", path), 'r');
 for i = 1:4
     param = fgets(input);
@@ -13,13 +13,14 @@ param  = strrep(param, ')', ']');
 eval(param);
 
 fclose(input);
+figure;
 for i = 1:size(rest_area, 2)
     rectangle('Position', [rest_area{i}(1) rest_area{i}(3) rest_area{i}(2)-rest_area{i}(1) rest_area{i}(4)-rest_area{i}(3)], 'FaceColor', [0.749, 0.749, 0.749], 'EdgeColor', [0.749, 0.749, 0.749]);
 end
 rectangle('Position', [0 0 width height]);
 axis([0-radius, width+radius, 0-radius, height+radius]);
 grid on;
-output = fopen(sprintf("%soutput.txt", path), 'r');
+output = fopen(sprintf("%soutput6.txt", path), 'r');
 while ~feof(output)
     circles = fgets(output);
     eval(circles);
