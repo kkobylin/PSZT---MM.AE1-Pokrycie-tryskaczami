@@ -1,4 +1,4 @@
-# PSZT---MM.AE1-Pokrycie-tryskaczami
+# Optimize sprinklers locations
 Application, which optimize locations of sprinklers on the given area, using evolutionary algorithm.
 
 ## How to use
